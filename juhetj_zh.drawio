@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T12:56:22.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Njf8lLx5K8C4eRhtv_-h" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T13:36:35.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0MvlpeTIaWzydpIpLmt4" version="14.0.4" type="github">
   <diagram id="tJpFBTTWijO7pAiVNljU" name="Page-1">
     <mxGraphModel dx="940" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="Qj7UFVG9fa0UXzcEhCF3-15" value="短期行为画像召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="295" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-16" value="u2tag召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-16" value="u2query召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="333" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qj7UFVG9fa0UXzcEhCF3-17" value="GAT模型召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
