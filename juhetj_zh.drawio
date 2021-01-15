@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T13:36:35.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0MvlpeTIaWzydpIpLmt4" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T13:00:09.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="K11bXRZefM0CDlRsx-us" version="14.0.4" type="github">
   <diagram id="tJpFBTTWijO7pAiVNljU" name="Page-1">
     <mxGraphModel dx="940" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,16 +19,16 @@
         <mxCell id="Qj7UFVG9fa0UXzcEhCF3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.884;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qj7UFVG9fa0UXzcEhCF3-4" target="Qj7UFVG9fa0UXzcEhCF3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-4" value="召回模块" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=4" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-4" value="召回模块 --- 整合为用户的tag-preference特征的计算" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="160" y="190" width="560" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-10" value="离线召回" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#d6b656;fillColor=#FFF8E8;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-10" value="离线召回 --- 默认值计算" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#d6b656;fillColor=#FFF8E8;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-11" value="在线召回" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#82b366;fillColor=#DFE8DF;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-11" value="在线召回 --- tag-preference计算" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#82b366;fillColor=#DFE8DF;" vertex="1" parent="1">
           <mxGeometry x="480" y="220" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-12" value="热门召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-12" value="热门召回&lt;br&gt;(tag-preference默认)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="255" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qj7UFVG9fa0UXzcEhCF3-13" value="相似召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -40,11 +40,14 @@
         <mxCell id="Qj7UFVG9fa0UXzcEhCF3-15" value="短期行为画像召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="295" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-16" value="u2query召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-16" value="u2tag召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="333" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qj7UFVG9fa0UXzcEhCF3-17" value="GAT模型召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="600" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
