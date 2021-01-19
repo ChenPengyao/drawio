@@ -1,52 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T13:00:09.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="K11bXRZefM0CDlRsx-us" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T08:50:31.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="-oEEpYy-L8cbGMSSX1-c" version="14.2.3" type="github">
   <diagram id="tJpFBTTWijO7pAiVNljU" name="Page-1">
     <mxGraphModel dx="940" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-1" value="FEED聚合推荐流程图" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=4;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-1" value="FEED聚合推荐流程图" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=4;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="90" y="70" width="690" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.116;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qj7UFVG9fa0UXzcEhCF3-2" target="Qj7UFVG9fa0UXzcEhCF3-4">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.116;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Qj7UFVG9fa0UXzcEhCF3-2" target="Qj7UFVG9fa0UXzcEhCF3-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-2" value="聚合单位产出模块" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=4" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-2" value="聚合单位产出模块" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="160" y="110" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-3" value="多形态混排模块" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=4" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-3" value="多形态混排模块" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="590" y="110" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.884;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qj7UFVG9fa0UXzcEhCF3-4" target="Qj7UFVG9fa0UXzcEhCF3-3">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.884;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Qj7UFVG9fa0UXzcEhCF3-4" target="Qj7UFVG9fa0UXzcEhCF3-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-4" value="召回模块 --- 整合为用户的tag-preference特征的计算" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=4" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-4" value="召回模块 --- 整合为用户的card-preference特征的计算" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="160" y="190" width="560" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-10" value="离线召回 --- 默认值计算" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#d6b656;fillColor=#FFF8E8;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-10" value="离线召回 --- 默认值计算" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#d6b656;fillColor=#FFF8E8;" parent="1" vertex="1">
           <mxGeometry x="200" y="220" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-11" value="在线召回 --- tag-preference计算" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#82b366;fillColor=#DFE8DF;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-11" value="在线召回 --- card-preference计算" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#82b366;fillColor=#DFE8DF;" parent="1" vertex="1">
           <mxGeometry x="480" y="220" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-12" value="热门召回&lt;br&gt;(tag-preference默认)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-12" value="热门召回&lt;br&gt;(card-preference默认)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="255" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-13" value="相似召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-13" value="相似召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="295" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-14" value="长期行为画像召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-14" value="长期行为画像召回" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="255" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-15" value="短期行为画像召回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-15" value="短期行为画像召回" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="295" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-16" value="u2tag召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-16" value="u2card召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="333" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-17" value="GAT模型召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-17" value="GAT模型召回 -- 待定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qj7UFVG9fa0UXzcEhCF3-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="600" width="600" height="480" as="geometry" />
         </mxCell>
       </root>
