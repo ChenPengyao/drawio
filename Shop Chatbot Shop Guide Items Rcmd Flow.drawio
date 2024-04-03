@@ -1,17 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T09:04:57.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="YFfOEeeEWeCVT-S8qB32" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-03T09:23:42.519Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="F7Y4eU5otBwRTJR60H88" version="24.2.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="1217" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1063" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9Mt_UHoBYVk0HlZjvmKg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="160" width="980" height="560" as="geometry" />
+        <mxCell id="9Mt_UHoBYVk0HlZjvmKg-2" value="buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Mt_UHoBYVk0HlZjvmKg-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="9Mt_UHoBYVk0HlZjvmKg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="395" as="sourcePoint" />
+            <mxPoint x="570" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_F6VGXujVRImMws5GXHz-1" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;LLM Req Recognition&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="375" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="GJgrhhwO2k079X8rJMIy" name="推荐DS Flow">
-    <mxGraphModel dx="2225" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2047" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +102,7 @@
           <mxGeometry x="598" y="1439" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-QMTwqXWcvFU_u-rMDqD-29" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="597.5" y="860" width="200" height="144" as="geometry" />
+          <mxGeometry x="598" y="860" width="200" height="144" as="geometry" />
         </mxCell>
         <mxCell id="-QMTwqXWcvFU_u-rMDqD-30" value="Database &amp;amp; Engine&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" parent="-QMTwqXWcvFU_u-rMDqD-29" vertex="1">
           <mxGeometry width="200" height="144" as="geometry" />
@@ -104,8 +113,8 @@
         <mxCell id="-QMTwqXWcvFU_u-rMDqD-32" value="Hive" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="-QMTwqXWcvFU_u-rMDqD-29" vertex="1">
           <mxGeometry x="20" y="81.5" width="60" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="-QMTwqXWcvFU_u-rMDqD-33" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Faiss&lt;/span&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;arcSize=46;dashed=1;" parent="-QMTwqXWcvFU_u-rMDqD-29" vertex="1">
-          <mxGeometry x="97" y="33.25" width="90" height="40" as="geometry" />
+        <mxCell id="Cujm46qL-Sz9ftvmuLno-1" value="ER" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="-QMTwqXWcvFU_u-rMDqD-29">
+          <mxGeometry x="112" y="35" width="60" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="-QMTwqXWcvFU_u-rMDqD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-QMTwqXWcvFU_u-rMDqD-30" target="-QMTwqXWcvFU_u-rMDqD-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,11 +140,14 @@
         <mxCell id="qcveEaY3WcBLhi2BGwYA-7" value="Query → Item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=10;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1186" width="70" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="-QMTwqXWcvFU_u-rMDqD-33" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Faiss&lt;/span&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;arcSize=46;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="893.25" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="draft" id="G8CixaVr8PnL_Jj4iAKf">
-    <mxGraphModel dx="1887" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
