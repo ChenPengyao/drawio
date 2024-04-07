@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T06:35:44.105Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="nfKyVwIUGjIf04_LiJqa" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-07T06:40:37.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="N1xz1h1kqw5axVjo7HSA" version="24.2.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
     <mxGraphModel dx="1593" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,14 +133,47 @@
         <mxCell id="YXGaMw2N21L67AAt6XxX-33" value="Product Search+RCMD(Popular)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1328.5" y="1033" width="153" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AR0sDTf0IIyD8WEAlpMg-1" value="General Search" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-1" value="Item ID" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="411" y="335" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AR0sDTf0IIyD8WEAlpMg-2" value="Similar Search" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-2" value="Conditions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="411" y="384" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AR0sDTf0IIyD8WEAlpMg-3" value="General Search" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-3" value="Conditions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="411" y="435" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-4" value="buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="545" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="AR0sDTf0IIyD8WEAlpMg-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="560" as="sourcePoint" />
+            <mxPoint x="570" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-6" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;LLM Req Recognition&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-12" value="with conditions" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="410" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-13" value="buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="725" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-15" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;LLM Req Recognition&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-16" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="690" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-17" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;flipH=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-18" value="Item ID" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="411" y="680" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AR0sDTf0IIyD8WEAlpMg-20" value="Conditions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="411" y="780" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
