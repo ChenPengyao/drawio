@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T02:47:10.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DxDsIei0XbMKbOrHI9j6" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-09T02:47:42.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KFJpaz0-QJ-_VZzxSE32" version="24.2.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
     <mxGraphModel dx="2047" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,22 +345,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-78" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="195" y="420" width="985" height="160" as="geometry" />
+          <mxGeometry x="205" y="590" width="985" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-79" value="Config Center" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="450" width="100" height="30" as="geometry" />
+          <mxGeometry x="240" y="620" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-80" value="ABTest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="495" width="100" height="30" as="geometry" />
+          <mxGeometry x="240" y="665" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-81" value="Index索引" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="385" y="450" width="100" height="120" as="geometry" />
+          <mxGeometry x="395" y="620" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-58" value="&lt;b&gt;KG (ES)&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="70" height="26" as="geometry" />
+          <mxGeometry x="410" y="650" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-59" value="&lt;b&gt;ER&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="401" y="520" width="70" height="26" as="geometry" />
+          <mxGeometry x="411" y="690" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KjvG7mH7V4P6KBeSbJ2i-83" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="205" y="410" width="985" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
