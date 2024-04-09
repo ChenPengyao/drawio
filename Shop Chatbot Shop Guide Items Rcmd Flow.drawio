@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T02:51:13.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="I00MZl1W89RSc__m1fqG" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-09T02:51:30.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_Nvolx-ZJfCRXtkdIR6n" version="24.2.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
     <mxGraphModel dx="2047" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="7JMjOSI2QF3ljbAMLHC3-4" target="KjvG7mH7V4P6KBeSbJ2i-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7JMjOSI2QF3ljbAMLHC3-4" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Similar Search&lt;/b&gt;&lt;/div&gt;Item → Item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="7JMjOSI2QF3ljbAMLHC3-4" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Similar Search&lt;/b&gt;&lt;/div&gt;Item → Item" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="518" y="157" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=openThin;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KjvG7mH7V4P6KBeSbJ2i-14" target="KjvG7mH7V4P6KBeSbJ2i-15">
