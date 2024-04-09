@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T07:33:01.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FiEueWj5Bhy2ajZt9jjX" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-09T08:02:17.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rHvzD5SKDKTbq5Csmd-P" version="24.2.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1925" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,7 +344,7 @@
         <mxCell id="lEiEUptYDKROHEO69hH1-5" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Similar Search&lt;/b&gt;&lt;/div&gt;Item → Item&lt;div&gt;Cate → Cate&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;Query → Item&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="596.5" y="490" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lEiEUptYDKROHEO69hH1-8" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Group Search&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=9;fontColor=#808080;" vertex="1" parent="1">
+        <mxCell id="lEiEUptYDKROHEO69hH1-8" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Group Search&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=9;fontColor=#808080;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="688.5" y="490" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lEiEUptYDKROHEO69hH1-9" value="商品排序" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -405,7 +405,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GJgrhhwO2k079X8rJMIy" name="推荐DS Flow">
-    <mxGraphModel dx="2094" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2259" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
