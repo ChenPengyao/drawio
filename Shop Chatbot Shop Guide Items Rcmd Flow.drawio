@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T03:01:27.870Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3--lb_ExD3PV_5O3miu7" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-09T03:06:10.772Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Wp57LCpQr5w5uqzjtSwd" version="24.2.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
     <mxGraphModel dx="1963" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,49 +345,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-83" value="组件能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="205" y="430" width="985" height="160" as="geometry" />
+          <mxGeometry x="225.5" y="430" width="925" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-84" value="配置能力" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="221" y="460" width="100" height="110" as="geometry" />
+          <mxGeometry x="241.5" y="460" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-85" value="&lt;b&gt;Config Center&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="236" y="490" width="70" height="26" as="geometry" />
+          <mxGeometry x="256.5" y="490" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KjvG7mH7V4P6KBeSbJ2i-86" value="&lt;b&gt;ABTest&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="237" y="530" width="70" height="26" as="geometry" />
+          <mxGeometry x="257.5" y="530" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="lEiEUptYDKROHEO69hH1-2" value="商品召回" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="457" y="460" width="292" height="110" as="geometry" />
+          <mxGeometry x="485.5" y="460" width="292" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lEiEUptYDKROHEO69hH1-3" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;General Search&lt;/b&gt;&lt;/div&gt;Item_id&lt;div&gt;&lt;div&gt;Standard&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Accumulated&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="472" y="490" width="70" height="60" as="geometry" />
+          <mxGeometry x="500.5" y="490" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lEiEUptYDKROHEO69hH1-5" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Similar Search&lt;/b&gt;&lt;/div&gt;Item → Item&lt;div&gt;Cate → Cate&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;Query → Item&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="568" y="490" width="70" height="60" as="geometry" />
+          <mxGeometry x="596.5" y="490" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lEiEUptYDKROHEO69hH1-8" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Group Search&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=9;fontColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="660" y="490" width="70" height="60" as="geometry" />
+          <mxGeometry x="688.5" y="490" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lEiEUptYDKROHEO69hH1-9" value="商品排序" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="882" y="460" width="292" height="110" as="geometry" />
+          <mxGeometry x="932.5" y="460" width="198" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ecw69r59fbHWd3CY8xxB-1" value="商品索引检索" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="339" y="460" width="100" height="110" as="geometry" />
+          <mxGeometry x="363.5" y="460" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ecw69r59fbHWd3CY8xxB-2" value="&lt;b&gt;KG (ES)&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="354" y="490" width="70" height="26" as="geometry" />
+          <mxGeometry x="378.5" y="490" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ecw69r59fbHWd3CY8xxB-3" value="&lt;b&gt;ER&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="355" y="530" width="70" height="26" as="geometry" />
+          <mxGeometry x="379.5" y="530" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ecw69r59fbHWd3CY8xxB-5" value="模型组件" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="764" y="460" width="100" height="110" as="geometry" />
+          <mxGeometry x="805.5" y="460" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ecw69r59fbHWd3CY8xxB-6" value="&lt;b&gt;Component&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="779" y="490" width="70" height="26" as="geometry" />
+          <mxGeometry x="820.5" y="490" width="70" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ecw69r59fbHWd3CY8xxB-7" value="&lt;b&gt;ER&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="780" y="530" width="70" height="26" as="geometry" />
+        <mxCell id="ecw69r59fbHWd3CY8xxB-7" value="&lt;b&gt;FMS&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;fontSize=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="821.5" y="530" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ecw69r59fbHWd3CY8xxB-8" value="&lt;b&gt;Rank&lt;/b&gt;&lt;div&gt;NN&lt;/div&gt;&lt;div&gt;DSSM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="950.5" y="490" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ecw69r59fbHWd3CY8xxB-9" value="&lt;b&gt;Rerank&lt;/b&gt;&lt;div&gt;Factor Merge&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1043.5" y="490" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
