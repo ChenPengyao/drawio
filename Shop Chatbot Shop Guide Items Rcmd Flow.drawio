@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T03:27:48.861Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0hgbIeSjfJgWENRWVf1R" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-11T03:34:11.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="1MqQ_NIqvCzZZf6OKiGO" version="24.2.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="4258" dy="2793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1630" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,6 +400,21 @@
         </mxCell>
         <mxCell id="AR0sDTf0IIyD8WEAlpMg-20" value="Conditions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="354" y="-180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4qZGYqEqg76mdItDKGQn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="4qZGYqEqg76mdItDKGQn-1" target="4qZGYqEqg76mdItDKGQn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4qZGYqEqg76mdItDKGQn-1" value="Hive" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="458" y="320" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4qZGYqEqg76mdItDKGQn-2" value="DS:&amp;nbsp;&lt;div style=&quot;font-size: 10px;&quot;&gt;1. mpi侧商品属性表&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;2. 同义词表&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;3. Emb表&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;PM:&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;1. shop_id &amp;amp; model_id表&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="4qZGYqEqg76mdItDKGQn-1">
+          <mxGeometry x="6" y="30" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4qZGYqEqg76mdItDKGQn-3" value="KG" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="710" y="320" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4qZGYqEqg76mdItDKGQn-4" value="Schema:&lt;div&gt;1. 商品属性&lt;/div&gt;&lt;div&gt;2. 商品类目, 聚合同义词&lt;/div&gt;&lt;div&gt;3. 商品向量&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="4qZGYqEqg76mdItDKGQn-3">
+          <mxGeometry x="6" y="30" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
