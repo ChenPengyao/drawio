@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T10:29:46.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="f_Ig9vifbXHlPoJYiMyS" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-10T10:40:26.177Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PnjtVEgc4rbY_4_witdz" version="24.6.4" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="1922" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1475" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -535,8 +535,26 @@
         <mxCell id="vEf9lLcu2pGlzM_8thFx-28" value="Topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228.5" y="-1040" width="81.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vEf9lLcu2pGlzM_8thFx-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-1070" width="54" height="100" as="geometry" />
+        <mxCell id="vEf9lLcu2pGlzM_8thFx-31" value="Live Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="-1140" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vEf9lLcu2pGlzM_8thFx-32" value="ChitChat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="-1080" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vEf9lLcu2pGlzM_8thFx-33" value="Post-Sale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="-1020" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vEf9lLcu2pGlzM_8thFx-34" value="Pre-Sale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="-960" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vEf9lLcu2pGlzM_8thFx-35" value="ProductQA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523.25" y="-980" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vEf9lLcu2pGlzM_8thFx-36" value="Sale Guide" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523.25" y="-920" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vEf9lLcu2pGlzM_8thFx-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624.5" y="-920" width="85.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
