@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T10:25:52.507Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="CC_nxee_cvImcFzY_ynI" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-10T10:29:46.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="f_Ig9vifbXHlPoJYiMyS" version="24.6.4" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
     <mxGraphModel dx="1922" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -526,8 +526,17 @@
         <mxCell id="4qZGYqEqg76mdItDKGQn-53" value="Item List" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="749" y="1630" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="vEf9lLcu2pGlzM_8thFx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=88.5;exitDy=20;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vEf9lLcu2pGlzM_8thFx-27" target="vEf9lLcu2pGlzM_8thFx-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vEf9lLcu2pGlzM_8thFx-27" value="Query" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="90" y="-1040" width="88.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vEf9lLcu2pGlzM_8thFx-28" value="Topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228.5" y="-1040" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vEf9lLcu2pGlzM_8thFx-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-1070" width="54" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
