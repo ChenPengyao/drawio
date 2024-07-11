@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T11:16:36.163Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SgQ7AS6nlWbf59z-hdY0" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-11T03:38:37.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="h-R_bRc_wB4zpG-bXkE_" version="24.6.4" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="2175" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -603,6 +603,30 @@
         </mxCell>
         <mxCell id="vEf9lLcu2pGlzM_8thFx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=20;entryPerimeter=0;" parent="1" source="vEf9lLcu2pGlzM_8thFx-41" target="vEf9lLcu2pGlzM_8thFx-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4n_KJ3noM8WU1xK_bc8W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=88.5;exitDy=20;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4n_KJ3noM8WU1xK_bc8W-3" target="4n_KJ3noM8WU1xK_bc8W-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4n_KJ3noM8WU1xK_bc8W-3" value="Query" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="-620" width="88.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4n_KJ3noM8WU1xK_bc8W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4n_KJ3noM8WU1xK_bc8W-4" target="4n_KJ3noM8WU1xK_bc8W-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4n_KJ3noM8WU1xK_bc8W-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4n_KJ3noM8WU1xK_bc8W-4" target="4n_KJ3noM8WU1xK_bc8W-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4n_KJ3noM8WU1xK_bc8W-4" value="Reg LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-620" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n_KJ3noM8WU1xK_bc8W-5" value="KG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-620" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n_KJ3noM8WU1xK_bc8W-8" value="I2I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-540" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4n_KJ3noM8WU1xK_bc8W-10" value="I2X2I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-460" width="81.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
