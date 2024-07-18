@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T09:38:23.111Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PUjbqvQFYoa_Ho5SydbD" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-18T09:40:42.973Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KwB-v_7JoD9JGRj_a0SO" version="24.6.4" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="1798" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="1401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -864,34 +864,46 @@
         <mxCell id="_gdMfucYM4Tkk8RrWNzs-99" value="Query" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="2363.87" y="297" width="88.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_gdMfucYM4Tkk8RrWNzs-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_gdMfucYM4Tkk8RrWNzs-100" target="_gdMfucYM4Tkk8RrWNzs-102">
+        <mxCell id="_gdMfucYM4Tkk8RrWNzs-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_gdMfucYM4Tkk8RrWNzs-100" target="_gdMfucYM4Tkk8RrWNzs-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_gdMfucYM4Tkk8RrWNzs-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_gdMfucYM4Tkk8RrWNzs-100" target="_gdMfucYM4Tkk8RrWNzs-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_gdMfucYM4Tkk8RrWNzs-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_gdMfucYM4Tkk8RrWNzs-100" target="_gdMfucYM4Tkk8RrWNzs-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gdMfucYM4Tkk8RrWNzs-100" value="Prompt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2503.87" y="297" width="81.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_gdMfucYM4Tkk8RrWNzs-102" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;样本&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=0;spacingBottom=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="2662.12" y="250" width="81.5" height="40" as="geometry" />
+          <mxGeometry x="2662.12" y="223" width="81.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_gdMfucYM4Tkk8RrWNzs-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_gdMfucYM4Tkk8RrWNzs-104" target="_gdMfucYM4Tkk8RrWNzs-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gdMfucYM4Tkk8RrWNzs-104" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;传统接口&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;I2I, Q2I, ...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=0;spacingBottom=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="160" width="81.5" height="40" as="geometry" />
+          <mxGeometry x="2570" y="133" width="81.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_gdMfucYM4Tkk8RrWNzs-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_gdMfucYM4Tkk8RrWNzs-105">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2702.833333333334" y="250" as="targetPoint" />
+            <mxPoint x="2702.833333333334" y="223" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_gdMfucYM4Tkk8RrWNzs-105" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;GPT-4生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=0;spacingBottom=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="2662.12" y="160" width="81.5" height="40" as="geometry" />
+          <mxGeometry x="2662.12" y="133" width="81.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_gdMfucYM4Tkk8RrWNzs-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_gdMfucYM4Tkk8RrWNzs-106" target="_gdMfucYM4Tkk8RrWNzs-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gdMfucYM4Tkk8RrWNzs-106" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;埋点上报&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=0;spacingBottom=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="2753.87" y="160" width="81.5" height="40" as="geometry" />
+          <mxGeometry x="2753.87" y="133" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_gdMfucYM4Tkk8RrWNzs-110" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Model&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=0;spacingBottom=0;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="2662.12" y="297" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_gdMfucYM4Tkk8RrWNzs-111" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Model&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=0;spacingBottom=0;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="2662.12" y="370" width="81.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
