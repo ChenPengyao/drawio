@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-06T08:04:03.123Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vEoFeUBD_djxmbRKweaf" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-08-06T11:01:17.033Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PxQh-N_Fb8pQzhicvObx" version="24.7.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="1974" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1582" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -959,11 +959,14 @@
         <mxCell id="TokeIj_IPVJALh0EGjVd-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-82" target="TokeIj_IPVJALh0EGjVd-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-82" target="TokeIj_IPVJALh0EGjVd-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-82" value="是否满足" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="2857.58" y="757.5" width="78.05" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-88" value="No" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2878.22" y="795.5" width="37.88" height="21" as="geometry" />
+          <mxGeometry x="2876" y="791.5" width="37.88" height="21" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-100" target="TokeIj_IPVJALh0EGjVd-105">
           <mxGeometry relative="1" as="geometry" />
@@ -988,6 +991,9 @@
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-111" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Component&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Instance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;spacing=0;spacingBottom=0;spacingTop=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2977.6" y="900.75" width="81.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-116" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Key attributes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;spacing=0;spacingBottom=0;spacingTop=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2924.69" y="810" width="72.13" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
