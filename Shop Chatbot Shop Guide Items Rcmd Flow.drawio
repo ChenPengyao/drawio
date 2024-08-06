@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-06T07:54:12.132Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Do6fT-WbZNPmA0XEbY6H" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-08-06T07:54:49.370Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="E8UnYrWCaAhRH3AAkzwE" version="24.7.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
     <mxGraphModel dx="2283" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -932,7 +932,7 @@
         <mxCell id="TokeIj_IPVJALh0EGjVd-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-43" target="TokeIj_IPVJALh0EGjVd-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-43" value="Query" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="TokeIj_IPVJALh0EGjVd-43" value="Query&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2317.4" y="810" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-48" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;1. 根据item_id获取对应的item_text&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;2. 根据输入的emb返回检索的TopN item_id&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
