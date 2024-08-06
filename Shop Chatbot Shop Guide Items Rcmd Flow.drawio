@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-06T11:01:17.033Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PxQh-N_Fb8pQzhicvObx" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-08-06T11:02:37.527Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_cvpXN1-drZW6C5sqSA9" version="24.7.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="1582" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -994,6 +994,9 @@
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-116" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Key attributes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;spacing=0;spacingBottom=0;spacingTop=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2924.69" y="810" width="72.13" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-118" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;1. 列出需要的实时性的属性名&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;2. desc需要思考截断或者chunk&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;3. BE需要考虑数据源，Bass和PDP的结合&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="2977.6" y="951.5" width="196.38" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
