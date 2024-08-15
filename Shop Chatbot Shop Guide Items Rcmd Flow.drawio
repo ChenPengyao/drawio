@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-12T07:01:06.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="l2-Y5-GLbc1lZaOR8VmQ" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-08-15T02:57:12.603Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xws8thTSVY5Pu3NlQ2d6" version="24.7.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="1646" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1528" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -972,13 +972,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-100" value="Prompt" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3023.35" y="812.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="3023.35" y="812.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-101" value="query + fulfillment + main_item_info" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="TokeIj_IPVJALh0EGjVd-100">
-          <mxGeometry y="26" width="120" height="16" as="geometry" />
+        <mxCell id="TokeIj_IPVJALh0EGjVd-101" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;query + &lt;font style=&quot;font-size: 7px;&quot; color=&quot;#b3b3b3&quot;&gt;fulfillment&lt;/font&gt; + main_item_info&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="TokeIj_IPVJALh0EGjVd-100">
+          <mxGeometry y="26" width="130" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-102" value="+ candidate_items_info" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="TokeIj_IPVJALh0EGjVd-100">
-          <mxGeometry y="42" width="120" height="18" as="geometry" />
+        <mxCell id="TokeIj_IPVJALh0EGjVd-102" value="+ candidate_items_info" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="TokeIj_IPVJALh0EGjVd-100">
+          <mxGeometry y="42" width="130" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TokeIj_IPVJALh0EGjVd-100" source="TokeIj_IPVJALh0EGjVd-101" target="TokeIj_IPVJALh0EGjVd-101">
           <mxGeometry relative="1" as="geometry" />
