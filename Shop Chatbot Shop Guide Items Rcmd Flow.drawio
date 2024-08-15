@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-15T02:57:12.603Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xws8thTSVY5Pu3NlQ2d6" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-08-15T02:58:14.465Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TneRAIC8Ccn7qFzFD1NG" version="24.7.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
     <mxGraphModel dx="1528" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -965,8 +965,8 @@
         <mxCell id="TokeIj_IPVJALh0EGjVd-82" value="是否满足" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="2857.58" y="757.5" width="78.05" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-88" value="No" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2876" y="791.5" width="37.88" height="21" as="geometry" />
+        <mxCell id="TokeIj_IPVJALh0EGjVd-88" value="Fulfillment 结果：No" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="2801" y="797.5" width="93.88" height="21" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-100" target="TokeIj_IPVJALh0EGjVd-105">
           <mxGeometry relative="1" as="geometry" />
@@ -997,6 +997,12 @@
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-118" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;1. 列出需要的实时性的属性名&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;2. desc需要思考截断或者chunk&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;3. BE需要考虑数据源，Bass和PDP的结合&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="2977.6" y="951.5" width="196.38" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-119" target="TokeIj_IPVJALh0EGjVd-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-119" value="Bass / PDP" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2869.69" y="980" width="55" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
