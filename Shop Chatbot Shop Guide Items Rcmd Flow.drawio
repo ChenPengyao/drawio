@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-15T02:58:14.465Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TneRAIC8Ccn7qFzFD1NG" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-08-15T03:00:44.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sfKBTSbHXXvsz1KBGhM_" version="24.7.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="1528" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1003,6 +1003,9 @@
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-119" value="Bass / PDP" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2869.69" y="980" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-121" value="部分信息: DS提供" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="2813" y="951.5" width="93.88" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
