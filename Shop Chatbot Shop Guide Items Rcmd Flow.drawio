@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-10T04:19:51.444Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_J1O-WdLiR0i3ExH3rBT" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-09-10T04:20:09.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wK7Ow--8qhx_w4kOghVr" version="24.7.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
     <mxGraphModel dx="1833" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1007,14 +1007,14 @@
         <mxCell id="TokeIj_IPVJALh0EGjVd-121" value="部分信息: DS提供" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="2813" y="951.5" width="93.88" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-123" target="TokeIj_IPVJALh0EGjVd-125">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-123" target="TokeIj_IPVJALh0EGjVd-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-123" target="TokeIj_IPVJALh0EGjVd-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-123" value="Buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-275.63" y="2255" width="30" height="60" as="geometry" />
+          <mxGeometry x="-318.5" y="2470" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-125" target="TokeIj_IPVJALh0EGjVd-159">
           <mxGeometry relative="1" as="geometry" />
