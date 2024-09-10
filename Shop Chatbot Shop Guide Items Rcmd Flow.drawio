@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-09-10T06:13:07.889Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uSswXdd3FEhZO-K_oLoG" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-09-10T06:15:46.989Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="A8xiUaWTnYvSQKKVl_VI" version="24.7.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="2169" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1514" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1010,7 +1010,7 @@
         <mxCell id="TokeIj_IPVJALh0EGjVd-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-123" target="TokeIj_IPVJALh0EGjVd-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-123" target="TokeIj_IPVJALh0EGjVd-125">
+        <mxCell id="TokeIj_IPVJALh0EGjVd-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-123" target="TokeIj_IPVJALh0EGjVd-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-123" value="Buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -1020,7 +1020,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-125" value="&lt;div&gt;Intent Management&lt;/div&gt;Topic&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;LLM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="2255" width="130" height="60" as="geometry" />
+          <mxGeometry x="-280" y="2256" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-129" target="TokeIj_IPVJALh0EGjVd-170">
           <mxGeometry relative="1" as="geometry" />
@@ -1029,6 +1029,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-129" target="TokeIj_IPVJALh0EGjVd-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-129" target="TokeIj_IPVJALh0EGjVd-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-129" value="Dialogue Management&lt;div&gt;Type LLM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;" vertex="1" parent="1">
@@ -1096,11 +1099,11 @@
         <mxCell id="TokeIj_IPVJALh0EGjVd-155" value="ok" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50.25" y="2375" width="99.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-159" target="TokeIj_IPVJALh0EGjVd-155">
+        <mxCell id="TokeIj_IPVJALh0EGjVd-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-159" target="TokeIj_IPVJALh0EGjVd-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-159" value="&lt;div&gt;ProductQA&lt;/div&gt;&lt;div&gt;General LLM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="35" y="2255" width="130" height="60" as="geometry" />
+          <mxGeometry x="-120" y="2256" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-170" target="TokeIj_IPVJALh0EGjVd-182">
           <mxGeometry relative="1" as="geometry" />
@@ -1155,6 +1158,18 @@
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-199" value="ProductQA Reply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103.75" y="2790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-201" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="2485" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-202" value="Q" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="2518" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-204" target="TokeIj_IPVJALh0EGjVd-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TokeIj_IPVJALh0EGjVd-204" value="Others" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-79.75" y="2355" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
