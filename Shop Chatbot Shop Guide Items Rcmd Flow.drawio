@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-09-12T06:01:31.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LXO8aSXit0JaeA64a1lC" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-09-12T06:03:32.038Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Y9du1-HijOpJRS9W-V2e" version="24.7.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="1482" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2001" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1202,7 +1202,7 @@
           <mxGeometry x="479" y="213" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-226" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-305.63" y="3110" width="355.63" height="450" as="geometry" />
+          <mxGeometry x="-303" y="3110" width="345" height="450" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-229" target="TokeIj_IPVJALh0EGjVd-236">
           <mxGeometry relative="1" as="geometry" />
@@ -1231,7 +1231,7 @@
         <mxCell id="TokeIj_IPVJALh0EGjVd-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-236" target="TokeIj_IPVJALh0EGjVd-264">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-236" value="Dialogue Management&lt;div&gt;Type LLM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;container=0;" vertex="1" parent="1">
+        <mxCell id="TokeIj_IPVJALh0EGjVd-236" value="&lt;div&gt;Retrieval System&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Type&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="-119.5" y="3460" width="129.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-238" target="TokeIj_IPVJALh0EGjVd-243">
@@ -1297,13 +1297,13 @@
         <mxCell id="TokeIj_IPVJALh0EGjVd-261" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;container=0;" vertex="1" parent="1">
           <mxGeometry x="-180" y="3475" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-262" value="&lt;div&gt;问题备注：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. 调用的时机，是否与Topic并行&lt;div&gt;2. 部分实时相关的处理，包括Price的处理，类目的过滤&lt;/div&gt;&lt;div&gt;3. 离线部分的挖掘和处理&lt;/div&gt;&lt;div&gt;4. 针对Price/Authentic两种类型，是否同时展示productQA reply和Card UI&lt;/div&gt;&lt;div&gt;5. 针对&lt;span style=&quot;background-color: initial;&quot;&gt;Price/Authentic两种类型，如果productQA general LLM返回非ok的结果时，是否还继续下发Card UI&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="269.25" y="3270" width="400.75" height="160" as="geometry" />
+        <mxCell id="TokeIj_IPVJALh0EGjVd-262" value="&lt;div&gt;问题备注：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. 调用的时机，是否与Topic并行&lt;div&gt;2. 部分实时相关的处理，包括Price的实时处理，类目的过滤，TFE配置透出等&lt;/div&gt;&lt;div&gt;3. 离线部分的挖掘和处理&lt;/div&gt;&lt;div&gt;4. 针对Price/Authentic两种类型，是否同时展示productQA reply和Card UI&lt;/div&gt;&lt;div&gt;5. 针对&lt;span style=&quot;background-color: initial;&quot;&gt;Price/Authentic两种类型，如果productQA general LLM返回非ok的结果时，是否还继续下发Card UI&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="237.25" y="3270" width="420.75" height="160" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-264" target="TokeIj_IPVJALh0EGjVd-241">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-264" value="Others" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;container=0;" vertex="1" parent="1">
+        <mxCell id="TokeIj_IPVJALh0EGjVd-264" value="Default" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=#bac8d3;strokeColor=#23445d;container=0;" vertex="1" parent="1">
           <mxGeometry x="-79.75" y="3345" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-265" value="ProductQA Reply" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
