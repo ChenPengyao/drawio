@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-09-12T06:03:32.038Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Y9du1-HijOpJRS9W-V2e" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-09-12T06:04:15.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9qr7H4Ex9p63cyIIxdQ5" version="24.7.1" type="github" pages="3">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="2001" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1231,7 +1231,7 @@
         <mxCell id="TokeIj_IPVJALh0EGjVd-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-236" target="TokeIj_IPVJALh0EGjVd-264">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TokeIj_IPVJALh0EGjVd-236" value="&lt;div&gt;Retrieval System&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Type&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;container=0;" vertex="1" parent="1">
+        <mxCell id="TokeIj_IPVJALh0EGjVd-236" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RAG&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Retrieval + Rank&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="-119.5" y="3460" width="129.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TokeIj_IPVJALh0EGjVd-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TokeIj_IPVJALh0EGjVd-238" target="TokeIj_IPVJALh0EGjVd-243">
