@@ -1726,10 +1726,64 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Sfjf-dRGDQ76hqAaYBiS" name="ScenarioRouter">
-    <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-mmteYSXsZpBC0myiJSq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mmteYSXsZpBC0myiJSq-1" target="-mmteYSXsZpBC0myiJSq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-1" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;需求&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;(地区/场景/Bad Cases)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mmteYSXsZpBC0myiJSq-2" target="-mmteYSXsZpBC0myiJSq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mmteYSXsZpBC0myiJSq-2" target="-mmteYSXsZpBC0myiJSq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-2" value="人工标注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="245" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-mmteYSXsZpBC0myiJSq-4" target="-mmteYSXsZpBC0myiJSq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-4" value="生成训练样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mmteYSXsZpBC0myiJSq-5" target="-mmteYSXsZpBC0myiJSq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-5" value="query集更新&lt;div&gt;Gsheet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mmteYSXsZpBC0myiJSq-6" target="-mmteYSXsZpBC0myiJSq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-6" value="模型训练评测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mmteYSXsZpBC0myiJSq-7" target="-mmteYSXsZpBC0myiJSq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-7" value="模型部署更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mmteYSXsZpBC0myiJSq-8" target="-mmteYSXsZpBC0myiJSq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-8" value="query集入库&lt;div&gt;Hive&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mmteYSXsZpBC0myiJSq-9" target="-mmteYSXsZpBC0myiJSq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-9" value="query向量化&lt;div&gt;AIS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mmteYSXsZpBC0myiJSq-10" value="向量入库&lt;div&gt;CK&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
