@@ -1728,7 +1728,7 @@
         <mxCell id="SKhd9B-aE8KNerlFDQsx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKhd9B-aE8KNerlFDQsx-2" target="SKhd9B-aE8KNerlFDQsx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SKhd9B-aE8KNerlFDQsx-2" value="User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SKhd9B-aE8KNerlFDQsx-2" value="User Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SKhd9B-aE8KNerlFDQsx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKhd9B-aE8KNerlFDQsx-3" target="SKhd9B-aE8KNerlFDQsx-5">
@@ -1740,11 +1740,27 @@
         <mxCell id="SKhd9B-aE8KNerlFDQsx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKhd9B-aE8KNerlFDQsx-4" target="SKhd9B-aE8KNerlFDQsx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SKhd9B-aE8KNerlFDQsx-4" value="Item" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SKhd9B-aE8KNerlFDQsx-4" value="Item Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SKhd9B-aE8KNerlFDQsx-5" value="Query Rewriting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="472" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKhd9B-aE8KNerlFDQsx-14" value="User Info Abstract" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="80" y="240" width="140" height="30" as="geometry">
+            <mxRectangle x="80" y="240" width="140" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SKhd9B-aE8KNerlFDQsx-15" value="age, region, sex, city,&amp;nbsp; education, income, history-behavior,&lt;div&gt;preferrence...&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SKhd9B-aE8KNerlFDQsx-14">
+          <mxGeometry y="26" width="140" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="SKhd9B-aE8KNerlFDQsx-18" value="Item Info Abstract" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="250" y="240" width="130" height="30" as="geometry">
+            <mxRectangle x="274" y="240" width="140" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SKhd9B-aE8KNerlFDQsx-19" value="title, desc, price, discount, selling-point, sale, variation, material..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="SKhd9B-aE8KNerlFDQsx-18">
+          <mxGeometry y="26" width="140" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
