@@ -1874,6 +1874,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cG8pttEk347C5P8PeEgw-1" value="&lt;div&gt;GPT 1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;问题定义 + CoT构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cG8pttEk347C5P8PeEgw-2" value="&lt;div&gt;GPT 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;生成回答" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cG8pttEk347C5P8PeEgw-3" value="&lt;div&gt;GPT 3&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;幻觉检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
