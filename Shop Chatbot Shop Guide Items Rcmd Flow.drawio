@@ -1883,11 +1883,20 @@
         <mxCell id="cG8pttEk347C5P8PeEgw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cG8pttEk347C5P8PeEgw-2" target="cG8pttEk347C5P8PeEgw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cG8pttEk347C5P8PeEgw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cG8pttEk347C5P8PeEgw-2" target="cG8pttEk347C5P8PeEgw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cG8pttEk347C5P8PeEgw-2" value="&lt;div&gt;GPT 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;生成回答" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cG8pttEk347C5P8PeEgw-3" value="&lt;div&gt;GPT 3&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;幻觉检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cG8pttEk347C5P8PeEgw-3" value="&lt;div&gt;GPT 4&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;幻觉检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cG8pttEk347C5P8PeEgw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cG8pttEk347C5P8PeEgw-6" target="cG8pttEk347C5P8PeEgw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cG8pttEk347C5P8PeEgw-6" value="&lt;div&gt;GPT 3&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;样本拓展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
