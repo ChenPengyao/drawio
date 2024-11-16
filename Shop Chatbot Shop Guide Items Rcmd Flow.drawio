@@ -1524,7 +1524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="draft" id="G8CixaVr8PnL_Jj4iAKf">
-    <mxGraphModel dx="2171" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1405" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1889,8 +1889,14 @@
         <mxCell id="Cz266X3t1tPN_Dt5zimo-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#FF0000;dashed=1;strokeWidth=3;" edge="1" parent="1" source="Cz266X3t1tPN_Dt5zimo-76" target="Cz266X3t1tPN_Dt5zimo-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cz266X3t1tPN_Dt5zimo-76" value="&amp;nbsp;&lt;div&gt;类目: 裙子 → [x,x,x,x,..]，向量维度可以小32/64&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;价格: 3000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;为了支持文本描述的匹配 &amp;amp; 数值需求的匹配&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-76" value="&amp;nbsp;&lt;div&gt;待定；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主要是减少从满足条件的召回商品 → LLM推荐的商品数量&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1385" y="1010" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1" source="Cz266X3t1tPN_Dt5zimo-78" target="Cz266X3t1tPN_Dt5zimo-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-78" value="&amp;nbsp;&lt;div&gt;待定；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主要是减少从满足条件的召回商品 → LLM推荐的商品数量&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1833" y="1020" width="350" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
