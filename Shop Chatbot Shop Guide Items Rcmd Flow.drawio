@@ -1524,7 +1524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="draft" id="G8CixaVr8PnL_Jj4iAKf">
-    <mxGraphModel dx="823" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1741,7 +1741,7 @@
         <mxCell id="Cz266X3t1tPN_Dt5zimo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cz266X3t1tPN_Dt5zimo-9" target="Cz266X3t1tPN_Dt5zimo-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cz266X3t1tPN_Dt5zimo-9" value="Info" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-9" value="User Info" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1090" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Cz266X3t1tPN_Dt5zimo-10" value="Query" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Cz266X3t1tPN_Dt5zimo-9">
@@ -1756,8 +1756,47 @@
         <mxCell id="Cz266X3t1tPN_Dt5zimo-13" value="Basic_info" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Cz266X3t1tPN_Dt5zimo-9">
           <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Cz266X3t1tPN_Dt5zimo-16" value="LLM - 需求提取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-16" value="LLM - 需求提取&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;将非结构化数据变为结构化数据&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-19" value="商品需求" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1160" width="140" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-20" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;文本信息：&lt;/div&gt;Cate, Material, Variation&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Cz266X3t1tPN_Dt5zimo-19">
+          <mxGeometry y="26" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-22" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;数值信息：&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Price, Sale&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Cz266X3t1tPN_Dt5zimo-19">
+          <mxGeometry y="80" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.705;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cz266X3t1tPN_Dt5zimo-16" target="Cz266X3t1tPN_Dt5zimo-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-31" value="Spu 信息" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1410" width="140" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-32" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;文本信息：&lt;/div&gt;Cate, Material, Variation&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Cz266X3t1tPN_Dt5zimo-31">
+          <mxGeometry y="26" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-33" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;数值信息：&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Price, Sale&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Cz266X3t1tPN_Dt5zimo-31">
+          <mxGeometry y="80" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cz266X3t1tPN_Dt5zimo-34" target="Cz266X3t1tPN_Dt5zimo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-34" value="Spu Info" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1460" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-35" value="PDP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Cz266X3t1tPN_Dt5zimo-34">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-36" value="History Chat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Cz266X3t1tPN_Dt5zimo-34">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-38" value="Review" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Cz266X3t1tPN_Dt5zimo-34">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.728;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cz266X3t1tPN_Dt5zimo-16" target="Cz266X3t1tPN_Dt5zimo-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
