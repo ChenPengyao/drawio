@@ -1524,7 +1524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="draft" id="G8CixaVr8PnL_Jj4iAKf">
-    <mxGraphModel dx="628" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1706" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1806,6 +1806,32 @@
         </mxCell>
         <mxCell id="Cz266X3t1tPN_Dt5zimo-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cz266X3t1tPN_Dt5zimo-32" target="Cz266X3t1tPN_Dt5zimo-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cz266X3t1tPN_Dt5zimo-48" target="Cz266X3t1tPN_Dt5zimo-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-48" value="CK" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="1320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cz266X3t1tPN_Dt5zimo-32" target="Cz266X3t1tPN_Dt5zimo-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-51" value="召回商品集" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="1310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cz266X3t1tPN_Dt5zimo-20" target="Cz266X3t1tPN_Dt5zimo-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="1213" />
+              <mxPoint x="1280" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-54" value="将商品属性向量信息和数值信息存入CK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1460" width="237" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-55" value="将用户需求的属性向量和数值信息&lt;div&gt;CK中进行检索&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1200" width="237" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
