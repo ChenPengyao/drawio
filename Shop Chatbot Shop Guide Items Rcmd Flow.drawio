@@ -1833,6 +1833,9 @@
         <mxCell id="Cz266X3t1tPN_Dt5zimo-55" value="将用户需求的属性向量和数值信息&lt;div&gt;CK中进行检索&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1200" width="237" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Function Call&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 可以使用scenario-识别来确定召回类型：通用，相似，搭配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 不同的召回类型做需求提取的prompt不同&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="900" width="350" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
