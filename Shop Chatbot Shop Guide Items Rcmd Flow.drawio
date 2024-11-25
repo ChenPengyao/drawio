@@ -1524,7 +1524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="draft" id="G8CixaVr8PnL_Jj4iAKf">
-    <mxGraphModel dx="1480" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1847,7 +1847,7 @@
         <mxCell id="Cz266X3t1tPN_Dt5zimo-55" value="将用户需求的属性向量和数值信息&lt;div&gt;CK中进行检索&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1070" y="1200" width="237" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cz266X3t1tPN_Dt5zimo-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Function Call&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 可以使用scenario-识别来确定召回类型：通用，相似，搭配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 不同的召回类型做需求提取的prompt不同&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Function Call&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 可以使用scenario-识别来确定召回类型：通用，相似，搭配&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 不同的召回类型做需求提取的prompt不同&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;todo: 先尝试直接拆解需求字段和类型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="515" y="900" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Cz266X3t1tPN_Dt5zimo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Cz266X3t1tPN_Dt5zimo-57" target="Cz266X3t1tPN_Dt5zimo-58" edge="1">
