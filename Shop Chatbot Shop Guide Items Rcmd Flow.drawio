@@ -1362,7 +1362,7 @@
           <mxGeometry x="5.130000000000109" width="196.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--75" value="saleguide触发逻辑，update time: 20250108" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="2090" y="-483" width="980" height="453" as="geometry" />
+          <mxGeometry x="2090" y="20" width="980" height="453" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--76" value="buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="2112" y="-310" width="20" height="30" as="geometry" />
