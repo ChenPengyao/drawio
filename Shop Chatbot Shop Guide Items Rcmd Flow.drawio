@@ -1543,8 +1543,14 @@
         <mxCell id="UTxCFiax12SvV2Ai0U1--180" value="&lt;b&gt;Rerank&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="2380" y="-355.5" width="70" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="UTxCFiax12SvV2Ai0U1--185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--182" target="UTxCFiax12SvV2Ai0U1--184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--182" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;LLM&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;SaleGuide&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;V1&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Reason功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2490" y="-359" width="70" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="UTxCFiax12SvV2Ai0U1--184" value="Rcmd&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Reply&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;itemUI + 推荐理由&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2597.2" y="-350" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
