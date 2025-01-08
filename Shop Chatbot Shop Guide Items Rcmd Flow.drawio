@@ -1467,7 +1467,7 @@
           <mxGeometry x="2646.47" y="-221" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--155" value="ProductQA&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Reply&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Restock Card&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2568.47" y="-267" width="80" height="20" as="geometry" />
+          <mxGeometry x="2568.47" y="-266" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--158" value="需要用Reg的attr定位缺货的model_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2417.47" y="-260" width="150" height="20" as="geometry" />
@@ -1585,6 +1585,9 @@
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--212" value="Topic = 2/3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2305" y="-157" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="onP7mugWFrxn88HEakyP-1" value="新UI才会调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="-403" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
