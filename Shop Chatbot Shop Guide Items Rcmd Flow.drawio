@@ -1494,7 +1494,7 @@
           <mxGeometry x="2240" y="-313" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--164" value="到货提醒卡片，接口确认库存信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2475.95" y="-235" width="140" height="20" as="geometry" />
+          <mxGeometry x="2467.95" y="-235" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--166" value="相似商品卡片，pqa回答+Fulfillment确认是否缺货" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2407.6" y="-194" width="200" height="20" as="geometry" />
