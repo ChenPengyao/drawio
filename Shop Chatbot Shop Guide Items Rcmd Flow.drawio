@@ -1455,22 +1455,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--143" value="is out of stock" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="2563.6" y="-197" width="90" height="40" as="geometry" />
+          <mxGeometry x="2563.6" y="-225" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--145" value="ProductQA&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Reply&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2687.62" y="-187" width="80" height="20" as="geometry" />
+          <mxGeometry x="2710.62" y="-215" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--149" value="yes，缺货" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2603.6" y="-220" width="60" height="20" as="geometry" />
+          <mxGeometry x="2603.6" y="-248" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UTxCFiax12SvV2Ai0U1--154" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2650.47" y="-177" width="30" height="20" as="geometry" />
+        <mxCell id="UTxCFiax12SvV2Ai0U1--154" value="No, 不缺货" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2646.47" y="-221" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--155" value="ProductQA&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Reply&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Restock Card&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2568.47" y="-243" width="80" height="20" as="geometry" />
+          <mxGeometry x="2568.47" y="-267" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--158" value="需要用Reg的attr定位缺货的model_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2417.47" y="-248" width="150" height="20" as="geometry" />
+          <mxGeometry x="2417.47" y="-260" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--159" target="UTxCFiax12SvV2Ai0U1--169">
           <mxGeometry relative="1" as="geometry" />
@@ -1479,7 +1479,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--159" value="&lt;div style=&quot;font-size: 7px;&quot;&gt;LLM&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 7px;&quot;&gt;ProductQA&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 7px;&quot;&gt;+&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;LLM SaleGuide V2&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;Fulfillment功能&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="2439.6" y="-128" width="70" height="38" as="geometry" />
+          <mxGeometry x="2440.6" y="-159" width="70" height="38" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--160" target="UTxCFiax12SvV2Ai0U1--159">
           <mxGeometry relative="1" as="geometry" />
@@ -1488,28 +1488,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--160" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;库存问题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="2440" y="-190" width="70" height="26" as="geometry" />
+          <mxGeometry x="2440" y="-218" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--163" value="Topic = 1/4/5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2240" y="-313" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--164" value="到货提醒卡片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2500.5" y="-193" width="70" height="20" as="geometry" />
+          <mxGeometry x="2500.5" y="-221" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--166" value="相似商品卡片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2468" y="-156" width="70" height="20" as="geometry" />
+          <mxGeometry x="2468" y="-187" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--168" value="yes，满足用户需求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2468" y="-85" width="90" height="20" as="geometry" />
+          <mxGeometry x="2468" y="-116" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--169" target="UTxCFiax12SvV2Ai0U1--177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--169" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Similar Search&lt;/b&gt;&lt;/div&gt;Q2I_v2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="2553.6" y="-122" width="70" height="26" as="geometry" />
+          <mxGeometry x="2553.6" y="-153" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--171" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2518.6" y="-128" width="30" height="20" as="geometry" />
+          <mxGeometry x="2518.6" y="-159" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--172" target="UTxCFiax12SvV2Ai0U1--174">
           <mxGeometry relative="1" as="geometry" />
@@ -1533,7 +1533,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--177" value="Item List" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="2657.2" y="-119" width="80" height="20" as="geometry" />
+          <mxGeometry x="2657.2" y="-150" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--179" value="从query中获取关键attr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2500.5" y="-450" width="100" height="20" as="geometry" />
@@ -1557,22 +1557,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--187" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;LLM&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;SaleGuide&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;V2&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Rank + Reason功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2786.2" y="-128" width="77.4" height="38" as="geometry" />
+          <mxGeometry x="2786.2" y="-159" width="77.4" height="38" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--189" target="UTxCFiax12SvV2Ai0U1--191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--189" value="UI展示短标题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="2656.2" y="-64" width="80" height="20" as="geometry" />
+          <mxGeometry x="2656.2" y="-95" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--190" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--159" target="UTxCFiax12SvV2Ai0U1--189">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2393.6" y="-254" as="sourcePoint" />
-            <mxPoint x="2483.6" y="-191" as="targetPoint" />
+            <mxPoint x="2393.6" y="-285" as="sourcePoint" />
+            <mxPoint x="2483.6" y="-222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--191" value="Rcmd&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Reply&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;itemUI + 推荐理由&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2907.22" y="-119" width="80" height="20" as="geometry" />
+          <mxGeometry x="2907.22" y="-150" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--195" target="UTxCFiax12SvV2Ai0U1--159">
           <mxGeometry relative="1" as="geometry" />
@@ -1581,10 +1581,10 @@
           <mxGeometry x="2178.5" y="-316" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--203" value="ProductQA&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Reply&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2435.6" y="-52" width="80" height="20" as="geometry" />
+          <mxGeometry x="2435.6" y="-83" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--212" value="Topic = 2/3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2305" y="-126" width="60" height="20" as="geometry" />
+          <mxGeometry x="2305" y="-157" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
