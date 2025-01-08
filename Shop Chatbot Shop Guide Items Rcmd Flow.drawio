@@ -1528,6 +1528,9 @@
             <mxPoint x="2110" y="-393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UTxCFiax12SvV2Ai0U1--186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--174" target="UTxCFiax12SvV2Ai0U1--184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--174" value="UI展示短标题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="2260" y="-473" width="80" height="20" as="geometry" />
         </mxCell>
