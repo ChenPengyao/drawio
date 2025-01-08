@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="6">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="2609" dy="2932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2801" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1361,8 +1361,8 @@
         <mxCell id="TokeIj_IPVJALh0EGjVd-330" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;1. 根据item_id获取对应的item_text&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;2. 根据输入的emb返回检索的TopN item_id&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=9;" parent="TokeIj_IPVJALh0EGjVd-331" vertex="1">
           <mxGeometry x="5.130000000000109" width="196.38" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UTxCFiax12SvV2Ai0U1--75" value="recall" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1951" y="-1300" width="525" height="310" as="geometry" />
+        <mxCell id="UTxCFiax12SvV2Ai0U1--75" value="saleguide触发逻辑，update time: 20250108" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="-483" width="980" height="453" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--76" value="buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="2112" y="-310" width="20" height="30" as="geometry" />
