@@ -1598,9 +1598,6 @@
         <mxCell id="Q97gY-4Kl-6UuuqgAtrc-1" value="新UI的样式需要调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2230" y="-385" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UBEG9jv8dTXMc709yxG9-2" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;LLM SaleGuide V3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="-80" width="70" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
