@@ -1517,7 +1517,7 @@
         <mxCell id="UTxCFiax12SvV2Ai0U1--172" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;LLM SaleGuide V2&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Fulfillment功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="2440" y="-466" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UTxCFiax12SvV2Ai0U1--173" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--77" target="UTxCFiax12SvV2Ai0U1--172">
+        <mxCell id="UTxCFiax12SvV2Ai0U1--173" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--195" target="UTxCFiax12SvV2Ai0U1--172">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2380" y="-286" as="sourcePoint" />
             <mxPoint x="2450" y="-376" as="targetPoint" />
