@@ -2163,7 +2163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yxg_40CvmD7Hk4jv6p7E" name="RAG-LLM-RCMD">
-    <mxGraphModel dx="1706" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2243,8 +2243,8 @@
         <mxCell id="SKhd9B-aE8KNerlFDQsx-32" value="&lt;div&gt;Filter&lt;/div&gt;3个item" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="603" y="361.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TEVXdljnCT8_7CvAvAoE-1" value="Shop QA LLM Task List" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="150" y="540" width="610" height="320" as="geometry" />
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-1" value="Shop QA LLM Task List&amp;nbsp; &lt;span style=&quot;font-weight: normal;&quot;&gt;update: 20250109&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;horizontal=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="371" y="600" width="610" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
