@@ -2255,6 +2255,51 @@
         <mxCell id="TEVXdljnCT8_7CvAvAoE-4" value="Reply v1 20240403 (传1个商品信息，不需要rank&lt;div&gt;Reply v2 20240806 (传多个商品信息，需要rank&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;优化&lt;/b&gt;&lt;/div&gt;&lt;div&gt;融合为 Reply v3&lt;/div&gt;&lt;div&gt;1. 1个商品不需要rank，多个商品才需要rank；rank list字段统一&lt;/div&gt;&lt;div&gt;2. 商品信息处理统一格式，item维度的，商品信息处理可以统一做优化&lt;/div&gt;&lt;div&gt;3. 增加no-data输出，direct rcmd no-data转人工，fulfillment rcmd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="410" y="710" width="280" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TEVXdljnCT8_7CvAvAoE-5" target="TEVXdljnCT8_7CvAvAoE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-5" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;确定待放量店铺名单和放量时间&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TEVXdljnCT8_7CvAvAoE-6" target="TEVXdljnCT8_7CvAvAoE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-6" value="将待放量店铺名单&lt;div&gt;写入rollout_td表&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;T-7天&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TEVXdljnCT8_7CvAvAoE-8" target="TEVXdljnCT8_7CvAvAoE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-8" value="SaleGuide 初始化&lt;div&gt;店铺内商品数据&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;T-6天&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="660" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-9" value="KG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="720" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-10" value="I2I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="720" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-11" value="Q2I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="760" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-13" value="搭配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="760" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TEVXdljnCT8_7CvAvAoE-20" target="TEVXdljnCT8_7CvAvAoE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-20" value="初始化数据计算完成检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TEVXdljnCT8_7CvAvAoE-22" target="TEVXdljnCT8_7CvAvAoE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-22" value="将数据写入DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-26" value="待放量店铺列表&lt;div&gt;Live注册&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;T天&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
