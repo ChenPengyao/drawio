@@ -2243,8 +2243,17 @@
         <mxCell id="SKhd9B-aE8KNerlFDQsx-32" value="&lt;div&gt;Filter&lt;/div&gt;3个item" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="603" y="361.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TEVXdljnCT8_7CvAvAoE-1" value="Shop QA LLM Task List&amp;nbsp; &lt;span style=&quot;font-weight: normal;&quot;&gt;update: 20250109&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;horizontal=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="371" y="600" width="610" height="320" as="geometry" />
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-1" value="Shop QA LLM Task List&amp;nbsp; &lt;span style=&quot;font-weight: normal;&quot;&gt;update: 20250109&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;horizontal=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="371" y="600" width="359" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-2" value="Reg Task&lt;div&gt;20241224样本&lt;/div&gt;&lt;div&gt;&lt;b&gt;优化库存问题&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="410" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-3" value="Fulfillment Task&lt;div&gt;20240806样本&lt;/div&gt;&lt;div&gt;&lt;b&gt;待bad cases分析&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="570" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TEVXdljnCT8_7CvAvAoE-4" value="Reply v1 20240403 (传1个商品信息，不需要rank&lt;div&gt;Reply v2 20240806 (传多个商品信息，需要rank&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;优化&lt;/b&gt;&lt;/div&gt;&lt;div&gt;融合为 Reply v3&lt;/div&gt;&lt;div&gt;1. 1个商品不需要rank，多个商品才需要rank；rank list字段统一&lt;/div&gt;&lt;div&gt;2. 商品信息处理统一格式，item维度的，商品信息处理可以统一做优化&lt;/div&gt;&lt;div&gt;3. 增加no-data输出，direct rcmd no-data转人工，fulfillment rcmd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="710" width="280" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
