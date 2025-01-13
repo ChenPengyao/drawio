@@ -2105,7 +2105,7 @@
         <mxCell id="Cz266X3t1tPN_Dt5zimo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cz266X3t1tPN_Dt5zimo-61" target="Cz266X3t1tPN_Dt5zimo-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cz266X3t1tPN_Dt5zimo-61" value="LLM - 推荐&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;排序并展示Top3&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;为Top1生成推荐理由&lt;br&gt;样本训练引入多轮对话&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-61" value="LLM - 推荐&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;排序并展示Top3&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;为Top1生成推荐理由&lt;br&gt;&lt;b&gt;样本训练引入多轮对话&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1948" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cz266X3t1tPN_Dt5zimo-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cz266X3t1tPN_Dt5zimo-64" target="Cz266X3t1tPN_Dt5zimo-61" edge="1">
