@@ -1761,7 +1761,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="draft" id="G8CixaVr8PnL_Jj4iAKf">
-    <mxGraphModel dx="1152" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1559" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2159,8 +2159,11 @@
         <mxCell id="6hicC9NC0_jLeyxJ3JVy-7" value="filter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1345" y="1200" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XJ_Me_HYGUaSdzurNaTT-1" value="&amp;nbsp;solution 路由，scenario；&lt;div&gt;举例：Topic → DMS (通用 → 跟第二个类似 → 价格更便宜的 → 套装)&lt;/div&gt;&lt;div&gt;&amp;lt; 场景, prompt &amp;gt;不同场景可能有不同的需求提取prompt；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;变量传递：&lt;/div&gt;&lt;div&gt;粗粒度：支持当前的场景；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1670" width="350" height="140" as="geometry" />
+        <mxCell id="XJ_Me_HYGUaSdzurNaTT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;dashed=1;strokeWidth=2;strokeColor=#FF0000;endArrow=classic;endFill=0;" edge="1" parent="1" source="XJ_Me_HYGUaSdzurNaTT-1" target="6hicC9NC0_jLeyxJ3JVy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XJ_Me_HYGUaSdzurNaTT-1" value="&amp;nbsp;solution 路由，scenario；&lt;div&gt;举例：Topic → DMS (通用 → 跟第二个类似 → 价格更便宜的 → 套装)&lt;/div&gt;&lt;div&gt;&amp;lt; 场景, prompt &amp;gt;不同场景可能有不同的需求提取prompt；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;变量传递：需要传递&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;粗粒度：支持当前的场景；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1684" width="350" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
