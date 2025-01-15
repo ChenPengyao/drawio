@@ -2126,8 +2126,8 @@
         <mxCell id="Cz266X3t1tPN_Dt5zimo-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#FF0000;dashed=1;strokeWidth=3;" parent="1" source="Cz266X3t1tPN_Dt5zimo-76" target="Cz266X3t1tPN_Dt5zimo-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cz266X3t1tPN_Dt5zimo-76" value="&amp;nbsp;&lt;div&gt;待定；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主要是减少从满足条件的召回商品 → LLM推荐的商品数量&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1385" y="1010" width="350" height="140" as="geometry" />
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-76" value="&amp;nbsp;&lt;div&gt;待定；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主要是减少从满足条件的召回商品 → LLM推荐的商品数量&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Query(用户问题+商品信息+其他的 信息整合 abstact)&lt;/div&gt;&lt;div&gt;ItemInfo(DB的商品信息的文字整合)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;根据功能场景，来做相似度排序；&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1385" y="970" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Cz266X3t1tPN_Dt5zimo-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;strokeWidth=3;strokeColor=#FF0000;" parent="1" source="Cz266X3t1tPN_Dt5zimo-78" target="Cz266X3t1tPN_Dt5zimo-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
