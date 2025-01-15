@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="6">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
-    <mxGraphModel dx="2958" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3001" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1401,7 +1401,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--129" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2398" y="-331" width="20" height="20" as="geometry" />
+          <mxGeometry x="2398" y="-331" width="21" height="21" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--130" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;搭配 Search&lt;/b&gt;&lt;/div&gt;CK 索引" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="2440" y="-292" width="70" height="26" as="geometry" />
@@ -1541,7 +1541,7 @@
         <mxCell id="UTxCFiax12SvV2Ai0U1--183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--180" target="UTxCFiax12SvV2Ai0U1--182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UTxCFiax12SvV2Ai0U1--180" value="&lt;b&gt;Rerank&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="UTxCFiax12SvV2Ai0U1--180" value="&lt;b&gt;规则Rerank&lt;/b&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="2720" y="-338.5" width="70" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UTxCFiax12SvV2Ai0U1--185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UTxCFiax12SvV2Ai0U1--182" target="UTxCFiax12SvV2Ai0U1--184">
@@ -1761,7 +1761,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="draft" id="G8CixaVr8PnL_Jj4iAKf">
-    <mxGraphModel dx="1186" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1152" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1996,7 +1996,7 @@
         <mxCell id="Cz266X3t1tPN_Dt5zimo-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#FF0000;strokeWidth=3;dashed=1;" parent="1" source="Cz266X3t1tPN_Dt5zimo-16" target="Cz266X3t1tPN_Dt5zimo-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cz266X3t1tPN_Dt5zimo-16" value="LLM - 需求提取&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;将非结构化数据变为结构化数据&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;1. 商品信息增量用Qwen72B处理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;2. query的识别LLM可不断迭代&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-16" value="LLM - 需求提取&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;将非结构化数据变为结构化数据&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;1. 离线商品信息增量用Qwen72B处理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;2. query的识别LLM可不断迭代&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="630" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cz266X3t1tPN_Dt5zimo-19" value="用户需求" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
@@ -2090,7 +2090,7 @@
         <mxCell id="Cz266X3t1tPN_Dt5zimo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Cz266X3t1tPN_Dt5zimo-57" target="Cz266X3t1tPN_Dt5zimo-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cz266X3t1tPN_Dt5zimo-57" value="Rerank" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-57" value="prerank" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1500" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cz266X3t1tPN_Dt5zimo-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cz266X3t1tPN_Dt5zimo-58" target="Cz266X3t1tPN_Dt5zimo-61" edge="1">
@@ -2105,7 +2105,7 @@
         <mxCell id="Cz266X3t1tPN_Dt5zimo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cz266X3t1tPN_Dt5zimo-61" target="Cz266X3t1tPN_Dt5zimo-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cz266X3t1tPN_Dt5zimo-61" value="LLM - 推荐&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;排序并展示Top3&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;为Top1生成推荐理由&lt;br&gt;&lt;b&gt;样本训练引入多轮对话&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Cz266X3t1tPN_Dt5zimo-61" value="LLM - 个性化推荐&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;排序并展示Top3&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;为Top1生成推荐理由&lt;br&gt;&lt;b&gt;样本训练引入多轮对话&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1948" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cz266X3t1tPN_Dt5zimo-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cz266X3t1tPN_Dt5zimo-64" target="Cz266X3t1tPN_Dt5zimo-61" edge="1">
@@ -2158,6 +2158,9 @@
         </mxCell>
         <mxCell id="6hicC9NC0_jLeyxJ3JVy-7" value="filter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1345" y="1200" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XJ_Me_HYGUaSdzurNaTT-1" value="&amp;nbsp;solution 路由，scenario；&lt;div&gt;举例：Topic → DMS (通用 → 跟第二个类似 → 价格更便宜的 → 套装)&lt;/div&gt;&lt;div&gt;&amp;lt; 场景, prompt &amp;gt;不同场景可能有不同的需求提取prompt；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;变量传递：&lt;/div&gt;&lt;div&gt;粗粒度：支持当前的场景；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1670" width="350" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
