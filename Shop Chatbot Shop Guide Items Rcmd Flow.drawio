@@ -2169,7 +2169,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yxg_40CvmD7Hk4jv6p7E" name="RAG-LLM-RCMD">
-    <mxGraphModel dx="1438" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1692" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2383,11 +2383,11 @@
         </mxCell>
         <mxCell id="buAsm5-ixtIDO3hm6NSj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1780" y="1520" as="targetPoint" />
+            <mxPoint x="1140" y="2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buAsm5-ixtIDO3hm6NSj-28" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;model 2 option 2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;no-data definition&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;1. no recalled item&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1490" width="120" height="60" as="geometry" />
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-28" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;model v1 2 option 2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;no-data definition&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;1. no recalled item&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="2050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="buAsm5-ixtIDO3hm6NSj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-29" target="buAsm5-ixtIDO3hm6NSj-30">
           <mxGeometry relative="1" as="geometry" />
@@ -2395,29 +2395,121 @@
         <mxCell id="buAsm5-ixtIDO3hm6NSj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-29" target="buAsm5-ixtIDO3hm6NSj-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="buAsm5-ixtIDO3hm6NSj-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;model 1 option 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;no-data definition&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;1. no recalled item&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. not relevant&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1390" width="120" height="60" as="geometry" />
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;model v1 1 option 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;no-data definition&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;1. no recalled item&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. not relevant&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="buAsm5-ixtIDO3hm6NSj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-30" target="buAsm5-ixtIDO3hm6NSj-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="buAsm5-ixtIDO3hm6NSj-30" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result: ok&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="buAsm5-ixtIDO3hm6NSj-34" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;send rcmd&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1340" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="buAsm5-ixtIDO3hm6NSj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-36" target="buAsm5-ixtIDO3hm6NSj-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="buAsm5-ixtIDO3hm6NSj-36" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result: no-data&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="2050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="buAsm5-ixtIDO3hm6NSj-37" value="agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1340" y="2050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="buAsm5-ixtIDO3hm6NSj-43" value="Topic → SaleGuide" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="920" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-44" value="PQA → Fulfillment → SaleGuide" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1345" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-45" target="buAsm5-ixtIDO3hm6NSj-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-45" value="&lt;div&gt;PQA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-46" target="buAsm5-ixtIDO3hm6NSj-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1345" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-46" value="&lt;div&gt;Fulfillment Check&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-49" value="no fulfillment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-51" target="buAsm5-ixtIDO3hm6NSj-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-51" target="buAsm5-ixtIDO3hm6NSj-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-51" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Item recall module&lt;/span&gt;&lt;/div&gt;&lt;div&gt;1. recall policies&lt;/div&gt;&lt;div&gt;2. filter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-52" target="buAsm5-ixtIDO3hm6NSj-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-52" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;no recalled item&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-54" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;no action&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-56" target="buAsm5-ixtIDO3hm6NSj-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-56" target="buAsm5-ixtIDO3hm6NSj-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-56" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;LLM Reply&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;one model&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-57" target="buAsm5-ixtIDO3hm6NSj-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-57" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;is recalled item&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-61" target="buAsm5-ixtIDO3hm6NSj-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-61" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result: ok&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-64" target="buAsm5-ixtIDO3hm6NSj-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-64" target="buAsm5-ixtIDO3hm6NSj-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-64" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;result: no-data&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;1. no recalled item&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. not relevant&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-65" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;send rcmd&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2328" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-67" target="buAsm5-ixtIDO3hm6NSj-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-67" value="test 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-68" value="no action" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2328" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="buAsm5-ixtIDO3hm6NSj-70" target="buAsm5-ixtIDO3hm6NSj-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-70" value="test 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-73" value="Model v1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="buAsm5-ixtIDO3hm6NSj-74" value="Model v2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1505" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
