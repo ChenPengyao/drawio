@@ -2612,7 +2612,7 @@
         <mxCell id="-blBNv4qOv_8SOsYlm9M-8" value="Special query to Agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="470" y="450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-blBNv4qOv_8SOsYlm9M-11" value="Card Solution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="-blBNv4qOv_8SOsYlm9M-11" value="Card Solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="544" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
