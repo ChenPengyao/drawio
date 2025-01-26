@@ -2600,10 +2600,16 @@
         <mxCell id="-blBNv4qOv_8SOsYlm9M-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-blBNv4qOv_8SOsYlm9M-3" target="-blBNv4qOv_8SOsYlm9M-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-blBNv4qOv_8SOsYlm9M-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-blBNv4qOv_8SOsYlm9M-3" target="-blBNv4qOv_8SOsYlm9M-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-blBNv4qOv_8SOsYlm9M-3" value="Topic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-blBNv4qOv_8SOsYlm9M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-blBNv4qOv_8SOsYlm9M-6" target="-blBNv4qOv_8SOsYlm9M-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-blBNv4qOv_8SOsYlm9M-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-blBNv4qOv_8SOsYlm9M-6" target="-blBNv4qOv_8SOsYlm9M-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-blBNv4qOv_8SOsYlm9M-6" value="PreSale 1-5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2647,6 +2653,9 @@
         </mxCell>
         <mxCell id="-blBNv4qOv_8SOsYlm9M-23" value="&lt;div style=&quot;font-size: 9px;&quot;&gt;Router = 4 - 8&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="410" y="442" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-blBNv4qOv_8SOsYlm9M-26" value="ShopQA Reg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="680" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
