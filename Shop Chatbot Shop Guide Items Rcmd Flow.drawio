@@ -2870,6 +2870,9 @@
         <mxCell id="MwXm6wHVrIGCI2U1z43N-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MwXm6wHVrIGCI2U1z43N-19" target="MwXm6wHVrIGCI2U1z43N-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MwXm6wHVrIGCI2U1z43N-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MwXm6wHVrIGCI2U1z43N-19" target="MwXm6wHVrIGCI2U1z43N-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MwXm6wHVrIGCI2U1z43N-19" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;CompareQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="470" y="406" width="70" height="40" as="geometry" />
         </mxCell>
@@ -2881,6 +2884,15 @@
         </mxCell>
         <mxCell id="MwXm6wHVrIGCI2U1z43N-23" value="1. item_list&lt;div&gt;2. multi-round history chat&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="195" y="466" width="95" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="MwXm6wHVrIGCI2U1z43N-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MwXm6wHVrIGCI2U1z43N-25" target="MwXm6wHVrIGCI2U1z43N-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MwXm6wHVrIGCI2U1z43N-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MwXm6wHVrIGCI2U1z43N-25" target="MwXm6wHVrIGCI2U1z43N-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MwXm6wHVrIGCI2U1z43N-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MwXm6wHVrIGCI2U1z43N-25" target="MwXm6wHVrIGCI2U1z43N-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MwXm6wHVrIGCI2U1z43N-25" value="Compare卡片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="599" y="406" width="70" height="40" as="geometry" />
@@ -2914,6 +2926,18 @@
         </mxCell>
         <mxCell id="MwXm6wHVrIGCI2U1z43N-51" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Component&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Info preprocess&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="344" y="406" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MwXm6wHVrIGCI2U1z43N-54" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;ProductQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="720" y="352.75" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MwXm6wHVrIGCI2U1z43N-56" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;ShopQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="720" y="406.25" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MwXm6wHVrIGCI2U1z43N-58" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;chitchat | off-topic&lt;br&gt;上下文不被更改&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=8;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="720" y="459.25" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MwXm6wHVrIGCI2U1z43N-60" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Risk Control&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
