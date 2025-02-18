@@ -2236,8 +2236,8 @@
         <mxCell id="BgJAxg4Z1wklECdmPpNB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-34" target="BgJAxg4Z1wklECdmPpNB-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200" y="2390" />
-              <mxPoint x="1200" y="2515" />
+              <mxPoint x="1180" y="2390" />
+              <mxPoint x="1180" y="2515" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2251,13 +2251,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-37" value="召回商品集&lt;div&gt;N &amp;gt; 5&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1237.5" y="2350" width="120" height="80" as="geometry" />
+          <mxGeometry x="1217" y="2350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BgJAxg4Z1wklECdmPpNB-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200" y="2253" />
-              <mxPoint x="1200" y="2390" />
+              <mxPoint x="1180" y="2253" />
+              <mxPoint x="1180" y="2390" />
             </Array>
             <mxPoint x="835" y="2253" as="sourcePoint" />
             <mxPoint x="1235" y="2390" as="targetPoint" />
@@ -2273,7 +2273,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-43" value="rerank模块&lt;div&gt;(query_desc, item_desc)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="2360" width="150" height="60" as="geometry" />
+          <mxGeometry x="1360" y="2360" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-46" target="BgJAxg4Z1wklECdmPpNB-48">
           <mxGeometry relative="1" as="geometry" />
@@ -2282,7 +2282,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-46" value="召回商品集&lt;div&gt;N = 3&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="2350" width="120" height="80" as="geometry" />
+          <mxGeometry x="1534" y="2350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-48" target="BgJAxg4Z1wklECdmPpNB-51">
           <mxGeometry relative="1" as="geometry">
@@ -2290,16 +2290,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-48" value="LLM - 个性化推荐&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;1. 使用用户数据，候选商品数据，个性化排序&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;2. 对Top1生成推荐话术&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1798" y="2355" width="182" height="70" as="geometry" />
+          <mxGeometry x="1710" y="2355" width="182" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-50" target="BgJAxg4Z1wklECdmPpNB-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-50" value="信息整合&lt;div&gt;从CK中查询这5个商品的属性(属性为用户需求中涉及的)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="2485" width="120" height="60" as="geometry" />
+          <mxGeometry x="1620" y="2485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-51" value="召回商品集&lt;div&gt;N = 3&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="2350" width="120" height="80" as="geometry" />
+          <mxGeometry x="1920" y="2350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-62" target="BgJAxg4Z1wklECdmPpNB-29">
           <mxGeometry relative="1" as="geometry" />
@@ -2311,7 +2311,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-65" value="业务filter&lt;div&gt;1. 过滤主商品&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="2240" width="125" height="50" as="geometry" />
+          <mxGeometry x="1214.5" y="2240" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-69" target="BgJAxg4Z1wklECdmPpNB-9">
           <mxGeometry relative="1" as="geometry" />
