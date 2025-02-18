@@ -1761,7 +1761,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="draft" id="G8CixaVr8PnL_Jj4iAKf">
-    <mxGraphModel dx="1027" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1692" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2177,7 +2177,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-9" value="User Info" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="2130" width="140" height="104" as="geometry" />
+          <mxGeometry x="520" y="2203" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-10" value="Query" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BgJAxg4Z1wklECdmPpNB-9">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -2188,29 +2188,29 @@
         <mxCell id="BgJAxg4Z1wklECdmPpNB-13" value="User_Basic_info" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BgJAxg4Z1wklECdmPpNB-9">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-15" value="LLM - 需求提取&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;结合更多信息，理解提取需求&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-15" value="LLM - 需求提取&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;结合更多信息，理解提取需求&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;1. 不同场景的需求有不同的理解&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;2. 定义好过滤条件&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="2350" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-16" value="用户需求" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="2200" width="140" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-17" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;过滤条件：&lt;/div&gt;类目，&lt;br&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BgJAxg4Z1wklECdmPpNB-16">
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-17" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;过滤条件：&lt;/div&gt;价格，&lt;br&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BgJAxg4Z1wklECdmPpNB-16">
           <mxGeometry y="26" width="140" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-18" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;数值信息：&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Price, Sale&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BgJAxg4Z1wklECdmPpNB-16">
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-18" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;文本信息：&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;需求描述, 商品特征，类目&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BgJAxg4Z1wklECdmPpNB-16">
           <mxGeometry y="80" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.705;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-15" target="BgJAxg4Z1wklECdmPpNB-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-20" value="Spu 信息" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="2450" width="140" height="128" as="geometry" />
+          <mxGeometry x="790" y="2450" width="140" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-21" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;文本信息：&lt;/div&gt;Cate, Material, Variation&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BgJAxg4Z1wklECdmPpNB-20">
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-21" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;过滤条件：&lt;/div&gt;价格，状态，库存&lt;br&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BgJAxg4Z1wklECdmPpNB-20">
           <mxGeometry y="26" width="140" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-22" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;数值信息：&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Price, Sale&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BgJAxg4Z1wklECdmPpNB-20">
-          <mxGeometry y="80" width="140" height="48" as="geometry" />
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-22" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;文本信息：&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;类目，标题，model信息，desc chunk&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;。。。&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BgJAxg4Z1wklECdmPpNB-20">
+          <mxGeometry y="80" width="140" height="58" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-24" target="BgJAxg4Z1wklECdmPpNB-15">
           <mxGeometry relative="1" as="geometry" />
@@ -2224,7 +2224,7 @@
         <mxCell id="BgJAxg4Z1wklECdmPpNB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.728;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-15" target="BgJAxg4Z1wklECdmPpNB-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-29" value="Vectorization - 向量化&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;将结构化文本信息向量化&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;1. 向量化模型相似度精度很重要&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-29" value="Vectorization - 向量化&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;将文本信息向量化&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;1. 向量化模型相似度精度很重要&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;2. 向量维度dim=128&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1000" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-17" target="BgJAxg4Z1wklECdmPpNB-29">
@@ -2264,10 +2264,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-39" value="将商品属性向量信息和数值信息存入CK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-39" value="将商品文本向量和数值信息存入CK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050" y="2500" width="237" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-40" value="将用户需求的属性向量和数值信息&lt;div&gt;CK中进行检索&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-40" value="将用户需求文本向量和过滤条件&lt;div&gt;CK中进行检索&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="2240" width="237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-43" target="BgJAxg4Z1wklECdmPpNB-46">
@@ -2300,12 +2300,6 @@
         <mxCell id="BgJAxg4Z1wklECdmPpNB-51" value="召回商品集&lt;div&gt;N = 3&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2170" y="2350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0000;endArrow=none;endFill=0;strokeWidth=3;dashed=1;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-53" target="BgJAxg4Z1wklECdmPpNB-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-53" value="&amp;nbsp;&lt;div&gt;类目: 裙子 → [x,x,x,x,..]，向量维度可以小32/64&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;价格: 3000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;为了支持文本描述的匹配 &amp;amp; 数值需求的匹配&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="885" y="2724" width="350" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#FF0000;dashed=1;strokeWidth=3;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-55" target="BgJAxg4Z1wklECdmPpNB-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2318,11 +2312,8 @@
         <mxCell id="BgJAxg4Z1wklECdmPpNB-57" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;希望LLM更全面的从N个商品中选出最适合的商品，并且生成推荐理由；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主要考虑用户的个人信息，行为信息，需求信息&lt;/div&gt;&lt;div&gt;以及候选商品的对应需求的信息描述&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1833" y="2060" width="350" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-59" target="BgJAxg4Z1wklECdmPpNB-15">
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-62" target="BgJAxg4Z1wklECdmPpNB-29">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-59" value="DMS&lt;div&gt;多轮信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="630" y="2630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BgJAxg4Z1wklECdmPpNB-62" value="Embedder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="860" y="2375" width="80" height="30" as="geometry" />
@@ -2333,11 +2324,11 @@
         <mxCell id="BgJAxg4Z1wklECdmPpNB-65" value="filter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1345" y="2240" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;dashed=1;strokeWidth=2;strokeColor=#FF0000;endArrow=classic;endFill=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-67" target="BgJAxg4Z1wklECdmPpNB-59">
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BgJAxg4Z1wklECdmPpNB-69" target="BgJAxg4Z1wklECdmPpNB-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BgJAxg4Z1wklECdmPpNB-67" value="&amp;nbsp;solution 路由，scenario；&lt;div&gt;举例：Topic → DMS (通用 → 跟第二个类似 → 价格更便宜的 → 套装)&lt;/div&gt;&lt;div&gt;&amp;lt; 场景, prompt &amp;gt;不同场景可能有不同的需求提取prompt；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;变量传递：需要传递&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;粗粒度：支持当前的场景；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;strokeColor=#FF0000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="515" y="2724" width="350" height="140" as="geometry" />
+        <mxCell id="BgJAxg4Z1wklECdmPpNB-69" value="DMS&lt;div&gt;多轮对话 + 主商品&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
