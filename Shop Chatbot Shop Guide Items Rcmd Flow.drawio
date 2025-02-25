@@ -2975,7 +2975,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lGbePTLMqHhr7Z2eifdf" name="compareQA">
-    <mxGraphModel dx="1119" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="598" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3098,6 +3098,45 @@
         </mxCell>
         <mxCell id="0shSTgSmd4OReo23aEmG-1" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;ProductQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="900" y="270" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0shSTgSmd4OReo23aEmG-2" target="0shSTgSmd4OReo23aEmG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-2" value="Req" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="860.75" width="20" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0shSTgSmd4OReo23aEmG-5" target="0shSTgSmd4OReo23aEmG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0shSTgSmd4OReo23aEmG-5" target="0shSTgSmd4OReo23aEmG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0shSTgSmd4OReo23aEmG-5" target="0shSTgSmd4OReo23aEmG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-5" value="DMS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="190" y="818.5" width="160" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-6" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Topic&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="200" y="889.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-8" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Items Selector&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="414" y="859" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-11" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;DM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="200" y="839.5" width="70" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-14" value="Query Rewrite&lt;br style=&quot;font-size: 5px;&quot;&gt;History Info:&amp;nbsp;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 5px;&quot;&gt;&#x9;&lt;/span&gt;1. item_list&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 5px;&quot;&gt;&#x9;&lt;/span&gt;2. item_shorten_title" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=5;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="277.41" y="839.5" width="70.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-16" value="补充说明：" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=5;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="195.00000000000003" y="950" width="70.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-17" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;PQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="414" y="790" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-20" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;PQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="414" y="930" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
