@@ -2975,7 +2975,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lGbePTLMqHhr7Z2eifdf" name="compareQA">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3096,11 +3096,14 @@
         <mxCell id="MwXm6wHVrIGCI2U1z43N-60" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Risk Control&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="380" y="476.5" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0shSTgSmd4OReo23aEmG-1" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;ProductQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="900" y="270" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="XrMHw7znQYKTZyik3Pds" name="第 9 页">
-    <mxGraphModel dx="1589" dy="-457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="XrMHw7znQYKTZyik3Pds" name="ShopQA优化pipeline">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
