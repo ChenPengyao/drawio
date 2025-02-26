@@ -3226,7 +3226,7 @@
           <mxGeometry x="384" y="905" width="178" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0shSTgSmd4OReo23aEmG-111" value="&lt;font color=&quot;#ff0000&quot;&gt;Q: item selector默认勾选pdp进入的商品&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="372" y="950" width="178" height="20" as="geometry" />
+          <mxGeometry x="384" y="914.5" width="178" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
