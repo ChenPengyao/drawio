@@ -3434,7 +3434,7 @@
         <mxCell id="Cn2iaUpeeHJlqVie4Ert-14" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;过滤条件：&lt;/div&gt;价格，状态，库存&lt;br&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;。。。&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Cn2iaUpeeHJlqVie4Ert-13">
           <mxGeometry y="26" width="140" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="Cn2iaUpeeHJlqVie4Ert-15" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;文本信息：&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;类目，标题，model信息，desc chunk&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;。。。&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Cn2iaUpeeHJlqVie4Ert-13">
+        <mxCell id="Cn2iaUpeeHJlqVie4Ert-15" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;文本信息：&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;类目，标题，model信息，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;desc chunk&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;。。。&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="Cn2iaUpeeHJlqVie4Ert-13">
           <mxGeometry y="80" width="140" height="58" as="geometry" />
         </mxCell>
         <mxCell id="Cn2iaUpeeHJlqVie4Ert-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cn2iaUpeeHJlqVie4Ert-17" target="Cn2iaUpeeHJlqVie4Ert-8">
@@ -3449,7 +3449,7 @@
         <mxCell id="Cn2iaUpeeHJlqVie4Ert-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.728;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cn2iaUpeeHJlqVie4Ert-8" target="Cn2iaUpeeHJlqVie4Ert-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cn2iaUpeeHJlqVie4Ert-20" value="Vectorization - 向量化&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;将文本信息向量化&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;1. 向量化模型相似度精度很重要&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;2. 向量维度dim=128&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Cn2iaUpeeHJlqVie4Ert-20" value="Vectorization - 向量化&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;将文本(类目/标题/详情)向量化&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;1. 向量化模型相似度精度很重要&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;2. 向量维度dim=128&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="926" y="3370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cn2iaUpeeHJlqVie4Ert-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cn2iaUpeeHJlqVie4Ert-10" target="Cn2iaUpeeHJlqVie4Ert-20">
@@ -3489,7 +3489,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cn2iaUpeeHJlqVie4Ert-29" value="将商品文本向量和数值信息存入CK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="901" y="3514" width="237" height="30" as="geometry" />
+          <mxGeometry x="885" y="3514" width="237" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Cn2iaUpeeHJlqVie4Ert-30" value="将用户需求文本向量和过滤条件&lt;div&gt;CK中进行检索&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="971" y="3250" width="237" height="30" as="geometry" />
@@ -3497,7 +3497,7 @@
         <mxCell id="Cn2iaUpeeHJlqVie4Ert-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cn2iaUpeeHJlqVie4Ert-32" target="Cn2iaUpeeHJlqVie4Ert-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cn2iaUpeeHJlqVie4Ert-32" value="rerank模块&lt;div&gt;(query_desc, item_desc)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Cn2iaUpeeHJlqVie4Ert-32" value="reranker模块&lt;div&gt;(query_desc, item_desc)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1351" y="3370" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cn2iaUpeeHJlqVie4Ert-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cn2iaUpeeHJlqVie4Ert-35" target="Cn2iaUpeeHJlqVie4Ert-37">
@@ -3506,7 +3506,7 @@
         <mxCell id="Cn2iaUpeeHJlqVie4Ert-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cn2iaUpeeHJlqVie4Ert-35" target="Cn2iaUpeeHJlqVie4Ert-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cn2iaUpeeHJlqVie4Ert-35" value="召回商品集&lt;div&gt;N = 5&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Cn2iaUpeeHJlqVie4Ert-35" value="召回商品集&lt;div&gt;N = 3&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1525" y="3360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cn2iaUpeeHJlqVie4Ert-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cn2iaUpeeHJlqVie4Ert-37" target="Cn2iaUpeeHJlqVie4Ert-40">
