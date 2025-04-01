@@ -3502,7 +3502,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XrMHw7znQYKTZyik3Pds" name="ShopQA优化pipeline">
-    <mxGraphModel dx="918" dy="-628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1542" dy="-418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3854,13 +3854,13 @@
           <mxGeometry x="1860" y="1718" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-16" value="LLM-RCMD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="1718" width="80" height="40" as="geometry" />
+          <mxGeometry x="2190" y="1718" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-18" value="Recall@50" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1157" y="1756.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-20" value="&lt;div&gt;Top 4&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;items&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="1706.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1941" y="1706.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-21" value="使用DMS改写后的query" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1009" y="1764.75" width="113" height="53.5" as="geometry" />
@@ -3911,7 +3911,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-64" value="Component&lt;div&gt;信息处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="1718" width="80" height="40" as="geometry" />
+          <mxGeometry x="2070" y="1718" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N_naZ5TtIp17tAApqueC-67" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2010" y="1940" as="sourcePoint" />
+            <mxPoint x="2010" y="1550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
