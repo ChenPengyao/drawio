@@ -3502,7 +3502,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XrMHw7znQYKTZyik3Pds" name="ShopQA优化pipeline">
-    <mxGraphModel dx="1276" dy="-418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="-628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3841,34 +3841,26 @@
         <mxCell id="N_naZ5TtIp17tAApqueC-10" value="Query Rewriting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1017" y="1718.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N_naZ5TtIp17tAApqueC-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N_naZ5TtIp17tAApqueC-12" target="N_naZ5TtIp17tAApqueC-25">
+        <mxCell id="N_naZ5TtIp17tAApqueC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N_naZ5TtIp17tAApqueC-12" target="N_naZ5TtIp17tAApqueC-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-12" value="Recall" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1147" y="1718.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N_naZ5TtIp17tAApqueC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N_naZ5TtIp17tAApqueC-14" target="N_naZ5TtIp17tAApqueC-16">
+        <mxCell id="N_naZ5TtIp17tAApqueC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N_naZ5TtIp17tAApqueC-14" target="N_naZ5TtIp17tAApqueC-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N_naZ5TtIp17tAApqueC-14" value="Rerank" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="1723" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N_naZ5TtIp17tAApqueC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N_naZ5TtIp17tAApqueC-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2130" y="1743" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="N_naZ5TtIp17tAApqueC-14" value="Reranker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1718" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-16" value="LLM-RCMD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="1723" width="80" height="40" as="geometry" />
+          <mxGeometry x="2140" y="1718" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-18" value="Recall@50" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="1157" y="1756.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_naZ5TtIp17tAApqueC-19" value="Acc@K" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="1761" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="N_naZ5TtIp17tAApqueC-20" value="&lt;div&gt;Filter&lt;/div&gt;3个item" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1933" y="1716" width="60" height="30" as="geometry" />
+        <mxCell id="N_naZ5TtIp17tAApqueC-20" value="&lt;div&gt;Top 4&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;items&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="1706.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-21" value="使用DMS改写后的query" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1009" y="1764.75" width="113" height="53.5" as="geometry" />
@@ -3880,7 +3872,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-23" value="Recalled Item List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1667.5" width="160" height="116" as="geometry" />
+          <mxGeometry x="1280" y="1697.5" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-24" value="Len: 50" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="N_naZ5TtIp17tAApqueC-23">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -3888,17 +3880,38 @@
         <mxCell id="N_naZ5TtIp17tAApqueC-25" value="pdp字段" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="N_naZ5TtIp17tAApqueC-23">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_naZ5TtIp17tAApqueC-26" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="N_naZ5TtIp17tAApqueC-23">
-          <mxGeometry y="86" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-47" value="1. 状态过滤后的商品列表&lt;div&gt;2. 考虑到传输body size的问题，能否指定选取pdp的字段信息，只传需要的字段&lt;/div&gt;&lt;div&gt;3. 和pm确定需要的字段信息&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1800" width="170" height="103.5" as="geometry" />
+          <mxGeometry x="1280" y="1783.5" width="170" height="103.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N_naZ5TtIp17tAApqueC-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N_naZ5TtIp17tAApqueC-49" target="N_naZ5TtIp17tAApqueC-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N_naZ5TtIp17tAApqueC-49" value="Component&lt;div&gt;信息处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1525" y="1718.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N_naZ5TtIp17tAApqueC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N_naZ5TtIp17tAApqueC-25" target="N_naZ5TtIp17tAApqueC-49">
+        <mxCell id="N_naZ5TtIp17tAApqueC-51" value="1. 可以复用当前的PQA / SQA，也可新建，主要看需要使用的字段信息" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1758.5" width="170" height="103.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N_naZ5TtIp17tAApqueC-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N_naZ5TtIp17tAApqueC-24" target="N_naZ5TtIp17tAApqueC-49">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N_naZ5TtIp17tAApqueC-54" value="Recalled Item List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1697.5" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="N_naZ5TtIp17tAApqueC-55" value="Len: 50" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="N_naZ5TtIp17tAApqueC-54">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N_naZ5TtIp17tAApqueC-56" value="Processed Item Info" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="N_naZ5TtIp17tAApqueC-54">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N_naZ5TtIp17tAApqueC-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N_naZ5TtIp17tAApqueC-55" target="N_naZ5TtIp17tAApqueC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N_naZ5TtIp17tAApqueC-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N_naZ5TtIp17tAApqueC-64" target="N_naZ5TtIp17tAApqueC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N_naZ5TtIp17tAApqueC-64" value="Component&lt;div&gt;信息处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="1718" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
