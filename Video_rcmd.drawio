@@ -82,8 +82,20 @@
         <mxCell id="kIQ052omoaKMphS0CrH7-28" value="同款商品" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="800" y="265" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kIQ052omoaKMphS0CrH7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIQ052omoaKMphS0CrH7-32" target="kIQ052omoaKMphS0CrH7-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kIQ052omoaKMphS0CrH7-32" value="Item List" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="970" y="315" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIQ052omoaKMphS0CrH7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIQ052omoaKMphS0CrH7-36" target="kIQ052omoaKMphS0CrH7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIQ052omoaKMphS0CrH7-36" value="Promotion API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="970" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIQ052omoaKMphS0CrH7-40" value="Item Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
