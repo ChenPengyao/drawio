@@ -130,8 +130,14 @@
         <mxCell id="kIQ052omoaKMphS0CrH7-53" value="过滤逻辑(按顺序)：&lt;div&gt;1. 规则：库存，黑词，main商品标题去重&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. LLM提取：主要是价格&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. 和上一轮 / 挂车：价格/评价/销量/类目；less/more&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; 有规则干预逻辑(重映射)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4. 主图去重（从[0]开始遍历）&lt;/div&gt;&lt;div&gt;5. 回退机制&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="350" width="310" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="kIQ052omoaKMphS0CrH7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIQ052omoaKMphS0CrH7-54" target="kIQ052omoaKMphS0CrH7-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kIQ052omoaKMphS0CrH7-54" value="Ranker Item List" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1590" y="315" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIQ052omoaKMphS0CrH7-56" value="RCMD Reason LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
