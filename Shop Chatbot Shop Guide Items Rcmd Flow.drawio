@@ -3507,22 +3507,6 @@
         <mxCell id="6dmni1IcjOfDeUYJ4vrz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dmni1IcjOfDeUYJ4vrz-6" target="6dmni1IcjOfDeUYJ4vrz-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6dmni1IcjOfDeUYJ4vrz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dmni1IcjOfDeUYJ4vrz-6" target="6dmni1IcjOfDeUYJ4vrz-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="1254" />
-              <mxPoint x="350" y="1180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6dmni1IcjOfDeUYJ4vrz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dmni1IcjOfDeUYJ4vrz-6" target="6dmni1IcjOfDeUYJ4vrz-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="1254" />
-              <mxPoint x="350" y="1329" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6dmni1IcjOfDeUYJ4vrz-6" value="DMS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="190" y="1193.5" width="140" height="121" as="geometry" />
         </mxCell>
@@ -3538,14 +3522,8 @@
         <mxCell id="6dmni1IcjOfDeUYJ4vrz-10" value="补充说明：&lt;br&gt;1. 根据上下文保留item_list，对于PQA&amp;amp;SQA，用第一个item作为main_item&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 当问其他商品时，清空item_list，&lt;font color=&quot;#ff0000&quot;&gt;清空逻辑有风险&lt;/font&gt;&lt;br&gt;&lt;br&gt;3. 没有明确更换商品 or chichat/unclear/off-topic，保留item_list&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="190" y="1314.5" width="140" height="115.68" as="geometry" />
         </mxCell>
-        <mxCell id="6dmni1IcjOfDeUYJ4vrz-11" value="Topic=2/3，选择item_list第一个作为main_item" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="356.42" y="1155" width="178" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="6dmni1IcjOfDeUYJ4vrz-12" value="Topic=5" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="345" y="1228.25" width="35.58" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6dmni1IcjOfDeUYJ4vrz-13" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;PQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1165.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6dmni1IcjOfDeUYJ4vrz-14" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="385.58" y="1224" width="149.99999999999994" height="60" as="geometry" />
@@ -3565,12 +3543,6 @@
         <mxCell id="6dmni1IcjOfDeUYJ4vrz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6dmni1IcjOfDeUYJ4vrz-14" source="6dmni1IcjOfDeUYJ4vrz-16" target="6dmni1IcjOfDeUYJ4vrz-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6dmni1IcjOfDeUYJ4vrz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="6dmni1IcjOfDeUYJ4vrz-15" target="6dmni1IcjOfDeUYJ4vrz-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6dmni1IcjOfDeUYJ4vrz-21" value="len = 1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="463" y="1197.5" width="27" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="6dmni1IcjOfDeUYJ4vrz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6dmni1IcjOfDeUYJ4vrz-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="1254" as="targetPoint" />
@@ -3578,12 +3550,6 @@
         </mxCell>
         <mxCell id="6dmni1IcjOfDeUYJ4vrz-23" value="len &amp;gt; 1" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="533.42" y="1235.75" width="25.58" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="6dmni1IcjOfDeUYJ4vrz-24" value="Topic=1/4，选择item_list第一个作为main_item" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="356" y="1307" width="144" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6dmni1IcjOfDeUYJ4vrz-25" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;SQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1314.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6dmni1IcjOfDeUYJ4vrz-26" value="Comparison" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="560" y="1224" width="170" height="60" as="geometry" />
