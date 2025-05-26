@@ -1891,9 +1891,6 @@
         <mxCell id="2-jy7szycjoGlpnVOpQ--3" value="Topic 识别" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="237.5" width="90" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="2-jy7szycjoGlpnVOpQ--22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="31PI-_X3kbWbU0435JKo-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="336" y="120" width="256" height="290" as="geometry" />
         </mxCell>
@@ -1936,7 +1933,7 @@
         <mxCell id="2-jy7szycjoGlpnVOpQ--25" value="Global Search" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="31PI-_X3kbWbU0435JKo-8" vertex="1">
           <mxGeometry x="32" y="58.5" width="51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2-jy7szycjoGlpnVOpQ--28" value="QP LLM" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=0;" parent="31PI-_X3kbWbU0435JKo-8" vertex="1">
+        <mxCell id="2-jy7szycjoGlpnVOpQ--28" value="Relevance LLM" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;container=0;" parent="31PI-_X3kbWbU0435JKo-8" vertex="1">
           <mxGeometry x="19" y="161.5" width="216" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2-jy7szycjoGlpnVOpQ--29" value="Category&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;既存/上下文/联想&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="31PI-_X3kbWbU0435JKo-8" vertex="1">
@@ -1954,10 +1951,10 @@
         <mxCell id="2-jy7szycjoGlpnVOpQ--34" value="Q2I" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="31PI-_X3kbWbU0435JKo-8" vertex="1">
           <mxGeometry x="174" y="58.5" width="51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2-jy7szycjoGlpnVOpQ--35" value="Similar API" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="31PI-_X3kbWbU0435JKo-8" vertex="1">
+        <mxCell id="2-jy7szycjoGlpnVOpQ--35" value="Similar" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="31PI-_X3kbWbU0435JKo-8" vertex="1">
           <mxGeometry x="32" y="100" width="51" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2-jy7szycjoGlpnVOpQ--36" value="Pair&lt;div&gt;API&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="31PI-_X3kbWbU0435JKo-8" vertex="1">
+        <mxCell id="2-jy7szycjoGlpnVOpQ--36" value="Pair" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="31PI-_X3kbWbU0435JKo-8" vertex="1">
           <mxGeometry x="103" y="100" width="51" height="30" as="geometry" />
         </mxCell>
       </root>
