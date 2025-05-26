@@ -2050,6 +2050,9 @@
         <mxCell id="31PI-_X3kbWbU0435JKo-36" value="Feedback分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="670" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-47" value="Cases分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
