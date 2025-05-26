@@ -1997,7 +1997,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="31PI-_X3kbWbU0435JKo-28" value="召回模块：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;新接口接入SOP:&amp;nbsp;&lt;/div&gt;&lt;div&gt;1. 新接口&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="510" width="120" height="70" as="geometry" />
+          <mxGeometry x="60" y="489" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31PI-_X3kbWbU0435JKo-29" target="31PI-_X3kbWbU0435JKo-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31PI-_X3kbWbU0435JKo-29" target="31PI-_X3kbWbU0435JKo-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-29" value="Cases分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31PI-_X3kbWbU0435JKo-30" target="31PI-_X3kbWbU0435JKo-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-30" value="接入商品检索接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31PI-_X3kbWbU0435JKo-31" target="31PI-_X3kbWbU0435JKo-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-31" value="优化商品检索接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31PI-_X3kbWbU0435JKo-32" target="31PI-_X3kbWbU0435JKo-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-32" value="接口效果评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31PI-_X3kbWbU0435JKo-33" target="31PI-_X3kbWbU0435JKo-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31PI-_X3kbWbU0435JKo-33" target="31PI-_X3kbWbU0435JKo-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-33" value="工程开发&lt;div&gt;实验设置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31PI-_X3kbWbU0435JKo-34" target="31PI-_X3kbWbU0435JKo-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-34" value="ABTest实验效果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="786" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="31PI-_X3kbWbU0435JKo-35" target="31PI-_X3kbWbU0435JKo-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-35" value="人工标注结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="786" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31PI-_X3kbWbU0435JKo-36" value="Feedback分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
