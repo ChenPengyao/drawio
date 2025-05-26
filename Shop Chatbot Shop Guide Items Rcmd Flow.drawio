@@ -1997,7 +1997,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="31PI-_X3kbWbU0435JKo-28" value="召回模块：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;新接口接入SOP:&amp;nbsp;&lt;/div&gt;&lt;div&gt;1. 新接口&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="510" width="820" height="260" as="geometry" />
+          <mxGeometry x="60" y="510" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
