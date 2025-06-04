@@ -3570,10 +3570,10 @@
           <mxGeometry x="344" y="406" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwXm6wHVrIGCI2U1z43N-54" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;ProductQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="720" y="370" width="70" height="40" as="geometry" />
+          <mxGeometry x="720" y="340" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwXm6wHVrIGCI2U1z43N-56" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;ShopQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="720" y="436" width="70" height="40" as="geometry" />
+          <mxGeometry x="720" y="406" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwXm6wHVrIGCI2U1z43N-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MwXm6wHVrIGCI2U1z43N-60" target="MwXm6wHVrIGCI2U1z43N-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3809,7 +3809,7 @@
           <mxGeometry x="384" y="1289.5" width="178" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EZ7qdDN6kvupMlk824Ws-1" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;CompareQA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF0080;strokeColor=default;fontColor=#FFFFFF;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="720" y="500" width="70" height="40" as="geometry" />
+          <mxGeometry x="720" y="470" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
