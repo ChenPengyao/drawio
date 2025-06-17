@@ -243,26 +243,29 @@
         <mxCell id="S0XmZrg-w2wdl96mVe5h-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S0XmZrg-w2wdl96mVe5h-37" target="S0XmZrg-w2wdl96mVe5h-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S0XmZrg-w2wdl96mVe5h-37" value="Merge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S0XmZrg-w2wdl96mVe5h-37" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1074" y="220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S0XmZrg-w2wdl96mVe5h-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="S0XmZrg-w2wdl96mVe5h-40" target="S0XmZrg-w2wdl96mVe5h-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S0XmZrg-w2wdl96mVe5h-40" value="Filter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S0XmZrg-w2wdl96mVe5h-40" value="Merge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S0XmZrg-w2wdl96mVe5h-43" value="1. 纯文本匹配(完全匹配)&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;搜索引擎下的term匹配&lt;br&gt;&lt;div&gt;2. tokens和以下字段匹配&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. listing表(name, pname, global_brand)&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. search ds总结字段&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="800" y="280" width="250" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="S0XmZrg-w2wdl96mVe5h-45" value="1. Merge&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. ori tokens和rewrite token召回列表二选一&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. 哪个tokens召回商品更多选择哪个tokens&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c. 需要向前端解释改写的成本，所以策略比较保守&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Filter&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. 接口传入参数：price&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. 库存&amp;amp;商品状态过滤：店搜没有，主搜有&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="1074" y="270" width="186" height="230" as="geometry" />
+        <mxCell id="S0XmZrg-w2wdl96mVe5h-45" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(204, 0, 0), rgb(255, 163, 163));&quot;&gt;1. Filter&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. 接口传入参数：price&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. 库存&amp;amp;商品状态过滤：店搜没有，主搜有；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Merge&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. ori tokens和rewrite token召回列表二选一&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. 哪个tokens召回商品更多选择哪个tokens&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c. 需要向前端解释改写的成本，所以策略比较保守&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="270" width="186" height="200" as="geometry" />
         </mxCell>
         <mxCell id="S0XmZrg-w2wdl96mVe5h-46" value="Rank" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="220" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S0XmZrg-w2wdl96mVe5h-47" value="1. 店搜不确定是否有排序模块&lt;div&gt;2. 无排序模块时，根据Text Recall模块的DB引擎匹配分数排序&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="260" width="186" height="230" as="geometry" />
+          <mxGeometry x="1310" y="260" width="186" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="S0XmZrg-w2wdl96mVe5h-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="S0XmZrg-w2wdl96mVe5h-45" target="S0XmZrg-w2wdl96mVe5h-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
