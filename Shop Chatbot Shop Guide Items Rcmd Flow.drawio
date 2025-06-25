@@ -3172,7 +3172,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Sfjf-dRGDQ76hqAaYBiS" name="ScenarioRouter">
-    <mxGraphModel dx="1430" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3377,8 +3377,8 @@
         <mxCell id="-blBNv4qOv_8SOsYlm9M-48" value="Card Type" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-blBNv4qOv_8SOsYlm9M-49" vertex="1">
           <mxGeometry x="20" y="22.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HwHYakQZ1vxSpU9_faSo-1" value="1. router to agent 是否还生效&lt;div&gt;2. 新topic price &amp;amp; stock是否要调用guide的Reg模型&lt;/div&gt;&lt;div&gt;3. 新&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;topic price &amp;amp; stock是否要调用router&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. 如果router=3 &amp;amp; scenario=3，该出什么&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5. 判断当前某个item的model维度是否缺货 → 下发restock card&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;6. (附带) PQA → fulfillment → guide，这个链路的new topic的生效范围&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="450" width="400" height="118" as="geometry" />
+        <mxCell id="HwHYakQZ1vxSpU9_faSo-1" value="2025.06.25&lt;br&gt;&lt;br&gt;1. router to agent 是否还生效 → &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;本次生效&lt;/b&gt;&lt;/font&gt;&lt;div&gt;2. router目前是否和topic并行调用&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. 如果router=3 &amp;amp; scenario=3，该出什么 →&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4. 判断当前某个item的model维度是否缺货 → 下发restock card → &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(204, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;本次生效&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5. (附带) PQA → fulfillment → guide，这个链路的new topic的生效范围&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="450" width="450" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
