@@ -4275,7 +4275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ba4Xu19uxMDk8nN3MIZH" name="Guide Overall Acc Tagging">
-    <mxGraphModel dx="1083" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4413,7 +4413,7 @@
         <mxCell id="nKREdYWmRDI49sVIHFeZ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-62" target="nKREdYWmRDI49sVIHFeZ-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nKREdYWmRDI49sVIHFeZ-62" value="怎么区分是否是供给问题？&lt;div&gt;再标注店铺内是否存在满足的商品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-62" value="怎么区分是否是供给问题？&lt;div&gt;再标注店铺内是否存在满足的商品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="575" y="430" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-64" value="没有供给" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
