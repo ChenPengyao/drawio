@@ -4275,7 +4275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ba4Xu19uxMDk8nN3MIZH" name="Guide Overall Acc Tagging">
-    <mxGraphModel dx="1191" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4393,6 +4393,14 @@
         <mxCell id="nKREdYWmRDI49sVIHFeZ-55" value="Top 1 正确" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="490" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-56" target="nKREdYWmRDI49sVIHFeZ-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="525" />
+              <mxPoint x="670" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-56" value="Reason正确" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="510" width="70" height="30" as="geometry" />
         </mxCell>
@@ -4414,11 +4422,28 @@
         <mxCell id="nKREdYWmRDI49sVIHFeZ-65" value="有供给" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="450" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-68" target="nKREdYWmRDI49sVIHFeZ-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="575" />
+              <mxPoint x="670" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-68" value="没有供给" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="560" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-69" value="有供给" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="615" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-72" target="nKREdYWmRDI49sVIHFeZ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-72" value="推荐正确的样本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-75" value="Overall Acc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="540" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
