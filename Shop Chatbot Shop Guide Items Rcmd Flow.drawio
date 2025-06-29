@@ -4333,6 +4333,12 @@
         <mxCell id="nKREdYWmRDI49sVIHFeZ-27" value="推荐理由正确" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#006600;" vertex="1" parent="1">
           <mxGeometry x="410" y="230" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="400" as="sourcePoint" />
+            <mxPoint x="710" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
