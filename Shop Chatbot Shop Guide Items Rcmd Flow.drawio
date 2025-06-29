@@ -4275,7 +4275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ba4Xu19uxMDk8nN3MIZH" name="Guide Overall Acc Tagging">
-    <mxGraphModel dx="366" dy="221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1083" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4444,6 +4444,15 @@
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-75" value="Overall Acc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-77" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="679" as="sourcePoint" />
+            <mxPoint x="1000" y="679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-78" value="其他指标：&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Item Top 1 Acc:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Item Top 4 Acc:&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Reason Pass Rate:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;No Supply Ratio:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;No data Acc:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;No data Acc Recall:&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;No data Acc Reason:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Category Acc:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Attribute Acc:&lt;/span&gt;&lt;/div&gt;" style="text;align=left;fontStyle=1;verticalAlign=top;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="660" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
