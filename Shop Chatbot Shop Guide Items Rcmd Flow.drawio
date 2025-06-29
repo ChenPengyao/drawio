@@ -4413,8 +4413,8 @@
         <mxCell id="nKREdYWmRDI49sVIHFeZ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-62" target="nKREdYWmRDI49sVIHFeZ-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nKREdYWmRDI49sVIHFeZ-62" value="怎么区分是否是供给问题？&lt;div&gt;再标注店铺内是否存在满足的商品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="575" y="430" width="205" height="30" as="geometry" />
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-62" value="怎么区分是否是供给问题？&lt;div&gt;若是推荐的Top1 - Top4都错&lt;/div&gt;&lt;div&gt;再标注店铺内是否存在满足的商品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="420" width="205" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-64" value="没有供给" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="400" width="70" height="30" as="geometry" />
