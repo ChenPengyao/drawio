@@ -4366,11 +4366,19 @@
         <mxCell id="nKREdYWmRDI49sVIHFeZ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-48" target="nKREdYWmRDI49sVIHFeZ-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nKREdYWmRDI49sVIHFeZ-48" value="Item &amp;amp; Reason Flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-48" value="Item &amp;amp; Reason&amp;nbsp;&lt;div&gt;Tagging Flow&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-50" target="nKREdYWmRDI49sVIHFeZ-52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-50" target="nKREdYWmRDI49sVIHFeZ-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="600" />
+              <mxPoint x="280" y="655" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-50" value="无Item曝光" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="585" width="70" height="30" as="geometry" />
@@ -4384,7 +4392,10 @@
         <mxCell id="nKREdYWmRDI49sVIHFeZ-52" value="No-data Flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="585" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nKREdYWmRDI49sVIHFeZ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-54" target="nKREdYWmRDI49sVIHFeZ-62">
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-54" target="nKREdYWmRDI49sVIHFeZ-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-54" target="nKREdYWmRDI49sVIHFeZ-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-54" value="Top 1 错误" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -4413,20 +4424,8 @@
         <mxCell id="nKREdYWmRDI49sVIHFeZ-57" value="Reason错误" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="470" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nKREdYWmRDI49sVIHFeZ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-62" target="nKREdYWmRDI49sVIHFeZ-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nKREdYWmRDI49sVIHFeZ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-62" target="nKREdYWmRDI49sVIHFeZ-65">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nKREdYWmRDI49sVIHFeZ-62" value="怎么区分是否是供给问题？&lt;div&gt;若是推荐的Top1 - Top4都错&lt;/div&gt;&lt;div&gt;再标注店铺内是否存在满足的商品&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="580" y="420" width="205" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="nKREdYWmRDI49sVIHFeZ-64" value="没有供给" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="827" y="400" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-65" value="有供给" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="827" y="450" width="70" height="30" as="geometry" />
+          <mxGeometry x="930" y="460" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-68" target="nKREdYWmRDI49sVIHFeZ-72">
           <mxGeometry relative="1" as="geometry">
@@ -4465,6 +4464,36 @@
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-88" value="影响满意度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#0000FF;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-90" value="Data Report Issue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-93" target="nKREdYWmRDI49sVIHFeZ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-93" value="曝光商品中有正确" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-98" target="nKREdYWmRDI49sVIHFeZ-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-98" value="曝光商品中没有正确" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-105" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;怎么区分是否是供给问题？&lt;/span&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;若是所有曝光商品(less then 4)都错&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;→ No-data tagging flow&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="590" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-107" target="nKREdYWmRDI49sVIHFeZ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-107" target="nKREdYWmRDI49sVIHFeZ-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-107" value="No-Data Flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-108" value="没有供给" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="410" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
