@@ -4404,6 +4404,9 @@
         <mxCell id="nKREdYWmRDI49sVIHFeZ-56" value="Reason正确" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="510" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-57" target="nKREdYWmRDI49sVIHFeZ-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-57" value="Reason错误" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="470" width="70" height="30" as="geometry" />
         </mxCell>
@@ -4418,6 +4421,9 @@
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-64" value="没有供给" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="400" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKREdYWmRDI49sVIHFeZ-65" target="nKREdYWmRDI49sVIHFeZ-80">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-65" value="有供给" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="450" width="70" height="30" as="geometry" />
@@ -4453,6 +4459,12 @@
         </mxCell>
         <mxCell id="nKREdYWmRDI49sVIHFeZ-78" value="其他指标：&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Item Top 1 Acc:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Item Top 4 Acc:&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Reason Pass Rate:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;No Supply Ratio:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;No data Acc:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;No data Acc Recall:&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;No data Acc Reason:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Category Acc:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Attribute Acc:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Scenario Acc:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;IsRcmd Acc:&lt;/span&gt;&lt;/div&gt;" style="text;align=left;fontStyle=1;verticalAlign=top;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="700" width="660" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-80" value="影响Order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKREdYWmRDI49sVIHFeZ-82" value="影响Order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="470" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
