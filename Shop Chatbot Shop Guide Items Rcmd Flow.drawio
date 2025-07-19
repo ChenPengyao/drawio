@@ -4788,6 +4788,12 @@
         <mxCell id="E3F4Jk10LPR4Eu1VUbgV-25" value="新Topic下Item Acc 若是&lt;b&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;明显小于&lt;/font&gt;&lt;/b&gt; 旧Topic下Item Acc，&lt;div&gt;则说明当前Guide Solution在承接新Topic的推荐流量下，效果较差&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;若是 &lt;b&gt;基本接近&lt;/b&gt;，说明&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;当前Guide Solution对新旧Topic的推荐流量承接能力基本一致&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;若是 明显大于，说明当前Guide Solution对新Topic&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的推荐流量承接能力更优&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="61.25" width="460" height="137.5" as="geometry" />
         </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E3F4Jk10LPR4Eu1VUbgV-29" target="E3F4Jk10LPR4Eu1VUbgV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E3F4Jk10LPR4Eu1VUbgV-29" target="E3F4Jk10LPR4Eu1VUbgV-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E3F4Jk10LPR4Eu1VUbgV-29" value="Cases分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="270" width="90" height="40" as="geometry" />
         </mxCell>
@@ -4799,6 +4805,33 @@
         </mxCell>
         <mxCell id="E3F4Jk10LPR4Eu1VUbgV-34" value="分析不属于推荐流量的来源是什么" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="E3F4Jk10LPR4Eu1VUbgV-35" target="E3F4Jk10LPR4Eu1VUbgV-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-35" value="新旧Topic都判断为推荐流量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E3F4Jk10LPR4Eu1VUbgV-36" target="E3F4Jk10LPR4Eu1VUbgV-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-36" value="旧Topic判断不为推荐流量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="305" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E3F4Jk10LPR4Eu1VUbgV-39" target="E3F4Jk10LPR4Eu1VUbgV-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-39" value="Cases分析流量分布" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="780" y="232.5" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E3F4Jk10LPR4Eu1VUbgV-41" target="E3F4Jk10LPR4Eu1VUbgV-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-41" value="Cases分析流量分布" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="780" y="297.5" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="E3F4Jk10LPR4Eu1VUbgV-43" value="评估New Topic对推荐流量判断的Acc&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;评估New Topic对推荐流量判断的&lt;/span&gt;Bad Cases比例&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="220" width="460" height="137.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
