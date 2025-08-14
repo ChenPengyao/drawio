@@ -4946,6 +4946,15 @@
         <mxCell id="2f--zRuxeHKf7g3iKypI-28" value="Phase 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="570" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2f--zRuxeHKf7g3iKypI-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="650" width="120" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="2f--zRuxeHKf7g3iKypI-30" value="Item Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="690" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2f--zRuxeHKf7g3iKypI-31" value="User Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="850" width="105" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
