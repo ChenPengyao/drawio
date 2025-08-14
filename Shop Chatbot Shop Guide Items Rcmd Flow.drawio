@@ -5056,6 +5056,9 @@
         <mxCell id="2f--zRuxeHKf7g3iKypI-71" value="Model_id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2f--zRuxeHKf7g3iKypI-73">
           <mxGeometry x="560" y="211" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2f--zRuxeHKf7g3iKypI-78" value="Text" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
