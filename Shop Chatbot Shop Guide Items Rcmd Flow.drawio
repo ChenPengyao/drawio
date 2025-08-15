@@ -4837,7 +4837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MjeXvj3E5RMn4mdRNNHg" name="20250813_Guide_Relevancy_Module">
-    <mxGraphModel dx="908" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5058,6 +5058,15 @@
         </mxCell>
         <mxCell id="2f--zRuxeHKf7g3iKypI-78" value="Text" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2f--zRuxeHKf7g3iKypI-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="1070" as="sourcePoint" />
+            <mxPoint x="874.9999999999998" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2f--zRuxeHKf7g3iKypI-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
