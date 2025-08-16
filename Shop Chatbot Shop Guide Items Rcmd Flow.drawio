@@ -5065,8 +5065,14 @@
             <mxPoint x="874.9999999999998" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2f--zRuxeHKf7g3iKypI-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="1220" width="120" height="60" as="geometry" />
+        <mxCell id="2f--zRuxeHKf7g3iKypI-81" value="Recalled Item List" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2f--zRuxeHKf7g3iKypI-82" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1480" as="sourcePoint" />
+            <mxPoint x="300" y="1190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
