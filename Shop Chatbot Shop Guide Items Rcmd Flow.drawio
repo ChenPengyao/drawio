@@ -5324,7 +5324,7 @@
         <mxCell id="8iOeh8q-Ka-X3qfeCjex-45" value="Recall" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="8iOeh8q-Ka-X3qfeCjex-48">
           <mxGeometry x="10" y="11" width="40" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="8iOeh8q-Ka-X3qfeCjex-46" value="Item Rank" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="8iOeh8q-Ka-X3qfeCjex-48">
+        <mxCell id="8iOeh8q-Ka-X3qfeCjex-46" value="Item Rank" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;dashed=1;" vertex="1" parent="8iOeh8q-Ka-X3qfeCjex-48">
           <mxGeometry x="70" y="11" width="40" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8iOeh8q-Ka-X3qfeCjex-50" value="Item List" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
