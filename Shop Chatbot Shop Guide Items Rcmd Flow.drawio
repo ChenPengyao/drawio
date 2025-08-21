@@ -5306,6 +5306,9 @@
         <mxCell id="8iOeh8q-Ka-X3qfeCjex-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iOeh8q-Ka-X3qfeCjex-40" target="8iOeh8q-Ka-X3qfeCjex-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8iOeh8q-Ka-X3qfeCjex-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iOeh8q-Ka-X3qfeCjex-40" target="8iOeh8q-Ka-X3qfeCjex-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8iOeh8q-Ka-X3qfeCjex-40" value="main_item" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="747" y="2065" width="80" height="40" as="geometry" />
         </mxCell>
@@ -5332,6 +5335,15 @@
         </mxCell>
         <mxCell id="8iOeh8q-Ka-X3qfeCjex-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8iOeh8q-Ka-X3qfeCjex-43" target="8iOeh8q-Ka-X3qfeCjex-50">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iOeh8q-Ka-X3qfeCjex-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8iOeh8q-Ka-X3qfeCjex-52" target="8iOeh8q-Ka-X3qfeCjex-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iOeh8q-Ka-X3qfeCjex-52" value="Variation Rcmd" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2065" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8iOeh8q-Ka-X3qfeCjex-54" value="Model ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1090" y="2070" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
