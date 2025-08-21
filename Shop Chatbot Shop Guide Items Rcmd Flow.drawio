@@ -5291,6 +5291,9 @@
         <mxCell id="8iOeh8q-Ka-X3qfeCjex-33" value="Recall" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="2210" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="8iOeh8q-Ka-X3qfeCjex-37" value="UserQuery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="515" y="2070" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
