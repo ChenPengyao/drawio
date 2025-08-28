@@ -3880,8 +3880,14 @@
         <mxCell id="rcAIW348PTpDLrxCAm7U-15" value="variation comp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2390" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rcAIW348PTpDLrxCAm7U-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcAIW348PTpDLrxCAm7U-17" target="rcAIW348PTpDLrxCAm7U-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-17" value="item comp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2390" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rcAIW348PTpDLrxCAm7U-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcAIW348PTpDLrxCAm7U-18" target="rcAIW348PTpDLrxCAm7U-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-18" value="item comp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2600" y="569.5" width="120" height="60" as="geometry" />
