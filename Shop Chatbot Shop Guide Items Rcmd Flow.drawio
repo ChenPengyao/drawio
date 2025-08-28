@@ -3481,7 +3481,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lGbePTLMqHhr7Z2eifdf" name="compareQA">
-    <mxGraphModel dx="1499" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="454" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3880,26 +3880,36 @@
         <mxCell id="rcAIW348PTpDLrxCAm7U-15" value="variation comp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2476" y="659" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rcAIW348PTpDLrxCAm7U-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcAIW348PTpDLrxCAm7U-17" target="rcAIW348PTpDLrxCAm7U-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rcAIW348PTpDLrxCAm7U-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcAIW348PTpDLrxCAm7U-17" target="rcAIW348PTpDLrxCAm7U-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2820" y="784" />
+              <mxPoint x="2820" y="689" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-17" value="item comp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2476" y="754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcAIW348PTpDLrxCAm7U-18" target="rcAIW348PTpDLrxCAm7U-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2820" y="599" />
+              <mxPoint x="2820" y="689" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-18" value="item comp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2686" y="568.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="2640" y="568.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcAIW348PTpDLrxCAm7U-21" target="rcAIW348PTpDLrxCAm7U-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-21" value="Follow up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2946" y="659" width="120" height="60" as="geometry" />
+          <mxGeometry x="2895" y="659" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-22" value="触发选择器&lt;div&gt;必须选2个&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3146" y="659" width="120" height="60" as="geometry" />
+          <mxGeometry x="3070" y="659" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
