@@ -3823,14 +3823,17 @@
         <mxCell id="EZ7qdDN6kvupMlk824Ws-4" value="新的topic识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="275" width="100" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="rcAIW348PTpDLrxCAm7U-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rcAIW348PTpDLrxCAm7U-1" target="rcAIW348PTpDLrxCAm7U-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-1" value="Item Selector" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1854" y="499.5" width="236" height="390" as="geometry" />
+          <mxGeometry x="1856" y="495" width="236" height="390" as="geometry" />
         </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rcAIW348PTpDLrxCAm7U-2" target="rcAIW348PTpDLrxCAm7U-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-2" value="Topic = 商品对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="664.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1654" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rcAIW348PTpDLrxCAm7U-4" value="user query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1914" y="569.5" width="120" height="60" as="geometry" />
