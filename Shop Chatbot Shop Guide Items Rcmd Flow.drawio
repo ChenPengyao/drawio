@@ -5606,7 +5606,7 @@
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-5" target="pm3BPpN1MpvBWOQWMX5Q-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-5" value="Recalled Items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-5" value="&lt;div&gt;Recalled&lt;/div&gt;Reranked&lt;div&gt;Items&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="400" y="2780" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-10" target="pm3BPpN1MpvBWOQWMX5Q-22">
