@@ -4929,7 +4929,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-9" value="Variation Rcmd LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-9" value="Variation Rcmd LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="2610" width="165" height="240" as="geometry" />
         </mxCell>
         <mxCell id="8iOeh8q-Ka-X3qfeCjex-106" value="Reranker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
