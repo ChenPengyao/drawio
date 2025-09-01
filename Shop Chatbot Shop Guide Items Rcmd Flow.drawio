@@ -4929,6 +4929,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-9" value="Variation Rcmd LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="2610" width="165" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="8iOeh8q-Ka-X3qfeCjex-106" value="Reranker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="344.5" y="1135.5" width="361" height="194.5" as="geometry" />
         </mxCell>
@@ -5584,16 +5587,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-2" value="UserQuery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="230" y="2730" width="70" height="30" as="geometry" />
+          <mxGeometry x="230" y="2717" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-4" target="pm3BPpN1MpvBWOQWMX5Q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-4" target="pm3BPpN1MpvBWOQWMX5Q-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="2670" />
+              <mxPoint x="530" y="2737" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-4" value="Main Item" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="2670" width="90" height="40" as="geometry" />
+          <mxGeometry x="400" y="2650" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-5" target="pm3BPpN1MpvBWOQWMX5Q-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-5" value="Recalled Items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="2780" width="90" height="40" as="geometry" />
+          <mxGeometry x="400" y="2780" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-9" value="Variation Rcmd LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="555" y="2620" width="165" height="230" as="geometry" />
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-10" value="Task 1&lt;div&gt;Rcmd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="2650" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-11" value="Task 2&lt;div&gt;Compare&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="2717" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-12" value="Task 3&lt;div&gt;Revelancy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="2780" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
