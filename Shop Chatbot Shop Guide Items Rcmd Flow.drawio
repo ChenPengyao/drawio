@@ -5647,7 +5647,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-22" value="&lt;div&gt;2 Model IDs&lt;/div&gt;&lt;div&gt;Summary&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-22" value="&lt;div&gt;2 Model IDs&lt;/div&gt;&lt;div&gt;Short Conclusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="777" y="2800" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-23" target="pm3BPpN1MpvBWOQWMX5Q-20">
