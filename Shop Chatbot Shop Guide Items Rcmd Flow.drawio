@@ -5700,7 +5700,7 @@
           <mxGeometry x="935" y="2943" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-52" value="Topic result" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="2692.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="385" y="2692.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
