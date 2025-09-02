@@ -4925,7 +4925,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MjeXvj3E5RMn4mdRNNHg" name="20250813_Guide_Relevancy_Module">
-    <mxGraphModel dx="1189" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5744,6 +5744,9 @@
         </mxCell>
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-13" value="Topic Result" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="2780" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-14" value="Todo: 用72B模型回复query，总结需要的商品信息，再总结需要的知识的方向" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="715" y="2571.25" width="285" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
