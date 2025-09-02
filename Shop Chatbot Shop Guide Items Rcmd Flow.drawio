@@ -5735,7 +5735,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-3" value="Knowledge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="602.5" y="2740" width="80" height="40" as="geometry" />
+          <mxGeometry x="602.5" y="2752.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
