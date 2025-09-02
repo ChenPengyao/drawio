@@ -4929,8 +4929,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-9" value="Variation Rcmd LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontStyle=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2820" width="165" height="240" as="geometry" />
+        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-9" value="Guide Relevancy&amp;nbsp;&lt;div&gt;LLM&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2820" width="165" height="350" as="geometry" />
         </mxCell>
         <mxCell id="8iOeh8q-Ka-X3qfeCjex-106" value="Reranker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="344.5" y="1135.5" width="361" height="194.5" as="geometry" />
@@ -5580,25 +5580,14 @@
             <mxPoint x="889.9999999999998" y="2550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-2" target="pm3BPpN1MpvBWOQWMX5Q-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-2" target="pm3BPpN1MpvBWOQWMX5Q-5">
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-2" target="Gv6W6AG4f4-3YiSa6-LD-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-2" value="UserQuery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="230" y="2927" width="70" height="30" as="geometry" />
+          <mxGeometry x="110" y="2927" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-4" target="pm3BPpN1MpvBWOQWMX5Q-10">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pm3BPpN1MpvBWOQWMX5Q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pm3BPpN1MpvBWOQWMX5Q-4" target="pm3BPpN1MpvBWOQWMX5Q-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="2880" />
-              <mxPoint x="530" y="2947" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-4" value="Main Item" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="2860" width="90" height="40" as="geometry" />
@@ -5707,7 +5696,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-44" value="更多的结合，商品的信息，用户的信息，来综合进行推荐商品的model_id的推荐&lt;div&gt;以及Summary的生成&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="556.5" y="3060" width="172" height="70" as="geometry" />
+          <mxGeometry x="567" y="3220" width="172" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pm3BPpN1MpvBWOQWMX5Q-45" value="Variation&lt;div&gt;Card&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1235" y="2927" width="90" height="40" as="geometry" />
@@ -5742,11 +5731,59 @@
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-11" value="&lt;div&gt;Summarized&lt;/div&gt;Knowledge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="950" y="2927" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-13" value="Topic Result" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2780" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-14" value="Todo: 用72B模型回复query，总结需要的商品信息，再总结需要的知识的方向" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="715" y="2571.25" width="285" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gv6W6AG4f4-3YiSa6-LD-18" target="pm3BPpN1MpvBWOQWMX5Q-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="2942" />
+              <mxPoint x="340" y="3010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gv6W6AG4f4-3YiSa6-LD-18" target="pm3BPpN1MpvBWOQWMX5Q-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="2942" />
+              <mxPoint x="340" y="2880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gv6W6AG4f4-3YiSa6-LD-18" target="Gv6W6AG4f4-3YiSa6-LD-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="2942" />
+              <mxPoint x="340" y="3110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-18" value="Topic LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2917" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-22" value="商品对比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-23" value="商品推荐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-24" value="Variation对比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507" y="2850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-25" value="Variation推荐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507" y="2917" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-26" value="Items&lt;div&gt;推荐&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507" y="2982" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-27" value="&lt;div&gt;Recalled&lt;/div&gt;Reranked&lt;div&gt;Items&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3090" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-29" value="商品对比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="3080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-31" value="Task 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="3050" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
