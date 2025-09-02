@@ -6055,6 +6055,9 @@
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-120" value="1. 上游LLM处理后的知识(Comparison)&lt;div&gt;2. KB里已处理好的知识(KSP等)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="968" y="3727.5" width="132" height="72.5" as="geometry" />
         </mxCell>
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-121" value="Variation Cnt &amp;gt; 1？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450.5" y="3700.75" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
