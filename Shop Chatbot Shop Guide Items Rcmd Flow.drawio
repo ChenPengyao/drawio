@@ -4925,7 +4925,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MjeXvj3E5RMn4mdRNNHg" name="20250813_Guide_Relevancy_Module">
-    <mxGraphModel dx="2540" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5819,7 +5819,7 @@
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gv6W6AG4f4-3YiSa6-LD-40" target="Gv6W6AG4f4-3YiSa6-LD-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-40" value="Task 1&lt;div&gt;Revelancy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-40" value="Task 1&lt;div&gt;Revelancy&lt;/div&gt;&lt;div&gt;Reason&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="3618.75" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gv6W6AG4f4-3YiSa6-LD-42" target="Gv6W6AG4f4-3YiSa6-LD-52">
@@ -5866,7 +5866,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-48" value="Reply LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-48" value="润色 LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1115" y="3680.75" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gv6W6AG4f4-3YiSa6-LD-50" target="Gv6W6AG4f4-3YiSa6-LD-48">
@@ -5877,13 +5877,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-50" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Item IDs&lt;/div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Model IDs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-50" value="&lt;div&gt;Item IDs&lt;/div&gt;&lt;span&gt;Model IDs&lt;/span&gt;&lt;div&gt;&lt;span&gt;Reason&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="817" y="3618.75" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gv6W6AG4f4-3YiSa6-LD-52" target="Gv6W6AG4f4-3YiSa6-LD-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-52" value="Model ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-52" value="Model ID&lt;div&gt;Reason&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="817" y="3685.75" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gv6W6AG4f4-3YiSa6-LD-73" target="Gv6W6AG4f4-3YiSa6-LD-48">
@@ -5893,7 +5893,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-54" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;2 Model IDs&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;Conclusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-54" value="&lt;div&gt;2 Model IDs&lt;/div&gt;&lt;div&gt;Conclusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="817" y="3748.75" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-55" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -6025,7 +6025,7 @@
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gv6W6AG4f4-3YiSa6-LD-32" target="Gv6W6AG4f4-3YiSa6-LD-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-96" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2 Item IDs&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Conclusion&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gv6W6AG4f4-3YiSa6-LD-96" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2 Item IDs&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Conclusion&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="817" y="3810" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gv6W6AG4f4-3YiSa6-LD-101" value="QP LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
