@@ -6210,7 +6210,7 @@
         <mxCell id="-vj2wy_mp94XVJy-XWMl-29" value="只走Control策略" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-121.5" y="4680" width="345" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-vj2wy_mp94XVJy-XWMl-30" value="1. Streaming的实验分组都会请求 Guide优化实验的接口，那么都会进行分流和user_id的分组上报；即根据Guide优化实验的User_id分组回收数据，会受到Streaming的分组影响；&lt;div&gt;&lt;br&gt;&lt;div&gt;2. Streaming的实验scene不在PA的dashboard中间表里；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Streaming的实验效果统计存在问题；&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="-vj2wy_mp94XVJy-XWMl-30" value="1. Streaming的实验分组都会请求 Guide优化实验的接口，那么都会进行分流和user_id的分组上报；即根据Guide优化实验的User_id分组回收数据，会受到Streaming的分组影响；&lt;div&gt;&lt;br&gt;&lt;div&gt;2. Streaming的实验scene不在PA的dashboard中间表里；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Streaming的实验效果统计存在问题；&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 目前实验数据回收，2个实验交叉取数的结果的流量和不为100%&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="110" y="4770" width="590" height="180" as="geometry" />
         </mxCell>
       </root>
