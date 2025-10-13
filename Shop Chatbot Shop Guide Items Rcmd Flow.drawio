@@ -6248,15 +6248,6 @@
             <mxPoint x="913.5" y="943.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ewiO5INKy2UMWLpet7F5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ewiO5INKy2UMWLpet7F5-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1014.5" y="944" />
-              <mxPoint x="1014.5" y="916" />
-            </Array>
-            <mxPoint x="913.5" y="943.75" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Main Item&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="259" y="913.75" width="90" height="40" as="geometry" />
         </mxCell>
@@ -6444,7 +6435,7 @@
           <mxGeometry x="1027.5" y="818.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-53" value="Variation推荐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1027.5" y="885.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="785" y="883.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-54" value="Variation对比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1027" y="968.75" width="60" height="30" as="geometry" />
@@ -6494,7 +6485,7 @@
           <mxGeometry x="1452.5" y="937.5" width="132" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-69" value="Variation Cnt &amp;gt; 1？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="935" y="910.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="918.74" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-70" target="ewiO5INKy2UMWLpet7F5-74">
           <mxGeometry relative="1" as="geometry" />
@@ -6536,6 +6527,12 @@
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-86" value="QP LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="822.5" width="90" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ewiO5INKy2UMWLpet7F5-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-90" target="ewiO5INKy2UMWLpet7F5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ewiO5INKy2UMWLpet7F5-90" value="Variation Rcmd LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="825.63" width="90" height="46.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
