@@ -6220,21 +6220,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g-tjxeRKCkFr1C18cNR3" name="20251013_guide_wolkflow">
-    <mxGraphModel dx="1638" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2465" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ewiO5INKy2UMWLpet7F5-71" value="General" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="589" y="748.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="748.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ewiO5INKy2UMWLpet7F5-1" value="Guide Relevancy&amp;nbsp;&lt;div&gt;LLM&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontStyle=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="ewiO5INKy2UMWLpet7F5-1" value="Guide&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;LLM&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1084.5" y="788.75" width="165" height="271.25" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-3" target="ewiO5INKy2UMWLpet7F5-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-3" value="UserQuery" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="100" y="918.74" width="70" height="30" as="geometry" />
+          <mxGeometry x="-200" y="918.74" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-63" target="ewiO5INKy2UMWLpet7F5-9">
           <mxGeometry relative="1" as="geometry" />
@@ -6258,18 +6258,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Main Item&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="559" y="913.75" width="90" height="40" as="geometry" />
+          <mxGeometry x="259" y="913.75" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-9" target="ewiO5INKy2UMWLpet7F5-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ewiO5INKy2UMWLpet7F5-9" value="Task 1&lt;div&gt;Revelancy&lt;/div&gt;&lt;div&gt;Reason&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="ewiO5INKy2UMWLpet7F5-9" value="Task 1&lt;div&gt;Item Revelancy Rank&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1122" y="828.75" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-11" target="ewiO5INKy2UMWLpet7F5-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ewiO5INKy2UMWLpet7F5-11" value="Task 2&lt;div&gt;rcmd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ewiO5INKy2UMWLpet7F5-11" value="Task 2&lt;div&gt;Variation Rcmd&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1122" y="895.75" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-14" target="ewiO5INKy2UMWLpet7F5-24">
@@ -6418,27 +6418,27 @@
         <mxCell id="ewiO5INKy2UMWLpet7F5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-49" target="ewiO5INKy2UMWLpet7F5-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="934" />
-              <mxPoint x="370" y="1030" />
+              <mxPoint x="70" y="934" />
+              <mxPoint x="70" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-49" target="ewiO5INKy2UMWLpet7F5-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="934" />
-              <mxPoint x="370" y="849" />
+              <mxPoint x="70" y="934" />
+              <mxPoint x="70" y="849" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-49" value="Topic / Planner /&lt;div&gt;Item Selector&lt;/div&gt;&lt;div&gt;LLM&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="215" y="898.1200000000001" width="100" height="71.25" as="geometry" />
+          <mxGeometry x="-85" y="898.1200000000001" width="100" height="71.25" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-50" value="New Topic = 101&lt;br&gt;Old Topic = 1/4&lt;br&gt;&lt;div&gt;商品&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;推荐&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="778.75" width="120" height="68.75" as="geometry" />
+          <mxGeometry x="70" y="778.75" width="120" height="68.75" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-51" value="商品&lt;div&gt;对比&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="900.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="900.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-52" value="Items&lt;div&gt;推荐&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1027.5" y="818.75" width="60" height="30" as="geometry" />
@@ -6459,10 +6459,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-56" value="&lt;div&gt;2 Items&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="559.5" y="1010" width="90" height="40" as="geometry" />
+          <mxGeometry x="259.5" y="1010" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-57" value="商品&lt;div&gt;对比&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1000" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-58" value="Items&lt;div&gt;对比&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1027" y="1000" width="60" height="30" as="geometry" />
@@ -6477,7 +6477,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-61" value="QP LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="649" y="751.2500000000001" width="90" height="46.25" as="geometry" />
+          <mxGeometry x="440" y="751.2500000000001" width="90" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-63" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Reranker&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="900" y="828.75" width="90" height="40" as="geometry" />
@@ -6506,8 +6506,8 @@
         <mxCell id="ewiO5INKy2UMWLpet7F5-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-70" target="ewiO5INKy2UMWLpet7F5-61">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="849" />
-              <mxPoint x="590" y="774" />
+              <mxPoint x="370" y="849" />
+              <mxPoint x="370" y="774" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6515,7 +6515,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-70" value="Sub Scenario判断" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="460" y="825.63" width="99.5" height="46.25" as="geometry" />
+          <mxGeometry x="160" y="825.63" width="99.5" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-72" target="ewiO5INKy2UMWLpet7F5-63">
           <mxGeometry relative="1" as="geometry" />
@@ -6524,7 +6524,7 @@
           <mxGeometry x="770" y="751.25" width="90" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-73" value="Similar / 搭配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="818.75" width="80" height="30" as="geometry" />
+          <mxGeometry x="374" y="818.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-74" target="ewiO5INKy2UMWLpet7F5-63">
           <mxGeometry relative="1" as="geometry" />
@@ -6533,10 +6533,10 @@
           <mxGeometry x="770" y="825.63" width="90" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-82" value="PQA&lt;div&gt;Module&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="464.75" y="640" width="90" height="46.25" as="geometry" />
+          <mxGeometry x="164.75" y="640" width="90" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-84" value="Stock(Old Topic 下)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="499.5" y="700" width="130.5" height="30" as="geometry" />
+          <mxGeometry x="199.5" y="700" width="130.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
