@@ -6434,11 +6434,11 @@
         <mxCell id="ewiO5INKy2UMWLpet7F5-49" value="Topic / Planner /&lt;div&gt;Item Selector&lt;/div&gt;&lt;div&gt;LLM&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="215" y="898.1200000000001" width="100" height="71.25" as="geometry" />
         </mxCell>
-        <mxCell id="ewiO5INKy2UMWLpet7F5-50" value="New Topic = 101&lt;br&gt;Old Topic = 1/4/5&lt;br&gt;&lt;div&gt;商品&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;推荐&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ewiO5INKy2UMWLpet7F5-50" value="New Topic = 101&lt;br&gt;Old Topic = 1/4&lt;br&gt;&lt;div&gt;商品&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;推荐&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="778.75" width="120" height="68.75" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-51" value="商品&lt;div&gt;对比&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="900.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="900.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-52" value="Items&lt;div&gt;推荐&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1027.5" y="818.75" width="60" height="30" as="geometry" />
@@ -6506,6 +6506,9 @@
         <mxCell id="ewiO5INKy2UMWLpet7F5-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-70" target="ewiO5INKy2UMWLpet7F5-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ewiO5INKy2UMWLpet7F5-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-70" target="ewiO5INKy2UMWLpet7F5-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-70" value="Sub Scenario判断" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="460" y="825.63" width="99.5" height="46.25" as="geometry" />
         </mxCell>
@@ -6523,6 +6526,12 @@
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-74" value="DS Index&lt;div&gt;MPIE API&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="770" y="825.63" width="90" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ewiO5INKy2UMWLpet7F5-82" value="PQA" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="464.75" y="640" width="90" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ewiO5INKy2UMWLpet7F5-84" value="Stock" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
