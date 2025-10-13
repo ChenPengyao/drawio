@@ -6268,7 +6268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-14" value="Task 3&lt;div&gt;Compare&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1122" y="1060.63" width="90" height="40" as="geometry" />
+          <mxGeometry x="1122" y="1015" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-18" target="ewiO5INKy2UMWLpet7F5-38">
           <mxGeometry relative="1" as="geometry" />
@@ -6522,6 +6522,9 @@
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-104" value="nodata / oos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1350" y="868.75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ewiO5INKy2UMWLpet7F5-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewiO5INKy2UMWLpet7F5-105" target="ewiO5INKy2UMWLpet7F5-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ewiO5INKy2UMWLpet7F5-105" value="Item cnt = 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1010" width="120" height="50" as="geometry" />
