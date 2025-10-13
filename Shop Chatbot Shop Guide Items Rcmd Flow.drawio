@@ -6535,8 +6535,8 @@
         <mxCell id="ewiO5INKy2UMWLpet7F5-82" value="PQA&lt;div&gt;Module&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="464.75" y="640" width="90" height="46.25" as="geometry" />
         </mxCell>
-        <mxCell id="ewiO5INKy2UMWLpet7F5-84" value="Stock" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="499.5" y="700" width="60" height="30" as="geometry" />
+        <mxCell id="ewiO5INKy2UMWLpet7F5-84" value="Stock(Old Topic 下)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="499.5" y="700" width="130.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
