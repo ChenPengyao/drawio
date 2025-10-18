@@ -6562,7 +6562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SujcCdraXOmFCUwAH7Ff" name="25 nominee materials">
-    <mxGraphModel dx="2056" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6826,6 +6826,9 @@
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-91" value="For Item Search, the evaluated Standard at this period is: Resolve Bad Cases, if yes, go live&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Thus there is a question: How to set up the evaluation for item search, to be revealed later&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=7;" vertex="1" parent="1">
           <mxGeometry x="80" y="1590" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-92" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1950" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
