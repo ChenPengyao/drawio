@@ -6562,7 +6562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SujcCdraXOmFCUwAH7Ff" name="25 nominee materials">
-    <mxGraphModel dx="1565" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1798" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6827,14 +6827,65 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-91" value="For Item Search, the evaluated Standard at this period is: Resolve Bad Cases, if yes, go live&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Thus there is a question: How to set up the evaluation for item search, to be revealed later&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=7;" vertex="1" parent="1">
           <mxGeometry x="80" y="1590" width="580" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-92" target="bA3JS-5OLp2g71gluNPn-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-92" target="bA3JS-5OLp2g71gluNPn-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-92" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="1950" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-96" target="bA3JS-5OLp2g71gluNPn-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-96" value="Proactive" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1930" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="1900" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-97" target="bA3JS-5OLp2g71gluNPn-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-97" target="bA3JS-5OLp2g71gluNPn-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-97" value="Normal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="190" y="2000" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="2040" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-100" target="bA3JS-5OLp2g71gluNPn-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1850" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-101" value="Comparison" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1860" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-102" value="Voucher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1890" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-103" value="Repurchase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1920" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-104" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1950" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-108" value="Solution&amp;nbsp;&lt;div&gt;Planner&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="345" y="2080" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-109" target="bA3JS-5OLp2g71gluNPn-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-109" value="Opening" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="345" y="2045" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-112" value="Order" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-114" value="Order" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2040" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-116" value="QA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2080" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
