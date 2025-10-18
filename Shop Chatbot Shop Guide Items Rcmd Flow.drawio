@@ -6815,8 +6815,14 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-86" value="Rcmd Items" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="840" y="1370" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bA3JS-5OLp2g71gluNPn-88" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Samples Cleansing&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. GPT4 Check &amp;amp; Correct Samples&lt;/div&gt;&lt;div&gt;2. Taggers/DS Rewrite the Bad Cases&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="bA3JS-5OLp2g71gluNPn-88" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Item DB Modification&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. Modify Threshold: Balance the Item Cnt and Save Cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="390" y="1430" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-89" value="&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;Add Q2I Recall&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. Based on BGE-M3&lt;/div&gt;&lt;div&gt;2. SFT BGE-M3 via Samples from Live/GPT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1500" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-90" value="&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;Checking the Relevancy&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. Set up task for LLM to judge, if the item is meet the user query, if no, does not rcmd and show the agent button to user&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1430" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
