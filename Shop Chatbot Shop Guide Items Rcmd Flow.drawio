@@ -6722,7 +6722,7 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="bA3JS-5OLp2g71gluNPn-66" source="bA3JS-5OLp2g71gluNPn-49" target="bA3JS-5OLp2g71gluNPn-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bA3JS-5OLp2g71gluNPn-49" value="&lt;div&gt;SFT + RLHF&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="bA3JS-5OLp2g71gluNPn-66">
+        <mxCell id="bA3JS-5OLp2g71gluNPn-49" value="&lt;div&gt;SFT + Alignment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="bA3JS-5OLp2g71gluNPn-66">
           <mxGeometry y="190" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-50" value="llama / qwen / sailor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="bA3JS-5OLp2g71gluNPn-66">
@@ -6775,8 +6775,8 @@
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-75" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="1620" as="sourcePoint" />
-            <mxPoint x="360" y="1280" as="targetPoint" />
+            <mxPoint x="340" y="1580" as="sourcePoint" />
+            <mxPoint x="340" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-76" target="bA3JS-5OLp2g71gluNPn-77">
@@ -6786,18 +6786,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-76" value="&lt;div&gt;Item Search&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1350" width="100" height="30" as="geometry" />
+          <mxGeometry x="360" y="1350" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-77" value="Keyword to Item DB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1330" width="100" height="30" as="geometry" />
+          <mxGeometry x="500" y="1330" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-78" value="Q2I Embedding" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1370" width="100" height="30" as="geometry" />
+          <mxGeometry x="500" y="1370" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-82" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="1620" as="sourcePoint" />
-            <mxPoint x="670" y="1280" as="targetPoint" />
+            <mxPoint x="620" y="1580" as="sourcePoint" />
+            <mxPoint x="620" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-83" target="bA3JS-5OLp2g71gluNPn-84">
@@ -6807,22 +6807,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-83" value="Relevancy Check" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1350" width="100" height="30" as="geometry" />
+          <mxGeometry x="640" y="1350" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-84" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1330" width="100" height="30" as="geometry" />
+          <mxGeometry x="780" y="1330" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-86" value="Rcmd Items" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1370" width="100" height="30" as="geometry" />
+          <mxGeometry x="780" y="1370" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-88" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Item DB Modification&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. Modify Threshold: Balance the Item Cnt and Save Cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1430" width="240" height="50" as="geometry" />
+          <mxGeometry x="360" y="1430" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-89" value="&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;Add Q2I Recall&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. Based on BGE-M3&lt;/div&gt;&lt;div&gt;2. SFT BGE-M3 via Samples from Live/GPT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1500" width="240" height="50" as="geometry" />
+          <mxGeometry x="360" y="1500" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-90" value="&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;Checking the Relevancy&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. Set up task for LLM to judge, if the item is meet the user query, if no, does not rcmd and show the agent button to user&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1430" width="240" height="70" as="geometry" />
+          <mxGeometry x="640" y="1430" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-91" value="For Item Search, the evaluated Standard at this period is: Resolve Bad Cases, if yes, go live&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Thus there is a question: How to set up the evaluation for item search, to be revealed later&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=7;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1590" width="580" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
