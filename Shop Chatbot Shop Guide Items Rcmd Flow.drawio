@@ -7055,6 +7055,12 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-183" value="LLM Rank&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Rank &amp;amp; Filter&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1100" y="2500" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-185" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1215" y="2760" as="sourcePoint" />
+            <mxPoint x="1215" y="2400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
