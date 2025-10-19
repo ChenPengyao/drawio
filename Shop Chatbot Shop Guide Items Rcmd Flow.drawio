@@ -7061,6 +7061,27 @@
             <mxPoint x="1215" y="2400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-186" target="bA3JS-5OLp2g71gluNPn-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-186" target="bA3JS-5OLp2g71gluNPn-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-186" value="Reply Module" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="2500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-187" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;KSP Info&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-188" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Pretrianing&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#8F8F8F;strokeColor=#666666;dashed=1;dashPattern=8 8;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-192" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;KSP Info&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. AVG 30 Items, need to be ranked&lt;/div&gt;&lt;div&gt;2. Calculate &amp;lt;summary, item_info&amp;gt; Similarity&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="2580" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-193" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;Pretraining&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Only 4 Items could be showed&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. Involve more Information to Rank Candidate Items&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="2640" width="240" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
