@@ -6956,6 +6956,15 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-142" value="&lt;div&gt;Query Parser&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="160" y="2500" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-143" target="bA3JS-5OLp2g71gluNPn-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-143" target="bA3JS-5OLp2g71gluNPn-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-143" target="bA3JS-5OLp2g71gluNPn-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-143" value="Keywords" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="300" y="2520" width="100" height="30" as="geometry" />
         </mxCell>
@@ -7018,6 +7027,21 @@
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-161" value="For Item Search, the evaluated Standard at this period is: Resolve Bad Cases, if yes, go live&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Thus there is a question: How to set up the evaluation for item search, to be revealed later&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=7;" vertex="1" parent="1">
           <mxGeometry x="160" y="2740" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-163" target="bA3JS-5OLp2g71gluNPn-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-163" value="Chat log&lt;div&gt;Item Info&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-169" value="Mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-170" value="Original" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2520" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-171" value="Associated" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2560" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
