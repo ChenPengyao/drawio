@@ -7003,8 +7003,8 @@
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-152" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="2760" as="sourcePoint" />
-            <mxPoint x="850" y="2400" as="targetPoint" />
+            <mxPoint x="845" y="2760" as="sourcePoint" />
+            <mxPoint x="845" y="2400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-155" target="bA3JS-5OLp2g71gluNPn-156">
@@ -7024,9 +7024,6 @@
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-158" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Add Global Search API&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. Search in Shop&lt;/div&gt;&lt;div&gt;1. Search in Global Filter by Shop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="580" y="2580" width="240" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="bA3JS-5OLp2g71gluNPn-159" value="&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;Add Q2I Recall&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. Based on BGE-M3&lt;/div&gt;&lt;div&gt;2. SFT BGE-M3 via Samples from Live/GPT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="580" y="2650" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-160" value="&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;Checking the Relevancy&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. Set up task for LLM to judge, if the item is meet the user query, if no, does not rcmd and show the agent button to user&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="940" y="2580" width="240" height="70" as="geometry" />
