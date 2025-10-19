@@ -6971,16 +6971,16 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-143" value="Keywords" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="300" y="2490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bA3JS-5OLp2g71gluNPn-144" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Add Chatlog&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. GPT4 Check &amp;amp; Correct Samples&lt;/div&gt;&lt;div&gt;2. Taggers/DS Rewrite the Bad Cases&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="bA3JS-5OLp2g71gluNPn-144" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Add Chatlog&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. Add Chat Log to better query understanding&lt;/div&gt;&lt;div&gt;2. Add Item Info&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;to better query understanding&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="160" y="2580" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bA3JS-5OLp2g71gluNPn-145" value="&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Prompt Engineering&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. GPT4 to rewrite several version&lt;/div&gt;&lt;div&gt;2. llama3 to test the bad cases under several prompts&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2650" width="240" height="65" as="geometry" />
+        <mxCell id="bA3JS-5OLp2g71gluNPn-145" value="&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Keyword Modification&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. No Mapping to BE Category&lt;/div&gt;&lt;div&gt;2. Multi keywords output&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2650" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-146" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="2730" as="sourcePoint" />
-            <mxPoint x="560" y="2470" as="targetPoint" />
+            <mxPoint x="560" y="2370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-149" target="bA3JS-5OLp2g71gluNPn-150">
@@ -7029,7 +7029,7 @@
           <mxGeometry x="940" y="2580" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-161" value="For Item Search, the evaluated Standard at this period is: Resolve Bad Cases, if yes, go live&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Thus there is a question: How to set up the evaluation for item search, to be revealed later&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=7;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2740" width="580" height="40" as="geometry" />
+          <mxGeometry x="160" y="2770" width="580" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-163" target="bA3JS-5OLp2g71gluNPn-142">
           <mxGeometry relative="1" as="geometry" />
