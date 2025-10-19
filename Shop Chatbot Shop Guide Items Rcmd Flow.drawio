@@ -6945,7 +6945,7 @@
           <mxGeometry x="820" y="2040" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-139" value="Scenario" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2480" width="100" height="30" as="geometry" />
+          <mxGeometry x="300" y="2450" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-142" target="bA3JS-5OLp2g71gluNPn-139">
           <mxGeometry relative="1" as="geometry" />
@@ -6953,8 +6953,11 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-142" target="bA3JS-5OLp2g71gluNPn-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-142" target="bA3JS-5OLp2g71gluNPn-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-142" value="&lt;div&gt;Query Parser&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2500" width="100" height="30" as="geometry" />
+          <mxGeometry x="160" y="2470" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-143" target="bA3JS-5OLp2g71gluNPn-169">
           <mxGeometry relative="1" as="geometry" />
@@ -6962,13 +6965,13 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-143" target="bA3JS-5OLp2g71gluNPn-170">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bA3JS-5OLp2g71gluNPn-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-143" target="bA3JS-5OLp2g71gluNPn-171">
+        <mxCell id="bA3JS-5OLp2g71gluNPn-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-143" target="bA3JS-5OLp2g71gluNPn-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-143" value="Keywords" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2520" width="100" height="30" as="geometry" />
+          <mxGeometry x="300" y="2490" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bA3JS-5OLp2g71gluNPn-144" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Samples Cleansing&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. GPT4 Check &amp;amp; Correct Samples&lt;/div&gt;&lt;div&gt;2. Taggers/DS Rewrite the Bad Cases&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="bA3JS-5OLp2g71gluNPn-144" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Add Chatlog&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. GPT4 Check &amp;amp; Correct Samples&lt;/div&gt;&lt;div&gt;2. Taggers/DS Rewrite the Bad Cases&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="160" y="2580" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-145" value="&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Prompt Engineering&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. GPT4 to rewrite several version&lt;/div&gt;&lt;div&gt;2. llama3 to test the bad cases under several prompts&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
@@ -7032,16 +7035,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-163" value="Chat log&lt;div&gt;Item Info&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2420" width="100" height="30" as="geometry" />
+          <mxGeometry x="160" y="2390" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-169" value="Mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2480" width="100" height="30" as="geometry" />
+          <mxGeometry x="440" y="2450" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-170" value="Original" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2520" width="100" height="30" as="geometry" />
+          <mxGeometry x="440" y="2490" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-171" value="Associated" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2560" width="100" height="30" as="geometry" />
+          <mxGeometry x="440" y="2530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-176" value="User Demand Summary" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2530" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
