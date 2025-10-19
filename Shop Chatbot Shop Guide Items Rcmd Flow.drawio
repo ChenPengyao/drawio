@@ -6957,7 +6957,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-142" value="&lt;div&gt;Query Parser&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2470" width="100" height="30" as="geometry" />
+          <mxGeometry x="160" y="2490" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-143" target="bA3JS-5OLp2g71gluNPn-169">
           <mxGeometry relative="1" as="geometry" />
@@ -6975,7 +6975,7 @@
           <mxGeometry x="160" y="2580" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-145" value="&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Keyword Modification&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. No Mapping to BE Category&lt;/div&gt;&lt;div&gt;2. Multi keywords output&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2650" width="240" height="50" as="geometry" />
+          <mxGeometry x="160" y="2640" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-146" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -7035,7 +7035,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-163" value="Chat log&lt;div&gt;Item Info&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2390" width="100" height="30" as="geometry" />
+          <mxGeometry x="160" y="2410" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-169" value="Mapping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="440" y="2450" width="100" height="30" as="geometry" />
@@ -7048,6 +7048,9 @@
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-176" value="User Demand Summary" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="300" y="2530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-178" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;User Demand Summary&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. CoT: to output the user demand thought by LLM, and take it as reference to downstream&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2700" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
