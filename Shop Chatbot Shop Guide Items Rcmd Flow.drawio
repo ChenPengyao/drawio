@@ -6989,19 +6989,22 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-149" target="bA3JS-5OLp2g71gluNPn-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-149" target="bA3JS-5OLp2g71gluNPn-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-149" value="&lt;div&gt;Item Search&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="580" y="2500" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-150" value="Keyword to Item DB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="720" y="2480" width="100" height="30" as="geometry" />
+          <mxGeometry x="720" y="2460" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-151" value="Q2I Embedding" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="720" y="2520" width="100" height="30" as="geometry" />
+          <mxGeometry x="720" y="2500" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-152" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="2730" as="sourcePoint" />
-            <mxPoint x="920" y="2470" as="targetPoint" />
+            <mxPoint x="850" y="2760" as="sourcePoint" />
+            <mxPoint x="850" y="2400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-155" target="bA3JS-5OLp2g71gluNPn-156">
@@ -7019,7 +7022,7 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-157" value="Rcmd Items" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1080" y="2520" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bA3JS-5OLp2g71gluNPn-158" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Item DB Modification&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. Modify Threshold: Balance the Item Cnt and Save Cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="bA3JS-5OLp2g71gluNPn-158" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Add Global Search API&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. Search in Shop&lt;/div&gt;&lt;div&gt;1. Search in Global Filter by Shop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="580" y="2580" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-159" value="&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;Add Q2I Recall&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. Based on BGE-M3&lt;/div&gt;&lt;div&gt;2. SFT BGE-M3 via Samples from Live/GPT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
@@ -7051,6 +7054,9 @@
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-178" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;User Demand Summary&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. CoT: to output the user demand thought by LLM, and take it as reference to downstream&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="160" y="2700" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bA3JS-5OLp2g71gluNPn-179" value="SearchAPI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2540" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
