@@ -6562,7 +6562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SujcCdraXOmFCUwAH7Ff" name="25 nominee materials">
-    <mxGraphModel dx="1902" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2342" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7021,9 +7021,6 @@
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-158" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Add Global Search API&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. Search in Shop&lt;/div&gt;&lt;div&gt;1. Search in Global Filter by Shop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="580" y="2580" width="240" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="bA3JS-5OLp2g71gluNPn-161" value="For Item Search, the evaluated Standard at this period is: Resolve Bad Cases, if yes, go live&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Thus there is a question: How to set up the evaluation for item search, to be revealed later&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=7;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2770" width="580" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bA3JS-5OLp2g71gluNPn-163" target="bA3JS-5OLp2g71gluNPn-142">
           <mxGeometry relative="1" as="geometry" />
