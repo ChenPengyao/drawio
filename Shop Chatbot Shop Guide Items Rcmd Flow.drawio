@@ -6770,7 +6770,7 @@
         <mxCell id="bA3JS-5OLp2g71gluNPn-69" value="Sample3: 5%" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="220" y="1390" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bA3JS-5OLp2g71gluNPn-73" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Samples Cleansing&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. GPT4 Check &amp;amp; Correct Samples&lt;/div&gt;&lt;div&gt;2. Taggers/DS Rewrite the Bad Cases&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="bA3JS-5OLp2g71gluNPn-73" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Samples Cleansing&lt;/b&gt;&lt;/font&gt;&lt;div&gt;1. GPT4/Taggers Check &amp;amp; Correct Samples&lt;/div&gt;&lt;div&gt;2. GPT4 Generation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="80" y="1430" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bA3JS-5OLp2g71gluNPn-74" value="&lt;div&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;Prompt Engineering&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;1. GPT4 to rewrite several version&lt;/div&gt;&lt;div&gt;2. llama3 to test the bad cases under several prompts&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingTop=0;spacing=0;spacingLeft=8;fontSize=11;" parent="1" vertex="1">
