@@ -6562,7 +6562,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SujcCdraXOmFCUwAH7Ff" name="25 nominee materials">
-    <mxGraphModel dx="1910" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1755" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7383,6 +7383,42 @@
         </mxCell>
         <mxCell id="W9GtPC2hbNd23D7EBdBF-34" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Sample2: Good+GPT&lt;/span&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;20%&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="220" y="1350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9GtPC2hbNd23D7EBdBF-36" target="W9GtPC2hbNd23D7EBdBF-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-36" value="case分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1802" y="3470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W9GtPC2hbNd23D7EBdBF-37" target="W9GtPC2hbNd23D7EBdBF-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-37" value="发现问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1907" y="3410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9GtPC2hbNd23D7EBdBF-38" target="W9GtPC2hbNd23D7EBdBF-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-38" value="讨论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2005" y="3470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9GtPC2hbNd23D7EBdBF-39" target="W9GtPC2hbNd23D7EBdBF-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-39" value="设计方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2005" y="3540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9GtPC2hbNd23D7EBdBF-40" target="W9GtPC2hbNd23D7EBdBF-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-40" value="评测上线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1907" y="3600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9GtPC2hbNd23D7EBdBF-41" target="W9GtPC2hbNd23D7EBdBF-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W9GtPC2hbNd23D7EBdBF-41" value="收益" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1802" y="3540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
