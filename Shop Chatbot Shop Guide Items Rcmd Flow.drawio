@@ -6887,16 +6887,16 @@
         <mxCell id="vM4T_1cTPxxUuS5L53An-205" value="&amp;nbsp; &amp;nbsp; Knowledge" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="548.5" y="2720" width="771.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vM4T_1cTPxxUuS5L53An-206" value="PDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vM4T_1cTPxxUuS5L53An-206" value="PDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="2725" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vM4T_1cTPxxUuS5L53An-207" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vM4T_1cTPxxUuS5L53An-207" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="730" y="2725" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vM4T_1cTPxxUuS5L53An-208" value="Historical QA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vM4T_1cTPxxUuS5L53An-208" value="Historical QA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="822.5" y="2725" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vM4T_1cTPxxUuS5L53An-210" value="KSP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vM4T_1cTPxxUuS5L53An-210" value="KSP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="915" y="2725" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
