@@ -6642,9 +6642,6 @@
         <mxCell id="vM4T_1cTPxxUuS5L53An-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vM4T_1cTPxxUuS5L53An-23" target="vM4T_1cTPxxUuS5L53An-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vM4T_1cTPxxUuS5L53An-35" value="更多的结合，商品的信息，用户的信息，来综合进行推荐商品的model_id的推荐&lt;div&gt;以及Summary的生成&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1254.5" y="2360" width="172" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="vM4T_1cTPxxUuS5L53An-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vM4T_1cTPxxUuS5L53An-46" target="vM4T_1cTPxxUuS5L53An-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -6761,6 +6758,9 @@
         </mxCell>
         <mxCell id="vM4T_1cTPxxUuS5L53An-141" value="&lt;div&gt;Task 1: Is Variation&lt;/div&gt;Task 2: Model ID&lt;div&gt;Task 3: Summary&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="944" y="2251.12" width="86" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vM4T_1cTPxxUuS5L53An-145" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
