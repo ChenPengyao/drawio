@@ -4688,7 +4688,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rC77KhaDrWPtEKr2RgEM" name="Guide Recall/Rank">
-    <mxGraphModel dx="2546" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2233" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4962,7 +4962,7 @@
         <mxCell id="X-CTanGGxcVt9uxUBVFA-56" value="兴趣探索&amp;amp;转化" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="710" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X-CTanGGxcVt9uxUBVFA-57" value="兴趣探索&amp;amp;转化" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-57" value="场景定制&amp;amp;转化" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="788" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
