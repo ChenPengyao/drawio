@@ -4688,7 +4688,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rC77KhaDrWPtEKr2RgEM" name="Guide Recall/Rank">
-    <mxGraphModel dx="1719" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2546" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4810,7 +4810,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-1" value="Chatbot Initial" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="570" width="90" height="30" as="geometry" />
+          <mxGeometry x="-170" y="720" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-2" target="X-CTanGGxcVt9uxUBVFA-4">
           <mxGeometry relative="1" as="geometry" />
@@ -4819,7 +4819,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-2" value="User Query" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="470" width="80" height="30" as="geometry" />
+          <mxGeometry x="-10" y="620" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-4" target="X-CTanGGxcVt9uxUBVFA-11">
           <mxGeometry relative="1" as="geometry" />
@@ -4831,112 +4831,112 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-4" value="有返回" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-5" target="X-CTanGGxcVt9uxUBVFA-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="535" />
-              <mxPoint x="720" y="585" />
+              <mxPoint x="340" y="685" />
+              <mxPoint x="340" y="735" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-5" value="零结果" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-11" value="Variation Rcmd" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="380" width="90" height="30" as="geometry" />
+          <mxGeometry x="220" y="530" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-12" value="Comparison" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="420" width="80" height="30" as="geometry" />
+          <mxGeometry x="220" y="570" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-13" target="X-CTanGGxcVt9uxUBVFA-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="475" />
-              <mxPoint x="720" y="585" />
+              <mxPoint x="340" y="625" />
+              <mxPoint x="340" y="735" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-13" value="Item Search" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="460" width="80" height="30" as="geometry" />
+          <mxGeometry x="220" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-17" target="X-CTanGGxcVt9uxUBVFA-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-17" value="Opening" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="570" width="80" height="30" as="geometry" />
+          <mxGeometry x="-10" y="720" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-19" value="Recall &amp;amp; Rank &amp;amp; Reply" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="780" y="400" width="690" height="370" as="geometry" />
+          <mxGeometry x="400" y="550" width="690" height="370" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-23" target="X-CTanGGxcVt9uxUBVFA-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-23" value="Recall" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="820" y="435" width="180" height="315" as="geometry" />
+          <mxGeometry x="440" y="585" width="180" height="315" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-24" target="X-CTanGGxcVt9uxUBVFA-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-24" value="QP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="470" width="70" height="30" as="geometry" />
+          <mxGeometry x="447" y="620" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-25" value="Search API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="470" width="70" height="30" as="geometry" />
+          <mxGeometry x="540" y="620" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-27" value="Rcmd API&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;兴趣召回(u2i)，相似召回(i2i)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="510" width="163" height="40" as="geometry" />
+          <mxGeometry x="447" y="660" width="163" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-29" value="Hot2I&lt;div&gt;&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;category, brand&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="828.5" y="560" width="163" height="35" as="geometry" />
+          <mxGeometry x="448.5" y="710" width="163" height="35" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-30" value="Voucher2I&lt;div&gt;&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;&amp;lt;uid, shopid, vid&amp;gt; → itemlist&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="828.5" y="603" width="163" height="35" as="geometry" />
+          <mxGeometry x="448.5" y="753" width="163" height="35" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-31" value="Campaign2I&lt;div&gt;&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;&amp;lt;uid, shopid, cid&amp;gt; → itemlist&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="828.5" y="650" width="163" height="35" as="geometry" />
+          <mxGeometry x="448.5" y="800" width="163" height="35" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-32" value="Behavior&lt;div&gt;&lt;font color=&quot;#999999&quot;&gt;u2p2i, u2i2i&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="828.5" y="698" width="163" height="35" as="geometry" />
+          <mxGeometry x="448.5" y="848" width="163" height="35" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-33" target="X-CTanGGxcVt9uxUBVFA-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-33" value="Rank" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="435" width="180" height="315" as="geometry" />
+          <mxGeometry x="660" y="585" width="180" height="315" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-35" value="&lt;div&gt;&lt;font&gt;CTR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;兴趣召回(u2i)，相似召回(i2i)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1048.5" y="465" width="163" height="40" as="geometry" />
+          <mxGeometry x="668.5" y="615" width="163" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-36" value="&lt;div&gt;&lt;font&gt;CTCVR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;兴趣召回(u2i)，相似召回(i2i)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1048.5" y="520" width="163" height="40" as="geometry" />
+          <mxGeometry x="668.5" y="670" width="163" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-37" value="&lt;div&gt;&lt;font&gt;Similarity Reranker&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;文本相关性&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1048.5" y="572.5" width="163" height="40" as="geometry" />
+          <mxGeometry x="668.5" y="722.5" width="163" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-38" value="&lt;div&gt;&lt;font&gt;LLM Relevany&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;大模型判断相关性&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1048.5" y="627" width="163" height="40" as="geometry" />
+          <mxGeometry x="668.5" y="777" width="163" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-39" value="Reply" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="435" width="180" height="315" as="geometry" />
+          <mxGeometry x="880" y="585" width="180" height="315" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-43" target="X-CTanGGxcVt9uxUBVFA-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-43" value="Proactive" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="-270" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-45" target="X-CTanGGxcVt9uxUBVFA-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="665" />
-              <mxPoint x="720" y="585" />
+              <mxPoint x="340" y="815" />
+              <mxPoint x="340" y="735" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-45" value="Item Bubble" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="369" y="650" width="90" height="30" as="geometry" />
+          <mxGeometry x="-11" y="800" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
