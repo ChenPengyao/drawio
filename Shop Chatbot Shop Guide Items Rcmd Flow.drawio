@@ -4809,7 +4809,7 @@
         <mxCell id="X-CTanGGxcVt9uxUBVFA-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-1" target="X-CTanGGxcVt9uxUBVFA-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X-CTanGGxcVt9uxUBVFA-1" value="Chatbot Initial" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-1" value="Chatbot Initial" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-170" y="720" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-2" target="X-CTanGGxcVt9uxUBVFA-4">
@@ -4818,7 +4818,7 @@
         <mxCell id="X-CTanGGxcVt9uxUBVFA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-2" target="X-CTanGGxcVt9uxUBVFA-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X-CTanGGxcVt9uxUBVFA-2" value="User Query" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-2" value="User Query" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="620" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-4" target="X-CTanGGxcVt9uxUBVFA-11">
@@ -4864,7 +4864,7 @@
         <mxCell id="X-CTanGGxcVt9uxUBVFA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-17" target="X-CTanGGxcVt9uxUBVFA-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X-CTanGGxcVt9uxUBVFA-17" value="Opening" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-17" value="Opening" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="720" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-19" value="Recall &amp;amp; Rank &amp;amp; Reply" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
@@ -4924,7 +4924,7 @@
         <mxCell id="X-CTanGGxcVt9uxUBVFA-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-43" target="X-CTanGGxcVt9uxUBVFA-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X-CTanGGxcVt9uxUBVFA-43" value="Proactive" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-43" value="Proactive" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-270" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-CTanGGxcVt9uxUBVFA-45" target="X-CTanGGxcVt9uxUBVFA-19">
@@ -4935,7 +4935,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X-CTanGGxcVt9uxUBVFA-45" value="Item Bubble" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-45" value="Item Bubble" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-11" y="800" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-49" value="Behavior Label" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
