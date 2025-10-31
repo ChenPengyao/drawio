@@ -4938,6 +4938,33 @@
         <mxCell id="X-CTanGGxcVt9uxUBVFA-45" value="Item Bubble" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-11" y="800" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-49" value="Behavior Label" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="940" width="690" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-50" value="Item clk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="970" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-51" value="ATC clk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="970" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-52" value="Buy Now clk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="970" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-53" value="clk order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="970" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-54" value="相关性&amp;amp;转化" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="600" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-55" value="兴趣探索&amp;amp;转化" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="660" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-56" value="兴趣探索&amp;amp;转化" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="710" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-57" value="兴趣探索&amp;amp;转化" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="788" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
