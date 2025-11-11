@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8" pages="16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="16">
   <diagram id="a0Kgh4cbc69R_dpwDVpw" name="业务调用链路Flow">
     <mxGraphModel dx="2906" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5090,7 +5090,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MjeXvj3E5RMn4mdRNNHg" name="20250813_Guide_Relevancy_Module">
-    <mxGraphModel dx="2374" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2109" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6410,6 +6410,42 @@
         </mxCell>
         <mxCell id="I_vtd51UXHGtlrKZ-3XV-22" value="正交" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-50" y="5540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-1" value="101" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-154" y="2182.5" width="74" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-2" value="101 - item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="2138.75" width="74" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-3" value="101 - variation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="2232.5" width="74" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="slVpYo9RT88fHhkD86hq-4" target="slVpYo9RT88fHhkD86hq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-4" value="Variation Rcmd LLM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="2340" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-10" value="Item search" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2345.25" width="80" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="slVpYo9RT88fHhkD86hq-12" target="slVpYo9RT88fHhkD86hq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-12" value="Variation Rcmd LLM V1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="123.5" y="1980" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-13" value="Item search" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="1985.25" width="80" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="slVpYo9RT88fHhkD86hq-15" target="slVpYo9RT88fHhkD86hq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-15" value="Variation Rcmd LLM V2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2062.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="slVpYo9RT88fHhkD86hq-16" value="Item search" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="2067.75" width="80" height="39.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
