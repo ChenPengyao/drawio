@@ -4909,7 +4909,7 @@
         <mxCell id="X-CTanGGxcVt9uxUBVFA-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="&lt;div&gt;&lt;font&gt;CTR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;兴趣召回(u2i)，相似召回(i2i)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="163" x="668.5" y="615" as="geometry" />
         </mxCell>
-        <mxCell id="X-CTanGGxcVt9uxUBVFA-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font&gt;匹配模型&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;(OneRec)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="&lt;div&gt;&lt;font&gt;匹配模型&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;(OneRec)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="163" x="668.5" y="670" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font&gt;Similarity Reranker&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;文本相关性&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -4965,7 +4965,7 @@
         <mxCell id="X-CTanGGxcVt9uxUBVFA-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="场景定制&amp;amp;转化" vertex="1">
           <mxGeometry height="30" width="90" x="250" y="788" as="geometry" />
         </mxCell>
-        <mxCell id="ClNL1y2DH1qbxUG8ovoy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000099;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;干预逻辑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); background-color: transparent;&quot;&gt;Search &amp;gt; Rcmd&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ClNL1y2DH1qbxUG8ovoy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;干预逻辑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); background-color: transparent;&quot;&gt;Search &amp;gt; Rcmd&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="163" x="668.5" y="835" as="geometry" />
         </mxCell>
       </root>
