@@ -4909,7 +4909,7 @@
         <mxCell id="X-CTanGGxcVt9uxUBVFA-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="&lt;div&gt;&lt;font&gt;CTR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;兴趣召回(u2i)，相似召回(i2i)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="163" x="668.5" y="615" as="geometry" />
         </mxCell>
-        <mxCell id="X-CTanGGxcVt9uxUBVFA-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font&gt;CTCVR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;兴趣召回(u2i)，相似召回(i2i)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="X-CTanGGxcVt9uxUBVFA-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font&gt;匹配模型&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;(OneRec)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="163" x="668.5" y="670" as="geometry" />
         </mxCell>
         <mxCell id="X-CTanGGxcVt9uxUBVFA-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font&gt;Similarity Reranker&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot;&gt;文本相关性&lt;/font&gt;&lt;/div&gt;" vertex="1">
