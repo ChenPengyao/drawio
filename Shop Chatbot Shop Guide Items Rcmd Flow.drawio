@@ -4965,6 +4965,9 @@
         <mxCell id="X-CTanGGxcVt9uxUBVFA-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="场景定制&amp;amp;转化" vertex="1">
           <mxGeometry height="30" width="90" x="250" y="788" as="geometry" />
         </mxCell>
+        <mxCell id="ClNL1y2DH1qbxUG8ovoy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000099;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;干预逻辑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); background-color: transparent;&quot;&gt;Search &amp;gt; Rcmd&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="163" x="668.5" y="835" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
