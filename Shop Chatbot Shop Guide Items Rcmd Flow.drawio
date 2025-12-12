@@ -4968,8 +4968,8 @@
         <mxCell id="ClNL1y2DH1qbxUG8ovoy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;干预逻辑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); background-color: transparent;&quot;&gt;Search &amp;gt; Rcmd&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="163" x="668.5" y="835" as="geometry" />
         </mxCell>
-        <mxCell id="rEDCvIcTIYl2UR9Tfft3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;" value="User Query" vertex="1">
-          <mxGeometry height="30" width="60" x="-270" y="1250" as="geometry" />
+        <mxCell id="rEDCvIcTIYl2UR9Tfft3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;" value="Guide Solution" vertex="1">
+          <mxGeometry height="40" width="120" x="-270" y="1250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
