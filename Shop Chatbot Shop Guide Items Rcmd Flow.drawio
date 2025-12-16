@@ -4968,9 +4968,6 @@
         <mxCell id="ClNL1y2DH1qbxUG8ovoy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;干预逻辑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127)); background-color: transparent;&quot;&gt;Search &amp;gt; Rcmd&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="163" x="668.5" y="835" as="geometry" />
         </mxCell>
-        <mxCell id="rEDCvIcTIYl2UR9Tfft3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;" value="Guide Solution" vertex="1">
-          <mxGeometry height="40" width="120" x="-270" y="1250" as="geometry" />
-        </mxCell>
         <mxCell id="rEDCvIcTIYl2UR9Tfft3-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" value="4 Solution" vertex="1">
           <mxGeometry height="100" width="610" x="-270" y="1340" as="geometry" />
         </mxCell>
@@ -4993,31 +4990,52 @@
           <mxGeometry height="30" width="120" x="-250" y="1490" as="geometry" />
         </mxCell>
         <mxCell id="rEDCvIcTIYl2UR9Tfft3-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Relevancy (8B)" vertex="1">
-          <mxGeometry height="30" width="120" x="-250" y="1530" as="geometry" />
+          <mxGeometry height="30" width="120" x="-250" y="1535" as="geometry" />
         </mxCell>
         <mxCell id="rEDCvIcTIYl2UR9Tfft3-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Item Rcmd (1.7B)" vertex="1">
           <mxGeometry height="30" width="120" x="-105" y="1490" as="geometry" />
         </mxCell>
         <mxCell id="rEDCvIcTIYl2UR9Tfft3-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Variation Rcmd (8B)" vertex="1">
-          <mxGeometry height="30" width="120" x="-105" y="1530" as="geometry" />
+          <mxGeometry height="30" width="120" x="-105" y="1535" as="geometry" />
         </mxCell>
         <mxCell id="rEDCvIcTIYl2UR9Tfft3-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Item Compare (8B)" vertex="1">
           <mxGeometry height="30" width="120" x="50" y="1490" as="geometry" />
         </mxCell>
         <mxCell id="rEDCvIcTIYl2UR9Tfft3-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Variant Compare (8B)" vertex="1">
-          <mxGeometry height="30" width="120" x="50" y="1530" as="geometry" />
+          <mxGeometry height="30" width="120" x="50" y="1535" as="geometry" />
         </mxCell>
         <mxCell id="rEDCvIcTIYl2UR9Tfft3-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Reply Reason (8B)" vertex="1">
           <mxGeometry height="30" width="120" x="200" y="1490" as="geometry" />
         </mxCell>
         <mxCell id="rEDCvIcTIYl2UR9Tfft3-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" value="Item Reg (14B)&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(yayun)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="200" y="1530" as="geometry" />
+          <mxGeometry height="30" width="120" x="200" y="1535" as="geometry" />
         </mxCell>
         <mxCell id="rEDCvIcTIYl2UR9Tfft3-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" value="1 Reranker (BGE-Reranker-v2-m3)" vertex="1">
           <mxGeometry height="40" width="610" x="-270" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="rEDCvIcTIYl2UR9Tfft3-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="7 Recall Policies" vertex="1">
           <mxGeometry height="120" width="610" x="-270" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="rEDCvIcTIYl2UR9Tfft3-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Item Search API" vertex="1">
+          <mxGeometry height="30" width="120" x="-250" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="rEDCvIcTIYl2UR9Tfft3-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;" value="Item Rcmd API" vertex="1">
+          <mxGeometry height="30" width="120" x="-250" y="1735" as="geometry" />
+        </mxCell>
+        <mxCell id="rEDCvIcTIYl2UR9Tfft3-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Similar Item&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(listing title emb)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="-100" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="rEDCvIcTIYl2UR9Tfft3-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="搭配 Item&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;(promotion搭配类目对)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="-100" y="1735" as="geometry" />
+        </mxCell>
+        <mxCell id="rEDCvIcTIYl2UR9Tfft3-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Hot Items" vertex="1">
+          <mxGeometry height="30" width="120" x="50" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="rEDCvIcTIYl2UR9Tfft3-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="ATC Items" vertex="1">
+          <mxGeometry height="30" width="120" x="50" y="1735" as="geometry" />
+        </mxCell>
+        <mxCell id="rEDCvIcTIYl2UR9Tfft3-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Viewed Items" vertex="1">
+          <mxGeometry height="30" width="120" x="205" y="1690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
