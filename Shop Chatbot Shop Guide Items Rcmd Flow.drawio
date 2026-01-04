@@ -8793,7 +8793,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zxf6hzR3X4ov1jqjS7yl" name="新架构图例">
-    <mxGraphModel dx="489" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="557" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8806,7 +8806,7 @@
         <mxCell id="vWt4TFVqn2WAeZsjdfbU-10" edge="1" parent="1" source="vWt4TFVqn2WAeZsjdfbU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vWt4TFVqn2WAeZsjdfbU-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vWt4TFVqn2WAeZsjdfbU-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;spacing=0;spacingTop=-1;" value="&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 9px; line-height: 60%;&quot;&gt;Query&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;line-height: 60%; font-size: 6px;&quot;&gt;不同类型&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="vWt4TFVqn2WAeZsjdfbU-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;spacing=0;spacingTop=-1;fontColor=#006600;" value="&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 9px; line-height: 60%;&quot;&gt;Query&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;line-height: 60%; font-size: 6px;&quot;&gt;不同类型&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="40" x="160" y="155" as="geometry" />
         </mxCell>
         <mxCell id="vWt4TFVqn2WAeZsjdfbU-7" edge="1" parent="1" source="vWt4TFVqn2WAeZsjdfbU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vWt4TFVqn2WAeZsjdfbU-4">
@@ -8818,20 +8818,29 @@
         <mxCell id="vWt4TFVqn2WAeZsjdfbU-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=6;" value="comm和planner的query有overlap是可接受的" vertex="1">
           <mxGeometry height="20" width="70" x="182" y="123" as="geometry" />
         </mxCell>
+        <mxCell id="vWt4TFVqn2WAeZsjdfbU-17" edge="1" parent="1" source="vWt4TFVqn2WAeZsjdfbU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vWt4TFVqn2WAeZsjdfbU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vWt4TFVqn2WAeZsjdfbU-9" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="GPT /&amp;nbsp; Gemini" vertex="1">
           <mxGeometry height="30" width="90" x="270" y="155" as="geometry" />
         </mxCell>
         <mxCell id="vWt4TFVqn2WAeZsjdfbU-12" edge="1" parent="1" source="vWt4TFVqn2WAeZsjdfbU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="vWt4TFVqn2WAeZsjdfbU-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vWt4TFVqn2WAeZsjdfbU-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=6;spacing=-4;" value="Functions" vertex="1">
+        <mxCell id="vWt4TFVqn2WAeZsjdfbU-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=6;spacing=-3;" value="Functions" vertex="1">
           <mxGeometry height="60" width="70" x="420" y="140" as="geometry" />
         </mxCell>
         <mxCell id="vWt4TFVqn2WAeZsjdfbU-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;" value="Tools" vertex="1">
-          <mxGeometry height="15" width="50" x="430" y="150" as="geometry" />
+          <mxGeometry height="15" width="50" x="430" y="153" as="geometry" />
         </mxCell>
         <mxCell id="vWt4TFVqn2WAeZsjdfbU-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;" value="Experts" vertex="1">
           <mxGeometry height="15" width="50" x="430" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="vWt4TFVqn2WAeZsjdfbU-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=6;" value="多轮调用&lt;div&gt;max-len = 3&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="371" y="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vWt4TFVqn2WAeZsjdfbU-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;spacing=0;spacingTop=-1;fontColor=#006600;" value="&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 9px; line-height: 60%;&quot;&gt;Output&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;多阶段结果&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="40" x="295" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
