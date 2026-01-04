@@ -8839,8 +8839,14 @@
         <mxCell id="vWt4TFVqn2WAeZsjdfbU-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=6;" value="多轮调用&lt;div&gt;max-len = 3&lt;/div&gt;" vertex="1">
           <mxGeometry height="20" width="40" x="371" y="147.5" as="geometry" />
         </mxCell>
+        <mxCell id="vWt4TFVqn2WAeZsjdfbU-19" edge="1" parent="1" source="vWt4TFVqn2WAeZsjdfbU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vWt4TFVqn2WAeZsjdfbU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vWt4TFVqn2WAeZsjdfbU-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;spacing=0;spacingTop=-1;fontColor=#006600;" value="&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 9px; line-height: 60%;&quot;&gt;Output&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;多阶段结果&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="40" x="295" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="vWt4TFVqn2WAeZsjdfbU-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;" value="Checking" vertex="1">
+          <mxGeometry height="15" width="50" x="290" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
