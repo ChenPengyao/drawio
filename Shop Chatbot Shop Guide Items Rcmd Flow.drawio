@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6yFVXYB_n1bXwQTMu6gb-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=9;fontStyle=1;fontColor=#CC0000;" value="Infer Flow" vertex="1">
+        <mxCell id="6yFVXYB_n1bXwQTMu6gb-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=9;fontStyle=1;fontColor=#CC0000;" value="Inference&amp;nbsp;Flow" vertex="1">
           <mxGeometry height="250" width="627.5" x="192.5" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="6yFVXYB_n1bXwQTMu6gb-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;fontSize=10;fontStyle=1;fontColor=#004C99;dashed=1;fillColor=none;" value="Cache" vertex="1">
@@ -398,7 +398,7 @@
         <mxCell id="6yFVXYB_n1bXwQTMu6gb-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Embbed" vertex="1">
           <mxGeometry height="20" width="372.5" x="217.5" y="1560" as="geometry" />
         </mxCell>
-        <mxCell id="6yFVXYB_n1bXwQTMu6gb-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Infer" vertex="1">
+        <mxCell id="6yFVXYB_n1bXwQTMu6gb-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Inference" vertex="1">
           <mxGeometry height="20" width="372.5" x="219" y="1530" as="geometry" />
         </mxCell>
         <mxCell id="6yFVXYB_n1bXwQTMu6gb-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Output" vertex="1">
