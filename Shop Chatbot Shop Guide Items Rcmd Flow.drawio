@@ -284,6 +284,12 @@
         <mxCell id="j_NV4aSKQS8rwUzKBRGC-134" parent="j_NV4aSKQS8rwUzKBRGC-131" style="rounded=0;whiteSpace=wrap;html=1;" value="Complx QA" vertex="1">
           <mxGeometry height="34.28571428571428" width="73.84615384615384" y="5.7142857142857135" as="geometry" />
         </mxCell>
+        <mxCell id="j_NV4aSKQS8rwUzKBRGC-136" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;" value="Planner LLM (Gemini)" vertex="1">
+          <mxGeometry height="50" width="138" x="392" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="j_NV4aSKQS8rwUzKBRGC-137" parent="j_NV4aSKQS8rwUzKBRGC-136" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=0;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;spacing=0;" value="Item 1" vertex="1">
+          <mxGeometry height="30" width="138" y="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
