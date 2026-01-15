@@ -279,7 +279,7 @@
           <mxGeometry height="190" width="222.5" x="215" y="2550" as="geometry" />
         </mxCell>
         <mxCell id="j_NV4aSKQS8rwUzKBRGC-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;case 1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&amp;lt;Q&amp;gt;我想要一瓶3盎司的亮柑橘味敏感肌专用止汗剂，价格低于50美元&amp;lt;/Q&amp;gt;&lt;div&gt;&amp;lt;A&amp;gt;为你推荐xx牌子柑橘味止汗剂, 规格是敏感肌专用/3盎司, 可点击&quot;buy now&quot;进行购买&amp;lt;/A&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;lt;Q&amp;gt;这个还有货吗&amp;lt;/Q&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;A&amp;gt;没有货了&amp;lt;/A&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="250" width="242.5" x="515" y="2480" as="geometry" />
+          <mxGeometry height="250" width="242.5" x="515" y="2530" as="geometry" />
         </mxCell>
         <mxCell id="j_NV4aSKQS8rwUzKBRGC-131" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="40" width="80" x="540.5" y="1080" as="geometry" />
@@ -498,11 +498,29 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="summary 2" vertex="1">
           <mxGeometry height="30" width="88.5" x="641.5" y="2190" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="plan a3: rcmd" vertex="1">
+        <mxCell id="EUvU9dIfl65QTG2BaxS--40" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="plan a3: 比价" vertex="1">
           <mxGeometry height="30" width="87" x="503" y="2240" as="geometry" />
         </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--37" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;spacing=0;" value="planner" vertex="1">
-          <mxGeometry height="40" width="104.92" x="340" y="2300" as="geometry" />
+          <mxGeometry height="40" width="104.92" x="340" y="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--38" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="plan a1: 3 tools &amp;lt;search, rcmd，比价&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="490" y="2335" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="summary 1" vertex="1">
+          <mxGeometry height="30" width="88.5" x="745.92" y="2335" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="summary 3" vertex="1">
+          <mxGeometry height="30" width="88.5" x="641.5" y="2240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
