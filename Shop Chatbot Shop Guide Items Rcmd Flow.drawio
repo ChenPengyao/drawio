@@ -677,6 +677,9 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Sub Planner 2" vertex="1">
           <mxGeometry height="60" width="120" x="1150" y="3550" as="geometry" />
         </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;planner判断是否需要分裂为2个plan方向&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="202" x="411" y="3385" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
