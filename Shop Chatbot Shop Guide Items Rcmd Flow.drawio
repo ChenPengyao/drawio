@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7" pages="17">
   <diagram id="zxf6hzR3X4ov1jqjS7yl" name="26年Q1新架构图例">
-    <mxGraphModel dx="2769" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1766" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -571,7 +571,7 @@
             <mxPoint x="360" y="3360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="Sub Plan" vertex="1">
+        <mxCell id="EUvU9dIfl65QTG2BaxS--51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="Sub Planner" vertex="1">
           <mxGeometry height="30" width="127.5" x="444.92" y="3350" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--52" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
@@ -664,27 +664,17 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="Tools / Experts Call&amp;nbsp;" vertex="1">
           <mxGeometry height="70" width="230" x="748.75" y="3950" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--86" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1410" y="3905" />
-              <mxPoint x="1410" y="3680" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--123" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Sub Planner 1" vertex="1">
-          <mxGeometry height="60" width="120" x="1150" y="3875" as="geometry" />
+          <mxGeometry height="60" width="120" x="1070" y="3875" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--87" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1410" y="3985" />
-              <mxPoint x="1410" y="3680" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--124" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Sub Planner 2" vertex="1">
-          <mxGeometry height="60" width="120" x="1150" y="3955" as="geometry" />
+          <mxGeometry height="60" width="120" x="1070" y="3955" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;planner判断是否需要分裂为多个plan方向&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="202" x="411" y="3790" as="geometry" />
@@ -692,7 +682,7 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;planner判断无法解决，拒答&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="202" x="417.58" y="3650" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;planner判断是否需要分裂为2个plan方向&lt;/div&gt;" vertex="1">
+        <mxCell id="EUvU9dIfl65QTG2BaxS--90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;planner判断是否需要分裂为多个plan方向&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="202" x="411" y="3407" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="summary" vertex="1">
@@ -767,6 +757,17 @@
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--121" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=default;strokeColor=default;dashed=1;" value="Tools RAG" vertex="1">
           <mxGeometry height="30" width="95.58" x="608.1" y="4450" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--125" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="3940" />
+              <mxPoint x="1410" y="3680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Planner" vertex="1">
+          <mxGeometry height="60" width="120" x="1226.5" y="3910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
