@@ -752,7 +752,7 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--117" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Planner Final Rsp" vertex="1">
+        <mxCell id="EUvU9dIfl65QTG2BaxS--115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Planner Final Rsp" vertex="1">
           <mxGeometry height="30" width="129.79" x="608.1" y="4970" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--121" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=default;strokeColor=default;dashed=1;" value="Tools RAG" vertex="1">
