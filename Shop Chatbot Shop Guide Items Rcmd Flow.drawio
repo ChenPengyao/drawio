@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="830" width="1530" x="120" y="3290" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="405" width="1200" x="280" y="3335" as="geometry" />
+        </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=0;spacingTop=-3;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingRight=0;spacingLeft=2;" value="Current" vertex="1">
           <mxGeometry height="70" width="442.46" x="237.54" y="1880" as="geometry" />
         </mxCell>
@@ -688,6 +694,9 @@
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;planner判断是否需要分裂为2个plan方向&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="202" x="411" y="3407" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="summary" vertex="1">
+          <mxGeometry height="30" width="88.5" x="1750" y="2590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
