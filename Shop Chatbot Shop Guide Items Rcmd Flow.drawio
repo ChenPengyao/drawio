@@ -689,12 +689,6 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;planner判断是否需要分裂为2个plan方向&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="202" x="411" y="3407" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--91" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="300" y="3390" as="sourcePoint" />
-            <mxPoint x="1420" y="3390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
