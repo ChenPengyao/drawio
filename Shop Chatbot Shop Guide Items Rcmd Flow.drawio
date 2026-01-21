@@ -821,7 +821,7 @@
           <mxGeometry height="60" width="120" x="1352" y="4642" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="API选择 &amp;amp; 传参" vertex="1">
-          <mxGeometry height="30" width="60" x="1662" y="4646" as="geometry" />
+          <mxGeometry height="30" width="60" x="1654" y="4646" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--151" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="253" width="174" x="1722" y="4545.5" as="geometry" />
