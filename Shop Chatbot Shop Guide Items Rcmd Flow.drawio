@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7" pages="17">
   <diagram id="zxf6hzR3X4ov1jqjS7yl" name="26年Q1新架构图例">
-    <mxGraphModel dx="901" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -776,19 +776,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;spacing=-3;align=left;spacingLeft=9;fontStyle=1;fontColor=#990000;" value="Recall API" vertex="1">
-          <mxGeometry height="310" width="174" x="1390" y="4530" as="geometry" />
+          <mxGeometry height="310" width="174" x="1722" y="4517" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Search API&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tools / Expert List&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Last output(plan/tool_res)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="1402" y="4552" as="geometry" />
+          <mxGeometry height="60" width="150" x="1734" y="4539" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Rcmd API&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Memory (chat,sum,upp)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;item_info (rag)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="150" x="1402" y="4702" as="geometry" />
+          <mxGeometry height="55" width="150" x="1734" y="4689" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Recall Item List" vertex="1">
-          <mxGeometry height="60" width="120" x="1620" y="4655" as="geometry" />
+          <mxGeometry height="60" width="120" x="1952" y="4642" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--139" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="140" width="210" x="1720" y="4450" as="geometry" />
+          <mxGeometry height="140" width="210" x="2012" y="4437" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--133" parent="EUvU9dIfl65QTG2BaxS--139" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;spacing=0;" value="Item Info" vertex="1">
           <mxGeometry height="140" width="210" as="geometry" />
@@ -808,8 +808,8 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--138" parent="EUvU9dIfl65QTG2BaxS--139" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Desc/Review 由RAGAgent给出和query相关的信息" vertex="1">
           <mxGeometry height="39" width="190" x="10" y="91" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Rank Agent&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;V1: 0.8B&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;V2:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1850" y="4651" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Rank Agent&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;V1: 0.8B&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;v2: Search&amp;amp;Rcmd Expert&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2170" y="4638" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--142" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;" target="EUvU9dIfl65QTG2BaxS--141">
           <mxGeometry relative="1" as="geometry" />
@@ -817,8 +817,20 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--145" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="EUvU9dIfl65QTG2BaxS--127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Planner module Call" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="4655" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Search&amp;amp;Rcmd&lt;div&gt;Expert&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1532" y="4642" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--147" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.006;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" target="EUvU9dIfl65QTG2BaxS--141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--149" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Planner module Call" vertex="1">
+          <mxGeometry height="60" width="120" x="1352" y="4642" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API选择 &amp;amp; 传参" vertex="1">
+          <mxGeometry height="30" width="60" x="1654" y="4642" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
