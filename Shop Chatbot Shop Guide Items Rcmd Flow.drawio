@@ -799,7 +799,7 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--138" parent="EUvU9dIfl65QTG2BaxS--139" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Desc/Review 由RAGAgent给出和query相关的信息" vertex="1">
           <mxGeometry height="39" width="190" x="10" y="91" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Rank Agent&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;V1: 0.8B&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;v2: Search&amp;amp;Rcmd Expert&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="EUvU9dIfl65QTG2BaxS--141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="Rank Agent&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;V1: 0.8B&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;v2: Search&amp;amp;Rcmd Expert&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2170" y="4638" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--142" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;" target="EUvU9dIfl65QTG2BaxS--141">
@@ -808,7 +808,7 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--145" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="EUvU9dIfl65QTG2BaxS--127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Search&amp;amp;Rcmd&lt;div&gt;Expert&lt;/div&gt;" vertex="1">
+        <mxCell id="EUvU9dIfl65QTG2BaxS--144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="Search&amp;amp;Rcmd&lt;div&gt;Expert&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1532" y="4642" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--147" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.006;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" target="EUvU9dIfl65QTG2BaxS--141">
