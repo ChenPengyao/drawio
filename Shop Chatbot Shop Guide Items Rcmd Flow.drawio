@@ -951,8 +951,8 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--208" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Expert n" vertex="1">
           <mxGeometry height="60" width="120" x="3690.42" y="4530" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--211" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="MCP Expert Info, &lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;need&lt;/font&gt;&lt;/b&gt;&amp;nbsp;input para" vertex="1">
-          <mxGeometry height="30" width="110" x="3490" y="4277" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--211" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="MCP Expert Info, &lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;need&lt;/font&gt;&lt;/b&gt;&amp;nbsp;input para&lt;div&gt;&amp;lt;Task&amp;gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="43" width="110" x="3490" y="4277" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--215" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Tool 1" vertex="1">
           <mxGeometry height="60" width="120" x="4027.92" y="4370" as="geometry" />
@@ -966,8 +966,8 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--221" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是否支持配置tools block or Tools RAG" vertex="1">
           <mxGeometry height="30" width="110" x="4024.17" y="4630" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--223" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="MCP Expert Info, &lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;need&lt;/font&gt;&lt;/b&gt; input para" vertex="1">
-          <mxGeometry height="30" width="110" x="3859.42" y="4277" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--223" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="MCP Expert Info, &lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;need&lt;/font&gt;&lt;/b&gt; input para&lt;div&gt;&amp;lt;tool_para&amp;gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="46.5" width="110" x="3859.42" y="4275.25" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--225" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Get Expert Respond &amp;amp; Loop" vertex="1">
           <mxGeometry height="30" width="170" x="3450" y="4450" as="geometry" />
