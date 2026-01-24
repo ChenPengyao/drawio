@@ -1029,6 +1029,48 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--249" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;spacing=0;fontSize=11;" value="1. planner有当前对话中历史规划记录 (plan, experts_rsp, loop)&amp;nbsp;&lt;div&gt;2. experts有planner当前query下的规划输出(experts_call, para)&lt;/div&gt;&lt;div&gt;3. 各个expert执行过程中看不到其他expert结果&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 102, 102);&quot;&gt;4. 未来考虑引入摘要Agent来优化context篇幅，但精度要求高&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 102, 102);&quot;&gt;5. 工程侧可对context的读写缓存做建议&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="85" width="333.58" x="3760" y="4180" as="geometry" />
         </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--255" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" value="Experts List" vertex="1">
+          <mxGeometry height="240" width="200" x="3079" y="4790" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--263" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--266" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="EUvU9dIfl65QTG2BaxS--264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--267" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--269" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--256" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="商品咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="3119" y="4820" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="商品搜推" vertex="1">
+          <mxGeometry height="30" width="120" x="3119" y="4860" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--258" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;fillColor=#E6E6E6;fontColor=#333333;strokeColor=#666666;" value="物流咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="3119" y="4900" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--259" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="售后咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="3119" y="4940" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--260" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="平台咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="3119" y="4980" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--262" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="商品通用咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="3410" y="4782" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="商品size咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="3410" y="4820" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="商品定制化咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="3410" y="4860" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--268" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="对比咨询: 并行调用2次商品咨询再总结" vertex="1">
+          <mxGeometry height="30" width="280" x="3410" y="4900" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
