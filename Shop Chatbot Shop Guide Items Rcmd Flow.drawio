@@ -987,7 +987,7 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--205" parent="EUvU9dIfl65QTG2BaxS--237" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" value="Experts List" vertex="1">
           <mxGeometry height="240" width="200" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--206" parent="EUvU9dIfl65QTG2BaxS--237" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="商品咨询" vertex="1">
+        <mxCell id="EUvU9dIfl65QTG2BaxS--206" parent="EUvU9dIfl65QTG2BaxS--237" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="商品咨询" vertex="1">
           <mxGeometry height="30" width="120" x="40" y="30" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--207" parent="EUvU9dIfl65QTG2BaxS--237" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="商品搜推" vertex="1">
