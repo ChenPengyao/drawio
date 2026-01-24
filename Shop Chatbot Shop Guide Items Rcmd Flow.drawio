@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7" pages="17">
   <diagram id="zxf6hzR3X4ov1jqjS7yl" name="26年Q1新架构图例">
-    <mxGraphModel dx="1384" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EUvU9dIfl65QTG2BaxS--232" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="460" width="1141" x="3079" y="4230" as="geometry" />
+          <mxGeometry height="700" width="1151" x="3079" y="3980" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--222" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--205">
           <mxGeometry relative="1" as="geometry">
@@ -14,6 +14,9 @@
               <mxPoint x="3750.42" y="4270" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--246" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--243">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--212" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" value="Tools List" vertex="1">
           <mxGeometry height="280" width="200" x="3984.17" y="4340" as="geometry" />
@@ -939,35 +942,23 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--230" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="EUvU9dIfl65QTG2BaxS--212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--205" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" value="Experts List" vertex="1">
-          <mxGeometry height="280" width="200" x="3650.42" y="4340" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--211" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;b&gt;MCP&lt;/b&gt; Expert Info, &lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;need&lt;/font&gt;&lt;/b&gt;&amp;nbsp;input para&lt;div&gt;&amp;lt;target, rationale&amp;gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="43" width="130" x="3490" y="4277" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--206" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Expert 1" vertex="1">
-          <mxGeometry height="60" width="120" x="3690.42" y="4370" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--215" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Review检索" vertex="1">
+          <mxGeometry height="20" width="120" x="4027.92" y="4370" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--207" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Expert 2" vertex="1">
-          <mxGeometry height="60" width="120" x="3690.42" y="4450" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--216" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="相似问检索" vertex="1">
+          <mxGeometry height="20" width="120" x="4027.92" y="4400" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--208" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="Expert n" vertex="1">
-          <mxGeometry height="60" width="120" x="3690.42" y="4530" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--217" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="图片检索" vertex="1">
+          <mxGeometry height="20" width="120" x="4027.92" y="4430" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--211" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="MCP Expert Info, &lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;need&lt;/font&gt;&lt;/b&gt;&amp;nbsp;input para&lt;div&gt;&amp;lt;Task&amp;gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="43" width="110" x="3490" y="4277" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--221" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. 需要支持配置tools block&lt;div&gt;2. 未来可能有Tools RAG&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="155.83" x="4010" y="4627" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--215" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Tool 1" vertex="1">
-          <mxGeometry height="60" width="120" x="4027.92" y="4370" as="geometry" />
-        </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--216" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Tool 2" vertex="1">
-          <mxGeometry height="60" width="120" x="4027.92" y="4450" as="geometry" />
-        </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--217" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Tool n" vertex="1">
-          <mxGeometry height="60" width="120" x="4024.17" y="4530" as="geometry" />
-        </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--221" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是否支持配置tools block or Tools RAG" vertex="1">
-          <mxGeometry height="30" width="110" x="4024.17" y="4630" as="geometry" />
-        </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--223" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="MCP Expert Info, &lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;need&lt;/font&gt;&lt;/b&gt; input para&lt;div&gt;&amp;lt;tool_para&amp;gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="46.5" width="110" x="3859.42" y="4275.25" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--223" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;b&gt;MCP&lt;/b&gt; Expert Info, &lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;need&lt;/font&gt;&lt;/b&gt; input para&lt;div&gt;&amp;lt;tool_para&amp;gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="46.5" width="110" x="3859.42" y="4277" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--225" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Get Expert Respond &amp;amp; Loop" vertex="1">
           <mxGeometry height="30" width="170" x="3450" y="4450" as="geometry" />
@@ -981,11 +972,62 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--231" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Get Tools&amp;nbsp;&lt;div&gt;Respond &amp;amp; Loop&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="170" x="3829.42" y="4440" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--233" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="1. 支持同一expert的并行多次调用&lt;div&gt;2. 支持无依赖的不同experts并行调用&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="200" x="3435" y="4490" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--233" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="1. 支持同一expert的并行多次调用&lt;div&gt;2. 支持无依赖的不同experts并行调用&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="3450" y="4485" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--234" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="1. 支持同一tool的并行多次调用&lt;div&gt;2. 支持无依赖的不同tools并行调用&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="110" x="3859.42" y="4490" as="geometry" />
+        <mxCell id="EUvU9dIfl65QTG2BaxS--234" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;" value="1. 支持同一tool的并行多次调用&lt;div&gt;2. 支持无依赖的不同tools并行调用&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110.58" x="3859.42" y="4490" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--237" connectable="0" parent="1" style="group;dashed=1;" value="" vertex="1">
+          <mxGeometry height="240" width="200" x="3650.42" y="4360" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--205" parent="EUvU9dIfl65QTG2BaxS--237" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" value="Experts List" vertex="1">
+          <mxGeometry height="240" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--206" parent="EUvU9dIfl65QTG2BaxS--237" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="商品咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--207" parent="EUvU9dIfl65QTG2BaxS--237" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="商品搜推" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--208" parent="EUvU9dIfl65QTG2BaxS--237" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;fillColor=#E6E6E6;fontColor=#333333;strokeColor=#666666;" value="物流咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--235" parent="EUvU9dIfl65QTG2BaxS--237" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="售后咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--236" parent="EUvU9dIfl65QTG2BaxS--237" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="平台咨询" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--238" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="商品搜索" vertex="1">
+          <mxGeometry height="20" width="120" x="4027.92" y="4460" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="商品推荐" vertex="1">
+          <mxGeometry height="20" width="120" x="4027.92" y="4490" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--240" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="物流状态查询" vertex="1">
+          <mxGeometry height="20" width="120" x="4027.92" y="4520" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--241" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="物流接口查询" vertex="1">
+          <mxGeometry height="20" width="120" x="4027.92" y="4550" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--242" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="。。。" vertex="1">
+          <mxGeometry height="20" width="120" x="4027.92" y="4580" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--243" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" value="Context Management" vertex="1">
+          <mxGeometry height="60" width="128" x="3686.42" y="4110" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--244" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="EUvU9dIfl65QTG2BaxS--243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--248" edge="1" parent="1" source="EUvU9dIfl65QTG2BaxS--247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="EUvU9dIfl65QTG2BaxS--243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--247" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="Sunmmary Agent" vertex="1">
+          <mxGeometry height="60" width="120" x="3690.42" y="4000" as="geometry" />
+        </mxCell>
+        <mxCell id="EUvU9dIfl65QTG2BaxS--249" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;spacing=0;fontSize=11;" value="1. planner有当前对话中历史规划记录 (plan, experts_rsp, loop)&amp;nbsp;&lt;div&gt;2. experts有planner当前query下的规划输出(experts_call, para)&lt;/div&gt;&lt;div&gt;3. 各个expert执行过程中看不到其他expert结果&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 102, 102);&quot;&gt;4. 未来考虑引入摘要Agent来优化context篇幅，但精度要求高&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 102, 102);&quot;&gt;5. 工程侧可对context的读写缓存做建议&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="333.58" x="3760" y="4180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
