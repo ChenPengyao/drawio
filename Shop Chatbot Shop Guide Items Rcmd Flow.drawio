@@ -1050,7 +1050,7 @@
         <mxCell id="EUvU9dIfl65QTG2BaxS--265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="商品定制化咨询" vertex="1">
           <mxGeometry height="30" width="120" x="3410" y="4860" as="geometry" />
         </mxCell>
-        <mxCell id="EUvU9dIfl65QTG2BaxS--268" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=#666666;dashed=1;fontColor=#333333;" value="对比咨询: 并行调用2次商品咨询再总结" vertex="1">
+        <mxCell id="EUvU9dIfl65QTG2BaxS--268" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="对比咨询: 并行调用2次商品咨询再总结" vertex="1">
           <mxGeometry height="30" width="280" x="3410" y="4900" as="geometry" />
         </mxCell>
         <mxCell id="EUvU9dIfl65QTG2BaxS--270" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="商品个性化搜索推荐" vertex="1">
