@@ -1325,6 +1325,59 @@
         <mxCell id="lFLFxXPaKW4gPJv4eaRB-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rcmd 链路" vertex="1">
           <mxGeometry height="30" width="70" x="3180" y="6340" as="geometry" />
         </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-24" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lFLFxXPaKW4gPJv4eaRB-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CM Agent" vertex="1">
+          <mxGeometry height="60" width="90" x="3140" y="6620" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-26" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="lFLFxXPaKW4gPJv4eaRB-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-29" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lFLFxXPaKW4gPJv4eaRB-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Planner Agent" vertex="1">
+          <mxGeometry height="60" width="90" x="3345" y="6620" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Need_Planner = Y" vertex="1">
+          <mxGeometry height="30" width="70" x="3252" y="6610" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. 拒答：&lt;div&gt;如果planner发现目前问题超出解决能力范围，会拒答，即不调用任何expert&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;但是会返回拒答的原因给CM; 如，用户问的是退款问题，目前没有expert可以解决，所以无法回答&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 返回商品列表：&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="172" x="3209" y="6710" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-33" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lFLFxXPaKW4gPJv4eaRB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-38" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="lFLFxXPaKW4gPJv4eaRB-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3745" y="6760" />
+              <mxPoint x="3390" y="6760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="搜推expert" vertex="1">
+          <mxGeometry height="60" width="90" x="3700" y="6620" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="输出&lt;div&gt;1. expert_name&lt;/div&gt;&lt;div&gt;2. expert_subtask: 给expert分配的任务，是文本描述&lt;/div&gt;&lt;div&gt;3. thought: CoT，为什么选择这些expert，以及为什么是这样分派subtask&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="3446.42" y="6550" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-36" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lFLFxXPaKW4gPJv4eaRB-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="tools&lt;div&gt;Search tool&lt;/div&gt;&lt;div&gt;Rcmd tool&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="4060" y="6620" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="输出&lt;div&gt;1. tool_name&lt;/div&gt;&lt;div&gt;2. tool_para: 包括recall策略，keyword&lt;/div&gt;&lt;div&gt;3. thought: CoT，为什么选择这些tool，以及为什么是这样传入para&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="3810.42" y="6550" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-37" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="lFLFxXPaKW4gPJv4eaRB-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="商品列表" vertex="1">
+          <mxGeometry height="60" width="90" x="4060" y="6730" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
