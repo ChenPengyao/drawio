@@ -1267,13 +1267,21 @@
         <mxCell id="lFLFxXPaKW4gPJv4eaRB-4" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lFLFxXPaKW4gPJv4eaRB-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-16" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lFLFxXPaKW4gPJv4eaRB-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3240" y="6280" />
+              <mxPoint x="3240" y="6370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lFLFxXPaKW4gPJv4eaRB-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Context&lt;/b&gt;&lt;div&gt;1. main item&lt;/div&gt;&lt;div&gt;2. query&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="75" x="3145" y="6250" as="geometry" />
         </mxCell>
         <mxCell id="lFLFxXPaKW4gPJv4eaRB-9" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lFLFxXPaKW4gPJv4eaRB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lFLFxXPaKW4gPJv4eaRB-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Recall API" vertex="1">
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search Recall API" vertex="1">
           <mxGeometry height="60" width="90" x="3422.5" y="6250" as="geometry" />
         </mxCell>
         <mxCell id="lFLFxXPaKW4gPJv4eaRB-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="scenario&lt;div&gt;keyword&lt;/div&gt;" vertex="1">
@@ -1292,7 +1300,24 @@
           <mxGeometry height="60" width="90" x="3660" y="6250" as="geometry" />
         </mxCell>
         <mxCell id="lFLFxXPaKW4gPJv4eaRB-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Item_list&lt;/b&gt;&lt;div&gt;1. item_id&lt;/div&gt;&lt;div&gt;2. item_info&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="75" x="3784.42" y="6250" as="geometry" />
+          <mxGeometry height="60" width="75" x="3810.42" y="6250" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-18" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="lFLFxXPaKW4gPJv4eaRB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rcmd Recall API" vertex="1">
+          <mxGeometry height="60" width="90" x="3422.5" y="6340" as="geometry" />
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-19" edge="1" parent="1" source="lFLFxXPaKW4gPJv4eaRB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lFLFxXPaKW4gPJv4eaRB-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3770" y="6370" />
+              <mxPoint x="3770" y="6280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lFLFxXPaKW4gPJv4eaRB-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rank" vertex="1">
+          <mxGeometry height="60" width="90" x="3540" y="6340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
