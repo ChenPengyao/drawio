@@ -4962,12 +4962,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lGbePTLMqHhr7Z2eifdf" name="compareQA">
-    <mxGraphModel dx="1652" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1377" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zz6nFP6Y09iNbYcqpX5v-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" value="Planner Skill" vertex="1">
-          <mxGeometry height="367.62" width="734" x="2356" y="1047.5700000000002" as="geometry" />
+          <mxGeometry height="492.43" width="734" x="2356" y="1047.57" as="geometry" />
         </mxCell>
         <mxCell id="zz6nFP6Y09iNbYcqpX5v-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" value="item识别&lt;div&gt;给出1-2个item_id (if have)&lt;/div&gt;&lt;div&gt;&amp;lt;item_id, item_name&amp;gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="280.5" width="420" x="1910" y="1082.38" as="geometry" />
@@ -5456,16 +5456,28 @@
           <mxGeometry height="30" width="100" x="2550" y="1355.13" as="geometry" />
         </mxCell>
         <mxCell id="zz6nFP6Y09iNbYcqpX5v-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=9;" value="1. 商品列表&lt;div&gt;2. FUQ(几个对比FUQ)&lt;/div&gt;&lt;div&gt;3. ItemSelector卡片&lt;/div&gt;" vertex="1">
-          <mxGeometry height="97.75" width="150" x="2895" y="1306.38" as="geometry" />
+          <mxGeometry height="97.75" width="150" x="2895" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="zz6nFP6Y09iNbYcqpX5v-34" edge="1" parent="1" source="zz6nFP6Y09iNbYcqpX5v-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zz6nFP6Y09iNbYcqpX5v-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zz6nFP6Y09iNbYcqpX5v-38" edge="1" parent="1" source="zz6nFP6Y09iNbYcqpX5v-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="zz6nFP6Y09iNbYcqpX5v-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zz6nFP6Y09iNbYcqpX5v-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="商品搜索&lt;div&gt;(skill)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2670" y="1326.13" as="geometry" />
         </mxCell>
-        <mxCell id="zz6nFP6Y09iNbYcqpX5v-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Planner内部串联逻辑&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;复杂链路：不同item对比，不确定商品&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Planner 1: 找到xxx商品&lt;/div&gt;&lt;div&gt;Skill Call 1: product query&lt;/div&gt;&lt;div&gt;Skill Return 1: 商品列表 (id + 商品标题)&lt;br&gt;Review 1:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;确定对比的商品&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Skill Call 2: 商品对比&lt;/div&gt;&lt;div&gt;Review 2: 对比结果&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;=====&lt;/div&gt;&lt;div&gt;Review 1: 无法确定对比的商品，返回商品列表 + FUQ(对比) + ItemSelector按钮&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="290" width="310" x="1780" y="1490" as="geometry" />
+        <mxCell id="zz6nFP6Y09iNbYcqpX5v-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Planner内部串联逻辑&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;复杂链路：不同item对比，不确定商品&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Planner 1: 找到xxx商品&lt;/div&gt;&lt;div&gt;Skill Call 1: product query&lt;/div&gt;&lt;div&gt;Skill Return 1: 商品列表 (id + 商品标题)&lt;br&gt;Review 1:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;确定对比的商品 （Task描述）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Skill Call 2: 商品对比&lt;/div&gt;&lt;div&gt;Review 2: 对比结果&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;=====&lt;/div&gt;&lt;div&gt;Review 1: 无法确定对比的商品，返回商品列表 + FUQ(对比) + ItemSelector按钮&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="310" x="1770" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="zz6nFP6Y09iNbYcqpX5v-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="对比结果" vertex="1">
+          <mxGeometry height="60" width="120" x="2895" y="1282.88" as="geometry" />
+        </mxCell>
+        <mxCell id="zz6nFP6Y09iNbYcqpX5v-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="能确定商品" vertex="1">
+          <mxGeometry height="30" width="100" x="2795" y="1282.88" as="geometry" />
+        </mxCell>
+        <mxCell id="zz6nFP6Y09iNbYcqpX5v-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="不能确定商品" vertex="1">
+          <mxGeometry height="30" width="100" x="2795" y="1450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
