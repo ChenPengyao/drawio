@@ -4969,7 +4969,7 @@
         <mxCell id="zz6nFP6Y09iNbYcqpX5v-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" value="Planner Skill" vertex="1">
           <mxGeometry height="367.62" width="734" x="2356" y="1062.5600000000002" as="geometry" />
         </mxCell>
-        <mxCell id="zz6nFP6Y09iNbYcqpX5v-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" value="item识别&lt;div&gt;给出1-2个item_id&lt;/div&gt;" vertex="1">
+        <mxCell id="zz6nFP6Y09iNbYcqpX5v-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" value="item识别&lt;div&gt;给出1-2个item_id (if have)&lt;/div&gt;" vertex="1">
           <mxGeometry height="280.5" width="420" x="1910" y="1082.38" as="geometry" />
         </mxCell>
         <mxCell id="MwXm6wHVrIGCI2U1z43N-16" edge="1" parent="1" source="Yhk1lFF5Uo739TNhCyLf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MwXm6wHVrIGCI2U1z43N-14">
