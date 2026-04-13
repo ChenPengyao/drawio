@@ -5464,6 +5464,9 @@
         <mxCell id="zz6nFP6Y09iNbYcqpX5v-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="商品搜索&lt;div&gt;(skill)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="2670" y="1326.13" as="geometry" />
         </mxCell>
+        <mxCell id="zz6nFP6Y09iNbYcqpX5v-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Planner内部串联逻辑" vertex="1">
+          <mxGeometry height="200" width="310" x="1780" y="1490" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
