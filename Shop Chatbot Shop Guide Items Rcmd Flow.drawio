@@ -10419,7 +10419,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPf9kQub-XScbzcfTZbC-4" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=default;strokeColor=default;" value="User Info" vertex="1">
+        <mxCell id="lPf9kQub-XScbzcfTZbC-4" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=default;strokeColor=default;" value="User Info&lt;div&gt;(basic + push_pref )&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="120" y="360" as="geometry" />
         </mxCell>
         <mxCell id="lPf9kQub-XScbzcfTZbC-14" edge="1" parent="1" source="lPf9kQub-XScbzcfTZbC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lPf9kQub-XScbzcfTZbC-9">
