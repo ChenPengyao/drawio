@@ -10365,6 +10365,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lPf9kQub-XScbzcfTZbC-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="2 nd request" vertex="1">
+          <mxGeometry height="30" width="100" x="255" y="500" as="geometry" />
+        </mxCell>
         <mxCell id="lPf9kQub-XScbzcfTZbC-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1 st request" vertex="1">
           <mxGeometry height="30" width="100" x="250" y="200" as="geometry" />
         </mxCell>
@@ -10479,11 +10482,25 @@
         <mxCell id="lPf9kQub-XScbzcfTZbC-8" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=default;strokeColor=default;" value="System Prompt" vertex="1">
           <mxGeometry height="30" width="140" x="120" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="lPf9kQub-XScbzcfTZbC-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Push Content Generation LLM" vertex="1">
+        <mxCell id="lPf9kQub-XScbzcfTZbC-28" edge="1" parent="1" source="lPf9kQub-XScbzcfTZbC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lPf9kQub-XScbzcfTZbC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPf9kQub-XScbzcfTZbC-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Push Content Generation LLM" vertex="1">
           <mxGeometry height="60" width="120" x="400" y="295" as="geometry" />
         </mxCell>
-        <mxCell id="lPf9kQub-XScbzcfTZbC-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#0000FF;" value="2 nd request" vertex="1">
-          <mxGeometry height="30" width="100" x="255" y="500" as="geometry" />
+        <mxCell id="lPf9kQub-XScbzcfTZbC-27" edge="1" parent="1" source="lPf9kQub-XScbzcfTZbC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="lPf9kQub-XScbzcfTZbC-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="530" />
+              <mxPoint x="260" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lPf9kQub-XScbzcfTZbC-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Main Agent&lt;div&gt;Planner Agent&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="lPf9kQub-XScbzcfTZbC-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="非实时请求" vertex="1">
+          <mxGeometry height="30" width="77" x="463" y="357" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
