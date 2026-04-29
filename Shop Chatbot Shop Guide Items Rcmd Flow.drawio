@@ -10514,6 +10514,9 @@
         <mxCell id="lPf9kQub-XScbzcfTZbC-33" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="User" vertex="1">
           <mxGeometry height="60" width="30" x="640" y="295" as="geometry" />
         </mxCell>
+        <mxCell id="lPf9kQub-XScbzcfTZbC-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="push_content" vertex="1">
+          <mxGeometry height="30" width="87" x="530" y="295" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
