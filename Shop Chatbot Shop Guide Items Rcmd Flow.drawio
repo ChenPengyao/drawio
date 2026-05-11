@@ -10582,6 +10582,9 @@
         <mxCell id="iAlRlmXdThOCoVDH19rM-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="is_solved = No" vertex="1">
           <mxGeometry height="30" width="100" x="-230" y="1016" as="geometry" />
         </mxCell>
+        <mxCell id="iAlRlmXdThOCoVDH19rM-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event / TriggerModel" vertex="1">
+          <mxGeometry height="60" width="120" x="-710" y="1150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
