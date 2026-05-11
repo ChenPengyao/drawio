@@ -10586,13 +10586,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iAlRlmXdThOCoVDH19rM-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event" vertex="1">
-          <mxGeometry height="40" width="90" x="-595" y="1440" as="geometry" />
+          <mxGeometry height="40" width="90" x="-590" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="iAlRlmXdThOCoVDH19rM-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Skill List&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- push_generation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- check_shopbot_reply&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="-600" y="1220" as="geometry" />
-        </mxCell>
-        <mxCell id="iAlRlmXdThOCoVDH19rM-37" edge="1" parent="1" source="iAlRlmXdThOCoVDH19rM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="iAlRlmXdThOCoVDH19rM-35">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iAlRlmXdThOCoVDH19rM-42" edge="1" parent="1" source="iAlRlmXdThOCoVDH19rM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iAlRlmXdThOCoVDH19rM-41">
           <mxGeometry relative="1" as="geometry" />
@@ -10600,8 +10597,11 @@
         <mxCell id="iAlRlmXdThOCoVDH19rM-49" edge="1" parent="1" source="iAlRlmXdThOCoVDH19rM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iAlRlmXdThOCoVDH19rM-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iAlRlmXdThOCoVDH19rM-67" edge="1" parent="1" source="iAlRlmXdThOCoVDH19rM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iAlRlmXdThOCoVDH19rM-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iAlRlmXdThOCoVDH19rM-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Trigger Agent" vertex="1">
-          <mxGeometry height="60" width="120" x="-465" y="1430" as="geometry" />
+          <mxGeometry height="60" width="120" x="-465" y="1450" as="geometry" />
         </mxCell>
         <mxCell id="iAlRlmXdThOCoVDH19rM-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Trigger Agent Output Schema:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;Schedule: no_push / push_now / push_3_hours / retrigger_3_days&lt;div&gt;Call: push_generation / check_shopbot_reply&lt;/div&gt;&lt;div&gt;Channel: Noti / Toast / CBC&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="395" x="-600" y="1300" as="geometry" />
