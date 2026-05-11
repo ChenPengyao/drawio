@@ -10651,6 +10651,9 @@
         <mxCell id="iAlRlmXdThOCoVDH19rM-64" edge="1" parent="1" source="iAlRlmXdThOCoVDH19rM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="iAlRlmXdThOCoVDH19rM-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iAlRlmXdThOCoVDH19rM-72" edge="1" parent="1" source="iAlRlmXdThOCoVDH19rM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="iAlRlmXdThOCoVDH19rM-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iAlRlmXdThOCoVDH19rM-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Check Shopbot Reply Skill" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="1530" as="geometry" />
         </mxCell>
@@ -10669,14 +10672,20 @@
         <mxCell id="iAlRlmXdThOCoVDH19rM-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="is_resolve = Yes" vertex="1">
           <mxGeometry height="30" width="90" x="184" y="1530" as="geometry" />
         </mxCell>
-        <mxCell id="iAlRlmXdThOCoVDH19rM-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="stop / retrigger" vertex="1">
-          <mxGeometry height="40" width="90" x="65" y="1650" as="geometry" />
+        <mxCell id="iAlRlmXdThOCoVDH19rM-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="stop" vertex="1">
+          <mxGeometry height="40" width="90" x="-3" y="1650" as="geometry" />
         </mxCell>
         <mxCell id="iAlRlmXdThOCoVDH19rM-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="is_resolve = No" vertex="1">
-          <mxGeometry height="30" width="90" x="120" y="1600" as="geometry" />
+          <mxGeometry height="30" width="90" x="110" y="1590" as="geometry" />
         </mxCell>
         <mxCell id="iAlRlmXdThOCoVDH19rM-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="情形4" vertex="1">
-          <mxGeometry height="30" width="60" x="60" y="1600" as="geometry" />
+          <mxGeometry height="30" width="60" x="-10" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="iAlRlmXdThOCoVDH19rM-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Trigger Agent" vertex="1">
+          <mxGeometry height="40" width="110" x="130" y="1650" as="geometry" />
+        </mxCell>
+        <mxCell id="iAlRlmXdThOCoVDH19rM-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="情形1" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="1620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
