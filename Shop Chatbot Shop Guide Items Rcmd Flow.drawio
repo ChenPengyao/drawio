@@ -10838,6 +10838,11 @@
         <mxCell id="iAlRlmXdThOCoVDH19rM-114" parent="iAlRlmXdThOCoVDH19rM-120" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; 1. 过滤Toggle Offline店铺&lt;div&gt;&amp;nbsp; 2. 过滤无item_id的memory请求&lt;/div&gt;&lt;div&gt;&amp;nbsp; 3. 过滤无quato的用户&lt;/div&gt;&lt;div&gt;&amp;nbsp; 4. 过滤重复不合法的请求&lt;/div&gt;" vertex="1">
           <mxGeometry height="82.14" width="180" y="17.86" as="geometry" />
         </mxCell>
+        <mxCell id="iAlRlmXdThOCoVDH19rM-132" edge="1" parent="1" source="iAlRlmXdThOCoVDH19rM-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="2090.181818181818" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iAlRlmXdThOCoVDH19rM-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#CC0000;fontStyle=1" value="Proactive Agent" vertex="1">
           <mxGeometry height="60" width="120" x="230" y="2060" as="geometry" />
         </mxCell>
@@ -10852,6 +10857,9 @@
         </mxCell>
         <mxCell id="iAlRlmXdThOCoVDH19rM-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=10;" value="Channel&lt;div&gt;&lt;br&gt;&lt;div&gt;1. Toast&lt;/div&gt;&lt;div&gt;2. Noti&lt;/div&gt;&lt;div&gt;3. CBC&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="70" x="490" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="iAlRlmXdThOCoVDH19rM-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="后台下发" vertex="1">
+          <mxGeometry height="30" width="65" x="610" y="2075" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
