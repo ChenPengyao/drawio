@@ -10361,7 +10361,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N01hYjVslRrkLCc015qy" name="Proactive">
-    <mxGraphModel dx="2284" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2742" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10914,6 +10914,9 @@
         </mxCell>
         <mxCell id="JQI7k4jSgRuQsQlITaQr-19" edge="1" parent="1" source="iAlRlmXdThOCoVDH19rM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.571;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="JQI7k4jSgRuQsQlITaQr-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-1" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="shopee用户数 (traffic 1.96%)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="480" x="-40" y="2450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
