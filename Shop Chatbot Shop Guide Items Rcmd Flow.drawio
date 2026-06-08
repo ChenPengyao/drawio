@@ -10926,8 +10926,19 @@
         <mxCell id="u5--qq9Nh7mTrMVd4TpI-1" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="shopee用户数 (traffic 1.96%)&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;1,428,197&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="480" x="-40" y="2450" as="geometry" />
         </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-16" edge="1" parent="1" source="u5--qq9Nh7mTrMVd4TpI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="u5--qq9Nh7mTrMVd4TpI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u5--qq9Nh7mTrMVd4TpI-2" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="有memory intent的用户数&amp;nbsp;&lt;div&gt;(上级漏斗39.14%)&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;558,966&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="440" x="-20" y="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-17" edge="1" parent="1" source="u5--qq9Nh7mTrMVd4TpI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="u5--qq9Nh7mTrMVd4TpI-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="2725" />
+              <mxPoint x="490" y="2672" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="u5--qq9Nh7mTrMVd4TpI-3" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="memory intent 有item_id的用户数&amp;nbsp;&lt;div&gt;(上级漏斗63.32%)&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;353,943&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="400" y="2670" as="geometry" />
@@ -10944,8 +10955,14 @@
         <mxCell id="u5--qq9Nh7mTrMVd4TpI-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="Trigger Rate&lt;div&gt;7.42%&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="-220" y="2690" as="geometry" />
         </mxCell>
-        <mxCell id="u5--qq9Nh7mTrMVd4TpI-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontStyle=1" value="Memory Intent 实验组" vertex="1">
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontStyle=1" value="Memory Intent 实验组&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;以5.30的数据为例&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="430" x="-15" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-11" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="Push点击&amp;amp;下单的用户数&lt;br&gt;&lt;div&gt;(上级漏斗2.56%)&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;46&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="240" x="80" y="3110" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;rounded=0;fontSize=21;" value="&lt;b&gt;原因：有memory intent &amp;amp; item id的用户比例&lt;/b&gt;&lt;div&gt;优化方向：&lt;/div&gt;&lt;div&gt;1. 扩大memory intent Event事件，增加有intent的用户数量；100% → 102%&lt;/div&gt;&lt;div&gt;2. 提升item_id覆盖率：60% → 90%&lt;/div&gt;&lt;div&gt;3. 补充Rule事件：&lt;/div&gt;" vertex="1">
+          <mxGeometry height="205" width="490" x="560" y="2570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
