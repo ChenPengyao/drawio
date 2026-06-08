@@ -10915,8 +10915,37 @@
         <mxCell id="JQI7k4jSgRuQsQlITaQr-19" edge="1" parent="1" source="iAlRlmXdThOCoVDH19rM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.571;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="JQI7k4jSgRuQsQlITaQr-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u5--qq9Nh7mTrMVd4TpI-1" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="shopee用户数 (traffic 1.96%)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-8" edge="1" parent="1" source="u5--qq9Nh7mTrMVd4TpI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="u5--qq9Nh7mTrMVd4TpI-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="2505" />
+              <mxPoint x="-130" y="2945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-1" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="shopee用户数 (traffic 1.96%)&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;1,428,197&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="480" x="-40" y="2450" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-2" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="有memory intent的用户数&amp;nbsp;&lt;div&gt;(上级漏斗39.14%)&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;558,966&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="440" x="-20" y="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-3" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="memory intent 有item_id的用户数&amp;nbsp;&lt;div&gt;(上级漏斗63.32%)&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;353,943&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="400" y="2670" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-4" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="MPIE调模型后下发的用户数&amp;nbsp;&lt;div&gt;(上级漏斗73.22%)&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;259,157&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="360" x="20" y="2780" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-5" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="Push曝光的用户数&lt;br&gt;&lt;div&gt;(上级漏斗40.91%)&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;106,031&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="320" x="40" y="2890" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-6" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fontSize=21;" value="Push点击的用户数&lt;br&gt;&lt;div&gt;(uCTR 1.77%)&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;1,876&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="280" x="60" y="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="Trigger Rate&lt;div&gt;7.42%&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-220" y="2690" as="geometry" />
+        </mxCell>
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontStyle=1" value="Memory Intent 实验组" vertex="1">
+          <mxGeometry height="30" width="430" x="-15" y="2390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
