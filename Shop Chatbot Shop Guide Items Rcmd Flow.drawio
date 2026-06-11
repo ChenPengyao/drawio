@@ -10991,8 +10991,8 @@
         <mxCell id="u5--qq9Nh7mTrMVd4TpI-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;rounded=0;fontSize=19;dashed=1;dashPattern=1 1;" value="&lt;b&gt;原因：进入shopbot后无承接 (bot当前重复展示模版push文案&lt;/b&gt;&lt;div&gt;优化方向：&lt;/div&gt;&lt;div&gt;1. 接入Main Agent进行回复:&amp;nbsp;&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;&lt;b&gt;2.56pp → 4.34pp (Q2，整体参考新架构收益，以及Proactive优化收益)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="103" width="540" x="560" y="3113" as="geometry" />
         </mxCell>
-        <mxCell id="u5--qq9Nh7mTrMVd4TpI-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;fontStyle=5" value="Chat Clk Order:&amp;nbsp;4050.9&lt;div&gt;Shop Chat DAU:&amp;nbsp;99616&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="282.5" x="58.75" y="3235" as="geometry" />
+        <mxCell id="u5--qq9Nh7mTrMVd4TpI-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;fontStyle=5" value="Chat Clk Order: +2.3&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5%&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(+91)&lt;/span&gt;&lt;div&gt;&lt;div&gt;Shop Chat DAU: +1.17% (+1153)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="511.25" x="-55.620000000000005" y="3235" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
