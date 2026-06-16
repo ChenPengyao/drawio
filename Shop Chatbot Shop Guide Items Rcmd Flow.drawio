@@ -11029,6 +11029,9 @@
         <mxCell id="ezIHn7BqPU_4NwyCEmMS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="toast / cbc" vertex="1">
           <mxGeometry height="70" width="170" x="300" y="3800" as="geometry" />
         </mxCell>
+        <mxCell id="ezIHn7BqPU_4NwyCEmMS-36" edge="1" parent="1" source="ezIHn7BqPU_4NwyCEmMS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ezIHn7BqPU_4NwyCEmMS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ezIHn7BqPU_4NwyCEmMS-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="用户意图" vertex="1">
           <mxGeometry height="70" width="170" x="-320" y="4200" as="geometry" />
         </mxCell>
