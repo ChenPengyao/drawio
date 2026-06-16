@@ -10361,7 +10361,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N01hYjVslRrkLCc015qy" name="Proactive">
-    <mxGraphModel dx="2742" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2053" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10993,6 +10993,38 @@
         </mxCell>
         <mxCell id="u5--qq9Nh7mTrMVd4TpI-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;fontStyle=5" value="Chat Clk Order: +2.3&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5%&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(+91)&lt;/span&gt;&lt;div&gt;&lt;div&gt;Shop Chat DAU: +1.17% (+1153)&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="511.25" x="-55.620000000000005" y="3235" as="geometry" />
+        </mxCell>
+        <mxCell id="ezIHn7BqPU_4NwyCEmMS-5" edge="1" parent="1" source="ezIHn7BqPU_4NwyCEmMS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ezIHn7BqPU_4NwyCEmMS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ezIHn7BqPU_4NwyCEmMS-9" edge="1" parent="1" source="ezIHn7BqPU_4NwyCEmMS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ezIHn7BqPU_4NwyCEmMS-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="3695" />
+              <mxPoint x="-90" y="3835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezIHn7BqPU_4NwyCEmMS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="用户群" vertex="1">
+          <mxGeometry height="70" width="170" x="-320" y="3660" as="geometry" />
+        </mxCell>
+        <mxCell id="ezIHn7BqPU_4NwyCEmMS-6" edge="1" parent="1" source="ezIHn7BqPU_4NwyCEmMS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ezIHn7BqPU_4NwyCEmMS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ezIHn7BqPU_4NwyCEmMS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="1. 卖家圈群&lt;div&gt;2. 交互记录&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="170" x="-30" y="3530" as="geometry" />
+        </mxCell>
+        <mxCell id="ezIHn7BqPU_4NwyCEmMS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="可发pn/inapp noti" vertex="1">
+          <mxGeometry height="70" width="170" x="300" y="3530" as="geometry" />
+        </mxCell>
+        <mxCell id="ezIHn7BqPU_4NwyCEmMS-10" edge="1" parent="1" source="ezIHn7BqPU_4NwyCEmMS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ezIHn7BqPU_4NwyCEmMS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ezIHn7BqPU_4NwyCEmMS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="其他用户" vertex="1">
+          <mxGeometry height="70" width="170" x="-33" y="3800" as="geometry" />
+        </mxCell>
+        <mxCell id="ezIHn7BqPU_4NwyCEmMS-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" value="toast / cbc" vertex="1">
+          <mxGeometry height="70" width="170" x="300" y="3800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
