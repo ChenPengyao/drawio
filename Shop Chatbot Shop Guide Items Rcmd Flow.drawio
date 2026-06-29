@@ -10361,7 +10361,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N01hYjVslRrkLCc015qy" name="Proactive">
-    <mxGraphModel dx="3016" dy="1290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2529" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11091,6 +11091,42 @@
         </mxCell>
         <mxCell id="ezIHn7BqPU_4NwyCEmMS-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;所以自然损失会从 86.68%→54.41%&amp;nbsp;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;后台下发到前端实际曝光上报的损失👆🏻，基本各个业务一致&lt;/p&gt;" vertex="1">
           <mxGeometry height="120" width="562.83" x="1275.76" y="2923" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="640" x="-450" y="4930" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="490" x="-450" y="5090" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="新架构实验" vertex="1">
+          <mxGeometry height="30" width="128.5" x="-590" y="4965" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" value="Proactive实验" vertex="1">
+          <mxGeometry height="30" width="138.5" x="-595" y="5125" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-12" edge="1" parent="1" source="ZgxaKMvry2PIhQh4F8r8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZgxaKMvry2PIhQh4F8r8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="Proactive实验&lt;div&gt;x%&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-423.5" y="4950" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="对照组" vertex="1">
+          <mxGeometry height="60" width="120" x="-265" y="4950" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="实验组1" vertex="1">
+          <mxGeometry height="60" width="120" x="-106.5" y="4950" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="实验组n" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="4950" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="对照组&lt;div&gt;x/n=2%&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-430" y="5110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="实验组1" vertex="1">
+          <mxGeometry height="60" width="120" x="-265" y="5110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="实验组n" vertex="1">
+          <mxGeometry height="60" width="120" x="-106.5" y="5110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
