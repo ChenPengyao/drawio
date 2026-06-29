@@ -11131,6 +11131,9 @@
         <mxCell id="ZgxaKMvry2PIhQh4F8r8-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="实验组n" vertex="1">
           <mxGeometry height="60" width="120" x="-106.5" y="5110" as="geometry" />
         </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=21;" value="Proactive + Intent实验：14%&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Proactive + 单独的Rule-Base: 86%&lt;/div&gt;&lt;div&gt;3种Rule（没有任何模型）: 3个独立实验；&lt;/div&gt;&lt;div&gt;3个实验都正交的部分，就是user_id 3种规则都会触发 --- Intent实验(规则组，个同时触发) - 1.96%&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="956" x="-586" y="5340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
