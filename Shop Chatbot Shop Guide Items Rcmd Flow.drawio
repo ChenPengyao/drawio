@@ -11215,6 +11215,21 @@
         <mxCell id="ZgxaKMvry2PIhQh4F8r8-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="实验组n" vertex="1">
           <mxGeometry height="60" width="120" x="910" y="5790" as="geometry" />
         </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="1368.5" x="-590" y="6630" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="shopee 用户" vertex="1">
+          <mxGeometry height="40" width="103.5" x="-540" y="6645" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="前端实验" vertex="1">
+          <mxGeometry height="30" width="60" x="-521" y="6710" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Chat" vertex="1">
+          <mxGeometry height="40" width="103.5" x="-320" y="6645" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Chatbot" vertex="1">
+          <mxGeometry height="40" width="103.5" x="-98.25" y="6645" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
