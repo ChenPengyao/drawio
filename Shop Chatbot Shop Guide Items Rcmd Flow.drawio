@@ -11185,7 +11185,7 @@
         <mxCell id="ZgxaKMvry2PIhQh4F8r8-47" edge="1" parent="1" source="ZgxaKMvry2PIhQh4F8r8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZgxaKMvry2PIhQh4F8r8-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZgxaKMvry2PIhQh4F8r8-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="x% 旧架构" vertex="1">
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="x% 新架构" vertex="1">
           <mxGeometry height="45" width="220" x="550" y="5552.5" as="geometry" />
         </mxCell>
         <mxCell id="ZgxaKMvry2PIhQh4F8r8-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=17;" value="agent_skill" vertex="1">
