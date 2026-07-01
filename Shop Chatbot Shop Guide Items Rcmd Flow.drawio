@@ -11132,7 +11132,46 @@
           <mxGeometry height="60" width="120" x="-106.5" y="5110" as="geometry" />
         </mxCell>
         <mxCell id="ZgxaKMvry2PIhQh4F8r8-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=21;" value="Proactive + Intent实验：14%&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Proactive + 单独的Rule-Base: 86%&lt;/div&gt;&lt;div&gt;3种Rule（没有任何模型）: 3个独立实验；&lt;/div&gt;&lt;div&gt;3个实验都正交的部分，就是user_id 3种规则都会触发 --- Intent实验(规则组，个同时触发) - 1.96%&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="956" x="-586" y="5340" as="geometry" />
+          <mxGeometry height="210" width="956" x="-608.5" y="5240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=17;" value="&amp;nbsp; agent &amp;amp; skill" vertex="1">
+          <mxGeometry height="100" width="540" x="-580" y="5640" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-28" edge="1" parent="1" source="ZgxaKMvry2PIhQh4F8r8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ZgxaKMvry2PIhQh4F8r8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="对照组" vertex="1">
+          <mxGeometry height="60" width="120" x="-456.5" y="5660" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="实验组1" vertex="1">
+          <mxGeometry height="60" width="120" x="-320" y="5660" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="实验组n" vertex="1">
+          <mxGeometry height="60" width="120" x="-180" y="5660" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="1128.5" x="-578.5" y="5540" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="50% 新架构" vertex="1">
+          <mxGeometry height="45" width="498.5" x="-538.5" y="5552.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="50% 旧架构" vertex="1">
+          <mxGeometry height="45" width="510" x="10" y="5552.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=17;" value="&amp;nbsp; Proactive" vertex="1">
+          <mxGeometry height="100" width="540" x="-580" y="5770" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="对照组" vertex="1">
+          <mxGeometry height="60" width="120" x="-456.5" y="5790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="实验组1" vertex="1">
+          <mxGeometry height="60" width="120" x="-320" y="5790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" value="实验组n" vertex="1">
+          <mxGeometry height="60" width="120" x="-180" y="5790" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgxaKMvry2PIhQh4F8r8-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=17;" value="&amp;nbsp; Proactive (规则配置，无模型)" vertex="1">
+          <mxGeometry height="100" width="540" x="10" y="5640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
